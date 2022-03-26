@@ -2305,3 +2305,200 @@
 [2022-03-26 16:38:49] QUIT: nox left the game [Quit]
 [2022-03-26 16:38:49] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
 [2022-03-26 16:38:49] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-26 16:39:51] QUIT: nox left the game [Quit]
+[2022-03-26 16:39:51] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 16:39:51] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-26 16:41:13] restart: Requested by Console
+[2022-03-26 16:41:13] restart: Resource restarting...
+[2022-03-26 16:41:13] Stopping auth
+[2022-03-26 16:41:13] Resource 'auth' changed, reloading and starting
+[2022-03-26 16:41:13] Starting auth
+[2022-03-26 16:41:13] auth restarted successfully
+[2022-03-26 16:41:16] QUIT: nox left the game [Quit]
+[2022-03-26 16:41:16] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 16:41:16] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-26 16:43:21] QUIT: nox left the game [Quit]
+[2022-03-26 16:43:22] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 16:43:22] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-26 16:44:01] restart: Requested by Console
+[2022-03-26 16:44:01] restart: Resource restarting...
+[2022-03-26 16:44:01] Stopping auth
+[2022-03-26 16:44:01] Resource 'auth' changed, reloading and starting
+[2022-03-26 16:44:01] Starting auth
+[2022-03-26 16:44:01] SCRIPT ERROR: auth\event.lua:9: unexpected symbol near '^'
+[2022-03-26 16:44:01] ERROR: Loading script failed: auth\event.lua:9: unexpected symbol near '^'
+[2022-03-26 16:44:01] auth restarted successfully
+[2022-03-26 16:44:13] restart: Requested by Console
+[2022-03-26 16:44:13] restart: Resource restarting...
+[2022-03-26 16:44:13] Stopping auth
+[2022-03-26 16:44:13] Resource 'auth' changed, reloading and starting
+[2022-03-26 16:44:13] Starting auth
+[2022-03-26 16:44:13] auth restarted successfully
+[2022-03-26 16:44:18] QUIT: nox left the game [Quit]
+[2022-03-26 16:44:18] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 16:44:18] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-26 16:48:42] New resource 'nametag' loaded
+[2022-03-26 16:48:42] Resources: 9 loaded, 0 failed
+[2022-03-26 16:48:50] start: Requested by Console
+[2022-03-26 16:48:50] Starting nametag
+[2022-03-26 16:48:50] start: Resource 'nametag' started
+[2022-03-26 16:49:17] start: Requested by Console
+[2022-03-26 16:49:17] start: Resource is already running
+[2022-03-26 16:49:18] restart: Requested by Console
+[2022-03-26 16:49:18] restart: Resource restarting...
+[2022-03-26 16:49:18] Stopping auth
+[2022-03-26 16:49:18] Resource 'auth' changed, reloading and starting
+[2022-03-26 16:49:18] Starting auth
+[2022-03-26 16:49:18] auth restarted successfully
+[2022-03-26 16:49:30] restart: Requested by Console
+[2022-03-26 16:49:30] restart: Resource restarting...
+[2022-03-26 16:49:30] Stopping nametag
+[2022-03-26 16:49:30] Starting nametag
+[2022-03-26 16:49:30] nametag restarted successfully
+[2022-03-26 16:50:22] restart: Requested by Console
+[2022-03-26 16:50:22] restart: Resource restarting...
+[2022-03-26 16:50:22] Stopping nametag
+[2022-03-26 16:50:22] Resource 'nametag' changed, reloading and starting
+[2022-03-26 16:50:22] Starting nametag
+[2022-03-26 16:50:22] nametag restarted successfully
+[2022-03-26 16:50:38] restart: Requested by Console
+[2022-03-26 16:50:38] restart: Resource restarting...
+[2022-03-26 16:50:38] Stopping nametag
+[2022-03-26 16:50:38] Resource 'nametag' changed, reloading and starting
+[2022-03-26 16:50:38] Starting nametag
+[2022-03-26 16:50:38] nametag restarted successfully
+[2022-03-26 16:52:30] restart: Requested by Console
+[2022-03-26 16:52:30] restart: Resource restarting...
+[2022-03-26 16:52:30] Stopping nametag
+[2022-03-26 16:52:30] Resource 'nametag' changed, reloading and starting
+[2022-03-26 16:52:30] Starting nametag
+[2022-03-26 16:52:30] nametag restarted successfully
+[2022-03-26 16:53:11] restart: Requested by Console
+[2022-03-26 16:53:11] restart: Resource restarting...
+[2022-03-26 16:53:11] Stopping nametag
+[2022-03-26 16:53:11] Resource 'nametag' changed, reloading and starting
+[2022-03-26 16:53:11] Starting nametag
+[2022-03-26 16:53:11] nametag restarted successfully
+[2022-03-26 16:53:24] QUIT: nox left the game [Quit]
+[2022-03-26 16:53:25] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 16:53:25] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-26 16:54:24] Server stopped!
+[2022-03-26 16:54:24] Stopping resources............
+[2022-03-26 16:54:24] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9 [64 bit]
+==================================================================
+= Server name      : ww3 altyapi
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ww3-altyapi/mods/deathmatch/logs/server.log
+= Maximum players  : 4000
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2022-03-26 16:55:16] Resources: 9 loaded, 0 failed
+[2022-03-26 16:55:16] Starting resources...
+[2022-03-26 16:55:16] INFO: Database baglantisi basarili. - nox
+[2022-03-26 16:55:16] start: Resource 'sqlite' started
+[2022-03-26 16:55:16] Server minclientversion is now 1.5.9-9.21129.0
+[2022-03-26 16:55:16] start: Resource 'fonts' started
+[2022-03-26 16:55:16] start: Resource 'auth' started
+[2022-03-26 16:55:16] start: Resource 'main' started
+[2022-03-26 16:55:16] start: Resource 'cpu' started
+[2022-03-26 16:55:16] start: Resource 'debug' started
+[2022-03-26 16:55:16] WARNING: guieditor <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.6-9.14489 because of 'guiComboBoxGetItemCount')
+[2022-03-26 16:55:16] WARNING: guieditor requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.6-9.14489 because of 'guiComboBoxGetItemCount')
+[2022-03-26 16:55:16] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2022-03-26 16:55:16] start: Resource 'guieditor' started
+[2022-03-26 16:55:16] start: Resource 'nametag' started
+[2022-03-26 16:55:16] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2022-03-26 16:55:16] Server started and is ready to accept connections!
+[2022-03-26 16:55:16] To stop the server, type 'shutdown' or press Ctrl-C
+[2022-03-26 16:55:16] Type 'help' for a list of commands.
+[2022-03-26 16:55:16] Querying MTA master server... success! (Auto detected IP:212.154.66.131)
+[2022-03-26 16:55:21] start: Requested by Console
+[2022-03-26 16:55:21] start: Resource is already running
+[2022-03-26 16:55:25] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 16:55:25] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-26 16:56:56] start: Requested by Console
+[2022-03-26 16:56:56] start: Resource is already running
+[2022-03-26 16:56:59] restart: Requested by Console
+[2022-03-26 16:56:59] restart: Resource restarting...
+[2022-03-26 16:56:59] Stopping nametag
+[2022-03-26 16:56:59] Resource 'nametag' changed, reloading and starting
+[2022-03-26 16:56:59] Starting nametag
+[2022-03-26 16:56:59] nametag restarted successfully
+[2022-03-26 16:58:19] restart: Requested by Console
+[2022-03-26 16:58:19] restart: Resource restarting...
+[2022-03-26 16:58:19] Stopping nametag
+[2022-03-26 16:58:19] Resource 'nametag' changed, reloading and starting
+[2022-03-26 16:58:19] Starting nametag
+[2022-03-26 16:58:19] nametag restarted successfully
+[2022-03-26 16:58:52] restart: Requested by Console
+[2022-03-26 16:58:52] restart: Resource restarting...
+[2022-03-26 16:58:52] Stopping nametag
+[2022-03-26 16:58:52] Resource 'nametag' changed, reloading and starting
+[2022-03-26 16:58:52] Starting nametag
+[2022-03-26 16:58:52] nametag restarted successfully
+[2022-03-26 16:59:17] restart: Requested by Console
+[2022-03-26 16:59:17] restart: Resource restarting...
+[2022-03-26 16:59:17] Stopping nametag
+[2022-03-26 16:59:17] Resource 'nametag' changed, reloading and starting
+[2022-03-26 16:59:17] Starting nametag
+[2022-03-26 16:59:17] nametag restarted successfully
+[2022-03-26 16:59:31] reloadacl: ACL successfully reloaded
+[2022-03-26 17:00:37] reloadacl: ACL successfully reloaded
+[2022-03-26 17:00:38] restart: Requested by Console
+[2022-03-26 17:00:38] restart: Resource restarting...
+[2022-03-26 17:00:38] Stopping nametag
+[2022-03-26 17:00:38] Resource 'nametag' changed, reloading and starting
+[2022-03-26 17:00:38] Starting nametag
+[2022-03-26 17:00:38] nametag restarted successfully
+[2022-03-26 17:00:56] restart: Requested by Console
+[2022-03-26 17:00:56] restart: Resource restarting...
+[2022-03-26 17:00:56] Stopping nametag
+[2022-03-26 17:00:56] Resource 'nametag' changed, reloading and starting
+[2022-03-26 17:00:56] Starting nametag
+[2022-03-26 17:00:56] nametag restarted successfully
+[2022-03-26 17:02:47] restart: Requested by Console
+[2022-03-26 17:02:47] restart: Resource restarting...
+[2022-03-26 17:02:47] Stopping nametag
+[2022-03-26 17:02:47] Resource 'nametag' changed, reloading and starting
+[2022-03-26 17:02:47] ERROR: Couldn't find file white.jpg for resource nametag
+[2022-03-26 17:02:47] Loading of resource 'nametag' failed
+[2022-03-26 17:02:47] ERROR: Unable to restart resource nametag
+[2022-03-26 17:02:58] restart: Requested by Console
+[2022-03-26 17:02:58] restart: Resource is loaded, but has errors (Couldn't find file white.jpg for resource nametag)
+[2022-03-26 17:03:00] Resource 'nametag' changed, reloading
+[2022-03-26 17:03:00] New resource 'nametag' loaded
+[2022-03-26 17:03:00] Resources: 9 loaded, 0 failed
+[2022-03-26 17:03:02] restart: Requested by Console
+[2022-03-26 17:03:02] restart: Resource restarting...
+[2022-03-26 17:03:02] Stopping auth
+[2022-03-26 17:03:02] Resource 'auth' changed, reloading and starting
+[2022-03-26 17:03:02] Starting auth
+[2022-03-26 17:03:02] auth restarted successfully
+[2022-03-26 17:03:04] QUIT: nox left the game [Quit]
+[2022-03-26 17:03:04] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 17:03:04] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-26 17:03:34] restart: Requested by Console
+[2022-03-26 17:03:34] restart: Resource restarting...
+[2022-03-26 17:03:34] Stopping auth
+[2022-03-26 17:03:34] Starting auth
+[2022-03-26 17:03:34] auth restarted successfully
+[2022-03-26 17:03:35] restart: Requested by Console
+[2022-03-26 17:03:35] restart: Resource is not running
+[2022-03-26 17:03:39] start: Requested by Console
+[2022-03-26 17:03:39] Resource 'nametag' changed, reloading and starting
+[2022-03-26 17:03:39] Starting nametag
+[2022-03-26 17:03:39] start: Resource 'nametag' started
+[2022-03-26 17:04:09] start: Requested by Console
+[2022-03-26 17:04:09] start: Resource is already running
+[2022-03-26 17:04:12] restart: Requested by Console
+[2022-03-26 17:04:12] restart: Resource restarting...
+[2022-03-26 17:04:12] Stopping nametag
+[2022-03-26 17:04:12] Resource 'nametag' changed, reloading and starting
+[2022-03-26 17:04:12] Starting nametag
+[2022-03-26 17:04:12] nametag restarted successfully

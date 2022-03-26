@@ -7,6 +7,8 @@ addEvent('login:attempt',true)
 addEventHandler('login:attempt',root,function(user, pass)
     for k, v in pairs(accounts) do
         if tostring(user) == v.username and tostring(pass) == v.password then
+            setElementData(source, 'account:username', v.username)
+            setElementData(source, 'dbid', v.id)
             triggerClientEvent('remove:render',source)
             outputChatBox('Giriş başarılı.',source)
             spawnPlayer(source,0,0,2)

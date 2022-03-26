@@ -28,6 +28,7 @@
         <acl name="Admin"></acl>
         <acl name="RPC"></acl>
         <object name="user.yourpalemir"></object>
+		<object name="resource.*"></object>
     </group>
     <group name="RPC">
         <acl name="RPC"></acl>

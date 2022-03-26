@@ -94,6 +94,7 @@ if not showing then
     addEventHandler('onClientRender',root,draw)
     addEventHandler('onClientCharacter',root,eventWrite)
     showCursor(true)
+    guiSetInputMode('no_binds')
     account_Crends = requestedAccount
     showing = true
     selectedText = nil
@@ -104,6 +105,7 @@ else
     setElementData(localPlayer,'isLogging',false)
     removeEventHandler('onClientRender',root,draw)
     removeEventHandler('onClientCharacter',root,eventWrite)
+    guiSetInputMode('allow_binds')
     showCursor(false)
     showing = false
     selectedText = nil
@@ -150,9 +152,10 @@ end
 
 function removeRender()
     setElementData(localPlayer,'isLogging',false)
-    setElementData('isLogged', true)
+    setElementData(localPlayer  ,'isLogged', true)
     removeEventHandler('onClientRender',root,draw)
     removeEventHandler('onClientCharacter',root,eventWrite)
+    guiSetInputMode('allow_binds')
     showCursor(false)
     showing = false
     selectedText = nil
