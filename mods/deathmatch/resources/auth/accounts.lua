@@ -1,3 +1,1 @@
-accounts = {
-    {user='emir', pass='emir'}
-}
+accounts = {}

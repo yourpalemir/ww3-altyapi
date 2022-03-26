@@ -1,5 +1,5 @@
 Instance = {
-	primary_resources = {'auth', 'global', 'fonts'},
+	primary_resources = {'sqlite', 'fonts', 'auth', 'main'},
 
 	start = function(self)
 		for index, resource in ipairs(self.primary_resources) do

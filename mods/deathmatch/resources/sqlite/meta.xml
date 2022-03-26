@@ -1,0 +1,4 @@
+<meta>
+<script src="db.lua" type="server" cache="false"/>
+<export function="getConnection" type="server" />
+</meta>

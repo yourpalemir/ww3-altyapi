@@ -76,6 +76,10 @@ function draw()
                         else
                             outputChatBox('Lütfen boşlukları eksiksiz doldurun.')
                         return end
+                    elseif k == 2 then
+                        if #userText > 0 and #passText > 0 then
+                            triggerServerEvent('register:request', localPlayer, userText, passText)
+                        end
                     end
                 end 
                 dxDrawRectangle(nx+w/6+225/3.75,ny+135 - 30 + (k * 30),w-225, h-175, tocolor(40,40,40))
@@ -84,18 +88,20 @@ function draw()
         end
     end
 end
-
-function playerJoined()
+function playerJoined(account_Crends)
 if not showing then
+    setElementData(localPlayer,'isLogging',true)
     addEventHandler('onClientRender',root,draw)
     addEventHandler('onClientCharacter',root,eventWrite)
     showCursor(true)
+    account_Crends = requestedAccount
     showing = true
     selectedText = nil
     click = 0
     userText = ''
     passText = ''
 else
+    setElementData(localPlayer,'isLogging',false)
     removeEventHandler('onClientRender',root,draw)
     removeEventHandler('onClientCharacter',root,eventWrite)
     showCursor(false)
@@ -143,6 +149,8 @@ function delete()
 end
 
 function removeRender()
+    setElementData(localPlayer,'isLogging',false)
+    setElementData('isLogged', true)
     removeEventHandler('onClientRender',root,draw)
     removeEventHandler('onClientCharacter',root,eventWrite)
     showCursor(false)
@@ -151,3 +159,9 @@ function removeRender()
 end
 addEvent('remove:render',true)
 addEventHandler('remove:render',root,removeRender)
+
+function asyncDef(username, password, serial)
+    account_Crends = {username=username, password=password, serial=serial}
+end     
+addEvent('request:async', true)
+addEventHandler('request:async', root, asyncDef)
