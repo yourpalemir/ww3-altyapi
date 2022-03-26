@@ -1,3 +1,5 @@
+-- Account sistemi tamamen bitti, back-end kısım için @violencedev'e teşekkürler!
+
 screen = Vector2(guiGetScreenSize())
 w, h = 300, 200
 nx, ny = (screen.x-w)/2, (screen.y-h)/2
