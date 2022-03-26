@@ -1,0 +1,1986 @@
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9 [64 bit]
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : D:/ww3/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2022-03-06 05:31:13] File 'settings.xml' not present, creating new node.
+[2022-03-06 05:31:13] Starting resources...
+[2022-03-06 05:31:13] ERROR: Couldn't find resource admin. Check it exists.
+[2022-03-06 05:31:13] ERROR: Couldn't find resource defaultstats. Check it exists.
+[2022-03-06 05:31:13] ERROR: Couldn't find resource helpmanager. Check it exists.
+[2022-03-06 05:31:13] ERROR: Couldn't find resource joinquit. Check it exists.
+[2022-03-06 05:31:13] ERROR: Couldn't find resource mapcycler. Check it exists.
+[2022-03-06 05:31:13] ERROR: Couldn't find resource mapmanager. Check it exists.
+[2022-03-06 05:31:13] ERROR: Couldn't find resource parachute. Check it exists.
+[2022-03-06 05:31:13] ERROR: Couldn't find resource performancebrowser. Check it exists.
+[2022-03-06 05:31:13] ERROR: Couldn't find resource ipb. Check it exists.
+[2022-03-06 05:31:13] ERROR: Couldn't find resource reload. Check it exists.
+[2022-03-06 05:31:13] ERROR: Couldn't find resource resourcebrowser. Check it exists.
+[2022-03-06 05:31:13] ERROR: Couldn't find resource resourcemanager. Check it exists.
+[2022-03-06 05:31:13] ERROR: Couldn't find resource scoreboard. Check it exists.
+[2022-03-06 05:31:13] ERROR: Couldn't find resource spawnmanager. Check it exists.
+[2022-03-06 05:31:13] ERROR: Couldn't find resource voice. Check it exists.
+[2022-03-06 05:31:13] ERROR: Couldn't find resource votemanager. Check it exists.
+[2022-03-06 05:31:13] ERROR: Couldn't find resource webadmin. Check it exists.
+[2022-03-06 05:31:13] ERROR: Couldn't find resource play. Check it exists.
+[2022-03-06 05:31:13] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2022-03-06 05:31:13] WARNING: <owner_email_address> not set
+[2022-03-06 05:31:13] Server started and is ready to accept connections!
+[2022-03-06 05:31:13] To stop the server, type 'shutdown' or press Ctrl-C
+[2022-03-06 05:31:13] Type 'help' for a list of commands.
+[2022-03-06 05:31:16] Querying MTA master server... success! (Auto detected IP:212.154.66.122)
+[2022-03-06 05:31:52] Server stopped!
+[2022-03-06 05:31:52] Stopping resources...
+[2022-03-06 05:31:52] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9 [64 bit]
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : D:/ww3/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2022-03-06 05:31:55] Compacting accounts database 'internal.db' ...
+[2022-03-06 05:31:55] Compacting database 'registry.db' ...
+[2022-03-06 05:31:55] Starting resources...
+[2022-03-06 05:31:55] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2022-03-06 05:31:55] WARNING: <owner_email_address> not set
+[2022-03-06 05:31:55] Server started and is ready to accept connections!
+[2022-03-06 05:31:55] To stop the server, type 'shutdown' or press Ctrl-C
+[2022-03-06 05:31:55] Type 'help' for a list of commands.
+[2022-03-06 05:31:56] Querying MTA master server... success! (Auto detected IP:212.154.66.122)
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9 [64 bit]
+==================================================================
+= Server name      : Unt Roleplay [untroleplay.com] Sesli/Yazılı Global Medium+ (Türk/Türk Sunucusu)
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ../ww3/server/mods/deathmatch/logs/server.log
+= Maximum players  : 4000
+= HTTP port        : 22005
+= Voice Chat       : Quality [10];  Sample Rate: [16000Hz]
+= Bandwidth saving : None
+==================================================================
+[2022-03-18 04:36:51] Compacting accounts database 'internal.db' ...
+[2022-03-18 04:36:54] ERROR: Couldn't find map pavlovbtmap.map for resource pavlovbtmap
+[2022-03-18 04:36:54] Loading of resource 'pavlovbtmap' failed
+[2022-03-18 04:37:01] ERROR: Problem with resource: pavlovbtmap; Couldn't find map pavlovbtmap.map for resource pavlovbtmap
+[2022-03-18 04:37:01] Resources: 185 loaded, 1 failed
+[2022-03-18 04:37:01] Compacting database 'registry.db' ...
+[2022-03-18 04:37:02] MODULE: File not found - x64\modules\mta_mysql.dll
+[2022-03-18 04:37:02] Starting resources...
+[2022-03-18 04:37:04] INFO: Connect to database.
+[2022-03-18 04:37:04] start: Resource 'mysql' started
+[2022-03-18 04:37:04] Server minclientversion is now 1.5.8-9.20927.0
+[2022-03-18 04:37:04] start: Resource 'global' started
+[2022-03-18 04:37:04] ERROR: [infrastructure]\pool\core\server-side.lua:147: exports: Call to non-running server resource (data) [string "?"]
+[2022-03-18 04:37:04] ERROR: [infrastructure]\pool\core\server-side.lua:151: exports: Call to non-running server resource (data) [string "?"]
+[2022-03-18 04:37:04] start: Resource 'pool' started
+[2022-03-18 04:37:04] start: Resource 'data' started
+[2022-03-18 04:37:04] start: Resource 'fonts' started
+[2022-03-18 04:37:05] start: Resource 'Latin' started
+[2022-03-18 04:37:05] ERROR: [infrastructure]\admins\server\s_manager.lua:3: exports: Call to non-running server resource (integration) [string "?"]
+[2022-03-18 04:37:05] start: Resource 'admins' started
+[2022-03-18 04:37:05] start: Resource 'advertisements' started
+[2022-03-18 04:37:05] start: Resource 'ammunation' started
+[2022-03-18 04:37:05] start: Resource 'animations' started
+[2022-03-18 04:37:05] start: Resource 'antibind' started
+[2022-03-18 04:37:05] start: Resource 'anticheat' started
+[2022-03-18 04:37:05] start: Resource 'antispam' started
+[2022-03-18 04:37:05] start: Resource 'artifacts' started
+[2022-03-18 04:37:06] start: Resource 'auth' started
+[2022-03-18 04:37:06] start: Resource 'bank' started
+[2022-03-18 04:37:06] start: Resource 'bankaetrafs' started
+[2022-03-18 04:37:06] start: Resource 'bankakarsi' started
+[2022-03-18 04:37:06] start: Resource 'bans' started
+[2022-03-18 04:37:06] start: Resource 'blackshop' started
+[2022-03-18 04:37:06] start: Resource 'blur' started
+[2022-03-18 04:37:06] start: Resource 'bone_attach' started
+[2022-03-18 04:37:06] start: Resource 'cache' started
+[2022-03-18 04:37:06] start: Resource 'camera' started
+[2022-03-18 04:37:06] start: Resource 'carradio' started
+[2022-03-18 04:37:06] start: Resource 'cctv' started
+[2022-03-18 04:37:06] start: Resource 'cetemap' started
+[2022-03-18 04:37:06] start: Resource 'chat' started
+[2022-03-18 04:37:06] start: Resource 'clearlights' started
+[2022-03-18 04:37:06] start: Resource 'clothes' started
+[2022-03-18 04:37:06] start: Resource 'coloration' started
+[2022-03-18 04:37:06] start: Resource 'colorblender' started
+[2022-03-18 04:37:06] start: Resource 'computers' started
+[2022-03-18 04:37:06] start: Resource 'country' started
+[2022-03-18 04:37:06] start: Resource 'cpu' started
+[2022-03-18 04:37:06] start: Resource 'ctree' started
+[2022-03-18 04:37:06] start: Resource 'damages' started
+[2022-03-18 04:37:06] start: Resource 'datetime' started
+[2022-03-18 04:37:06] start: Resource 'death' started
+[2022-03-18 04:37:06] start: Resource 'deathanim' started
+[2022-03-18 04:37:06] start: Resource 'debug' started
+[2022-03-18 04:37:06] start: Resource 'description' started
+[2022-03-18 04:37:06] start: Resource 'draw' started
+[2022-03-18 04:37:06] start: Resource 'driveby' started
+[2022-03-18 04:37:06] start: Resource 'drug' started
+[2022-03-18 04:37:06] start: Resource 'egm' started
+[2022-03-18 04:37:06] start: Resource 'egmtexture' started
+[2022-03-18 04:37:06] start: Resource 'ehliyetmap' started
+[2022-03-18 04:37:06] start: Resource 'ehliyetobje' started
+[2022-03-18 04:37:06] start: Resource 'elementclick' started
+[2022-03-18 04:37:06] start: Resource 'elevators' started
+[2022-03-18 04:37:06] start: Resource 'factions' started
+[2022-03-18 04:37:06] start: Resource 'factionscripts' started
+[2022-03-18 04:37:06] start: Resource 'flags' started
+[2022-03-18 04:37:06] start: Resource 'freecam' started
+[2022-03-18 04:37:06] start: Resource 'fthmap' started
+[2022-03-18 04:37:06] start: Resource 'funfair' started
+[2022-03-18 04:37:06] start: Resource 'gambling' started
+[2022-03-18 04:37:06] start: Resource 'garage_col' started
+[2022-03-18 04:37:06] start: Resource 'garage_map' started
+[2022-03-18 04:37:06] start: Resource 'gate_manager' started
+[2022-03-18 04:37:06] start: Resource 'gatekeepers' started
+[2022-03-18 04:37:06] start: Resource 'generalshop' started
+[2022-03-18 04:37:06] start: Resource 'glassremover' started
+[2022-03-18 04:37:06] start: Resource 'glue' started
+[2022-03-18 04:37:06] start: Resource 'grassremover' started
+[2022-03-18 04:37:06] start: Resource 'handcuff' started
+[2022-03-18 04:37:06] start: Resource 'hastanekson' started
+[2022-03-18 04:37:06] start: Resource 'heligrab' started
+[2022-03-18 04:37:06] start: Resource 'hmap_1' started
+[2022-03-18 04:37:06] start: Resource 'hmap_2' started
+[2022-03-18 04:37:06] start: Resource 'hmap_4' started
+[2022-03-18 04:37:06] start: Resource 'hmap_5' started
+[2022-03-18 04:37:06] start: Resource 'horseracing' started
+[2022-03-18 04:37:06] start: Resource 'hospitaltext' started
+[2022-03-18 04:37:07] start: Resource 'house_1' started
+[2022-03-18 04:37:07] start: Resource 'house_3' started
+[2022-03-18 04:37:07] start: Resource 'house_4' started
+[2022-03-18 04:37:07] start: Resource 'house_5' started
+[2022-03-18 04:37:07] start: Resource 'hud' started
+[2022-03-18 04:37:07] start: Resource 'identity' started
+[2022-03-18 04:37:07] start: Resource 'igsarka' started
+[2022-03-18 04:37:07] start: Resource 'igsetraf' started
+[2022-03-18 04:37:07] start: Resource 'igsks' started
+[2022-03-18 04:37:07] start: Resource 'info' started
+[2022-03-18 04:37:07] start: Resource 'infoscreen' started
+[2022-03-18 04:37:07] start: Resource 'integration' started
+[2022-03-18 04:37:07] start: Resource 'interface' started
+[2022-03-18 04:37:07] start: Resource 'interior_bank' started
+[2022-03-18 04:37:07] start: Resource 'interior_cabinet' started
+[2022-03-18 04:37:07] start: Resource 'interior_manager' started
+[2022-03-18 04:37:07] start: Resource 'interiors' started
+[2022-03-18 04:37:07] start: Resource 'item_move' started
+[2022-03-18 04:37:07] ERROR: [infrastructure]\item_texture\s_itemtexture.lua:4: exports: Call to non-running server resource (items) [string "?"]
+[2022-03-18 04:37:08] ERROR: [infrastructure]\item_texture\s_itemtexture.lua:17: exports: Call to non-running server resource (items) [string "?"]
+[2022-03-18 04:37:08] WARNING: [infrastructure]\item_texture\s_itemtexture.lua:25: Bad argument @ 'getElementsByType' [Expected element at argument 2, got boolean]
+[2022-03-18 04:37:08] ERROR: [infrastructure]\item_texture\s_itemtexture.lua:30: bad argument #1 to 'ipairs' (table expected, got boolean)
+[2022-03-18 04:37:08] start: Resource 'item_texture' started
+[2022-03-18 04:37:08] ERROR: [infrastructure]\item_world\g_permissions.lua:3: exports: Call to non-running server resource (items) [string "?"]
+[2022-03-18 04:37:08] ERROR: [infrastructure]\item_world\s_load_items.lua:108: attempt to perform arithmetic on global 'timerDelay' (a nil value)
+[2022-03-18 04:37:08] start: Resource 'item_world' started
+[2022-03-18 04:37:08] start: Resource 'items' started
+[2022-03-18 04:37:08] start: Resource 'jobs' started
+[2022-03-18 04:37:08] start: Resource 'keycopy' started
+[2022-03-18 04:37:08] start: Resource 'kizkulesi' started
+[2022-03-18 04:37:08] start: Resource 'kizkulesiobje' started
+[2022-03-18 04:37:08] start: Resource 'labelstats' started
+[2022-03-18 04:37:08] start: Resource 'languages' started
+[2022-03-18 04:37:08] start: Resource 'license' started
+[2022-03-18 04:37:08] start: Resource 'lightfix' started
+[2022-03-18 04:37:08] start: Resource 'logapi' started
+[2022-03-18 04:37:08] start: Resource 'logs' started
+[2022-03-18 04:37:08] start: Resource 'lowshade' started
+[2022-03-18 04:37:08] start: Resource 'mafyamap' started
+[2022-03-18 04:37:08] start: Resource 'map1' started
+[2022-03-18 04:37:08] start: Resource 'map2' started
+[2022-03-18 04:37:08] start: Resource 'map3' started
+[2022-03-18 04:37:08] start: Resource 'map4' started
+[2022-03-18 04:37:08] start: Resource 'map5' started
+[2022-03-18 04:37:08] start: Resource 'mdc' started
+[2022-03-18 04:37:08] start: Resource 'minimap' started
+[2022-03-18 04:37:09] start: Resource 'mods' started
+[2022-03-18 04:37:09] Please wait...
+[2022-03-18 04:37:09] Please wait...
+[2022-03-18 04:37:09] start: Resource 'navigation' started
+[2022-03-18 04:37:09] start: Resource 'neon' started
+[2022-03-18 04:37:10] start: Resource 'notification' started
+[2022-03-18 04:37:10] start: Resource 'npc' started
+[2022-03-18 04:37:10] start: Resource 'object_interaction' started
+[2022-03-18 04:37:10] start: Resource 'object_preview' started
+[2022-03-18 04:37:10] start: Resource 'object_system' started
+[2022-03-18 04:37:10] start: Resource 'official_interiors' started
+[2022-03-18 04:37:10] start: Resource 'parachute' started
+[2022-03-18 04:37:10] start: Resource 'patatesmap' started
+[2022-03-18 04:37:10] WARNING: [infrastructure]\starter\server.lua:10: Failed to start resource 'pavlovbtmap': Couldn't find map pavlovbtmap.map for resource pavlovbtmap
+[2022-03-18 04:37:10] start: Resource 'pavyon' started
+[2022-03-18 04:37:10] start: Resource 'payday' started
+[2022-03-18 04:37:10] start: Resource 'paynspray' started
+[2022-03-18 04:37:10] start: Resource 'peds' started
+[2022-03-18 04:37:10] start: Resource 'phone' started
+[2022-03-18 04:37:10] start: Resource 'pizzastack' started
+[2022-03-18 04:37:10] start: Resource 'playerlist' started
+[2022-03-18 04:37:10] start: Resource 'police_door' started
+[2022-03-18 04:37:10] start: Resource 'police_int_objects' started
+[2022-03-18 04:37:10] start: Resource 'police_interior' started
+[2022-03-18 04:37:10] start: Resource 'prison' started
+[2022-03-18 04:37:10] start: Resource 'privateshop' started
+[2022-03-18 04:37:10] start: Resource 'proximity_voice' started
+[2022-03-18 04:37:10] start: Resource 'quitlog' started
+[2022-03-18 04:37:10] start: Resource 'radar' started
+[2022-03-18 04:37:10] start: Resource 'ramp' started
+[2022-03-18 04:37:10] start: Resource 'realism' started
+[2022-03-18 04:37:10] start: Resource 'realtime' started
+[2022-03-18 04:37:10] start: Resource 'rentcar' started
+[2022-03-18 04:37:10] INFO: Loaded 0 reports.
+[2022-03-18 04:37:10] start: Resource 'reports' started
+[2022-03-18 04:37:10] start: Resource 'resources' started
+[2022-03-18 04:37:10] start: Resource 'roadblock' started
+[2022-03-18 04:37:10] start: Resource 'robber' started
+[2022-03-18 04:37:10] start: Resource 'rulet' started
+[2022-03-18 04:37:10] start: Resource 'save' started
+[2022-03-18 04:37:10] start: Resource 'showlicense' started
+[2022-03-18 04:37:11] start: Resource 'skinshop' started
+[2022-03-18 04:37:11] start: Resource 'social' started
+[2022-03-18 04:37:11] start: Resource 'soundpanel' started
+[2022-03-18 04:37:11] start: Resource 'speedo' started
+[2022-03-18 04:37:11] start: Resource 'starbucksobje' started
+[2022-03-18 04:37:11] start: Resource 'stathud' started
+[2022-03-18 04:37:11] start: Resource 'switchdraw' started
+[2022-03-18 04:37:11] start: Resource 'textures' started
+[2022-03-18 04:37:11] start: Resource 'toll' started
+[2022-03-18 04:37:11] start: Resource 'tooltips' started
+[2022-03-18 04:37:11] start: Resource 'trailersync' started
+[2022-03-18 04:37:11] start: Resource 'ulkuocak' started
+[2022-03-18 04:37:12] start: Resource 'vehicle' started
+[2022-03-18 04:37:12] start: Resource 'vehicle_bring' started
+[2022-03-18 04:37:12] start: Resource 'vehicle_fuel' started
+[2022-03-18 04:37:12] start: Resource 'vehicle_interiors' started
+[2022-03-18 04:37:12] start: Resource 'vehicle_manager' started
+[2022-03-18 04:37:13] WARNING: File 'files/bmw.dff' in resource 'vehicle_models' contains errors.
+[2022-03-18 04:37:13] WARNING: File 'files/passat.dff' in resource 'vehicle_models' contains errors.
+[2022-03-18 04:37:13] WARNING: File 'files/trafikarac.dff' in resource 'vehicle_models' contains errors.
+[2022-03-18 04:37:13] start: Resource 'vehicle_models' started
+[2022-03-18 04:37:13] start: Resource 'vehicle_plate' started
+[2022-03-18 04:37:13] start: Resource 'vehicle_sell' started
+[2022-03-18 04:37:13] start: Resource 'vehicle_shop' started
+[2022-03-18 04:37:13] start: Resource 'vehicle_ticket' started
+[2022-03-18 04:37:13] start: Resource 'vehicle_trailer' started
+[2022-03-18 04:37:13] start: Resource 'vip' started
+[2022-03-18 04:37:13] start: Resource 'voice' started
+[2022-03-18 04:37:13] start: Resource 'wage' started
+[2022-03-18 04:37:13] start: Resource 'water' started
+[2022-03-18 04:37:13] start: Resource 'weapon' started
+[2022-03-18 04:37:13] start: Resource 'weaponcap' started
+[2022-03-18 04:37:13] start: Resource 'wearable' started
+[2022-03-18 04:37:13] start: Resource 'weather' started
+[2022-03-18 04:37:13] start: Resource 'winter' started
+[2022-03-18 04:37:13] Querying MTA master server... success! (Auto detected IP:212.154.66.86)
+[2022-03-18 04:37:13] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2022-03-18 04:37:13] Server started and is ready to accept connections!
+[2022-03-18 04:37:13] To stop the server, type 'shutdown' or press Ctrl-C
+[2022-03-18 04:37:13] Type 'help' for a list of commands.
+[2022-03-18 04:37:14] WARNING: [infrastructure]\license\s_gunlicensesmanager.lua:6: dbPoll failed; Unknown column 'glicense' in 'field list'
+[2022-03-18 04:37:14] ERROR: [infrastructure]\license\s_gunlicensesmanager.lua:9: bad argument #1 to 'ipairs' (table expected, got boolean)
+[2022-03-18 04:37:33] Server minclientversion is now 1.5.9-9.21129.0
+[2022-03-18 04:37:33] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-18 04:37:33] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-18 04:37:33] NICK: nox is now known as Belirsiz-1
+[2022-03-18 04:38:56] WARNING: [infrastructure]\auth\server.lua:189: Bad argument @ 'fromJSON' [Expected string at argument 1, got boolean]
+[2022-03-18 04:40:29] NICK: Belirsiz-1 is now known as Emir_Test
+[2022-03-18 04:44:29] Server stopped!
+[2022-03-18 04:44:29] Stopping resources..................................................
+[2022-03-18 04:44:29] INFO: [Factions] Saving duty allow changes...
+[2022-03-18 04:44:29] INFO: [Factions] Completed in 0 seconds.
+[2022-03-18 04:44:30] ERROR: [infrastructure]\pool\core\server-side.lua:142: exports: Call to non-running server resource (data) [string "?"]
+[2022-03-18 04:44:30] ERROR: [infrastructure]\pool\core\server-side.lua:143: exports: Call to non-running server resource (data) [string "?"]
+[2022-03-18 04:44:30] ERROR: [infrastructure]\reports\core\s_reports.lua:115: exports: Call to non-running server resource (data) [string "?"]
+[2022-03-18 04:44:30] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9 [64 bit]
+==================================================================
+= Server name      : Unt Roleplay [untroleplay.com] Sesli/Yazılı Global Medium+ (Türk/Türk Sunucusu)
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ../ww3/server/mods/deathmatch/logs/server.log
+= Maximum players  : 4000
+= HTTP port        : 22005
+= Voice Chat       : Quality [10];  Sample Rate: [16000Hz]
+= Bandwidth saving : None
+==================================================================
+[2022-03-18 04:44:37] ERROR: Couldn't find script additionalInteriors/yourpalemirdaire.lua for resource official_interiors
+[2022-03-18 04:44:37] Loading of resource 'official_interiors' failed
+[2022-03-18 04:44:37] ERROR: Couldn't find map yourpalemirbtmap.map for resource pavlovbtmap
+[2022-03-18 04:44:37] Loading of resource 'pavlovbtmap' failed
+[2022-03-18 04:44:37] ERROR: Problem with resource: official_interiors; Couldn't find script additionalInteriors/yourpalemirdaire.lua for resource official_interiors
+[2022-03-18 04:44:37] ERROR: Problem with resource: pavlovbtmap; Couldn't find map yourpalemirbtmap.map for resource pavlovbtmap
+[2022-03-18 04:44:37] Resources: 184 loaded, 2 failed
+[2022-03-18 04:44:37] MODULE: File not found - x64\modules\mta_mysql.dll
+[2022-03-18 04:44:37] Starting resources...
+[2022-03-18 04:44:37] INFO: Connect to database.
+[2022-03-18 04:44:37] start: Resource 'mysql' started
+[2022-03-18 04:44:38] Server minclientversion is now 1.5.9-9.21129.0
+[2022-03-18 04:44:38] start: Resource 'global' started
+[2022-03-18 04:44:38] ERROR: [infrastructure]\pool\core\server-side.lua:147: exports: Call to non-running server resource (data) [string "?"]
+[2022-03-18 04:44:38] ERROR: [infrastructure]\pool\core\server-side.lua:151: exports: Call to non-running server resource (data) [string "?"]
+[2022-03-18 04:44:38] start: Resource 'pool' started
+[2022-03-18 04:44:38] start: Resource 'data' started
+[2022-03-18 04:44:38] start: Resource 'fonts' started
+[2022-03-18 04:44:38] start: Resource 'Latin' started
+[2022-03-18 04:44:38] ERROR: [infrastructure]\admins\server\s_manager.lua:3: exports: Call to non-running server resource (integration) [string "?"]
+[2022-03-18 04:44:38] start: Resource 'admins' started
+[2022-03-18 04:44:38] start: Resource 'advertisements' started
+[2022-03-18 04:44:38] start: Resource 'ammunation' started
+[2022-03-18 04:44:38] start: Resource 'animations' started
+[2022-03-18 04:44:38] start: Resource 'antibind' started
+[2022-03-18 04:44:38] start: Resource 'anticheat' started
+[2022-03-18 04:44:38] start: Resource 'antispam' started
+[2022-03-18 04:44:38] start: Resource 'artifacts' started
+[2022-03-18 04:44:38] start: Resource 'auth' started
+[2022-03-18 04:44:39] start: Resource 'bank' started
+[2022-03-18 04:44:39] start: Resource 'bankaetrafs' started
+[2022-03-18 04:44:39] start: Resource 'bankakarsi' started
+[2022-03-18 04:44:39] start: Resource 'bans' started
+[2022-03-18 04:44:39] start: Resource 'blackshop' started
+[2022-03-18 04:44:39] start: Resource 'blur' started
+[2022-03-18 04:44:39] start: Resource 'bone_attach' started
+[2022-03-18 04:44:39] start: Resource 'cache' started
+[2022-03-18 04:44:39] start: Resource 'camera' started
+[2022-03-18 04:44:39] start: Resource 'carradio' started
+[2022-03-18 04:44:39] start: Resource 'cctv' started
+[2022-03-18 04:44:39] start: Resource 'cetemap' started
+[2022-03-18 04:44:39] start: Resource 'chat' started
+[2022-03-18 04:44:39] start: Resource 'clearlights' started
+[2022-03-18 04:44:39] start: Resource 'clothes' started
+[2022-03-18 04:44:39] start: Resource 'coloration' started
+[2022-03-18 04:44:39] start: Resource 'colorblender' started
+[2022-03-18 04:44:39] start: Resource 'computers' started
+[2022-03-18 04:44:39] start: Resource 'country' started
+[2022-03-18 04:44:39] start: Resource 'cpu' started
+[2022-03-18 04:44:39] start: Resource 'ctree' started
+[2022-03-18 04:44:39] start: Resource 'damages' started
+[2022-03-18 04:44:39] start: Resource 'datetime' started
+[2022-03-18 04:44:39] start: Resource 'death' started
+[2022-03-18 04:44:39] start: Resource 'deathanim' started
+[2022-03-18 04:44:39] start: Resource 'debug' started
+[2022-03-18 04:44:39] start: Resource 'description' started
+[2022-03-18 04:44:39] start: Resource 'draw' started
+[2022-03-18 04:44:39] start: Resource 'driveby' started
+[2022-03-18 04:44:39] start: Resource 'drug' started
+[2022-03-18 04:44:39] start: Resource 'egm' started
+[2022-03-18 04:44:39] start: Resource 'egmtexture' started
+[2022-03-18 04:44:39] start: Resource 'ehliyetmap' started
+[2022-03-18 04:44:39] start: Resource 'ehliyetobje' started
+[2022-03-18 04:44:39] start: Resource 'elementclick' started
+[2022-03-18 04:44:39] start: Resource 'elevators' started
+[2022-03-18 04:44:39] start: Resource 'factions' started
+[2022-03-18 04:44:39] start: Resource 'factionscripts' started
+[2022-03-18 04:44:39] start: Resource 'flags' started
+[2022-03-18 04:44:39] start: Resource 'freecam' started
+[2022-03-18 04:44:39] start: Resource 'fthmap' started
+[2022-03-18 04:44:39] start: Resource 'funfair' started
+[2022-03-18 04:44:39] start: Resource 'gambling' started
+[2022-03-18 04:44:39] start: Resource 'garage_col' started
+[2022-03-18 04:44:39] start: Resource 'garage_map' started
+[2022-03-18 04:44:39] start: Resource 'gate_manager' started
+[2022-03-18 04:44:39] start: Resource 'gatekeepers' started
+[2022-03-18 04:44:39] start: Resource 'generalshop' started
+[2022-03-18 04:44:39] start: Resource 'glassremover' started
+[2022-03-18 04:44:39] start: Resource 'glue' started
+[2022-03-18 04:44:39] start: Resource 'grassremover' started
+[2022-03-18 04:44:39] start: Resource 'handcuff' started
+[2022-03-18 04:44:39] start: Resource 'hastanekson' started
+[2022-03-18 04:44:39] start: Resource 'heligrab' started
+[2022-03-18 04:44:39] start: Resource 'hmap_1' started
+[2022-03-18 04:44:39] start: Resource 'hmap_2' started
+[2022-03-18 04:44:39] start: Resource 'hmap_4' started
+[2022-03-18 04:44:39] start: Resource 'hmap_5' started
+[2022-03-18 04:44:39] start: Resource 'horseracing' started
+[2022-03-18 04:44:39] start: Resource 'hospitaltext' started
+[2022-03-18 04:44:39] start: Resource 'house_1' started
+[2022-03-18 04:44:40] start: Resource 'house_3' started
+[2022-03-18 04:44:40] start: Resource 'house_4' started
+[2022-03-18 04:44:40] start: Resource 'house_5' started
+[2022-03-18 04:44:40] start: Resource 'hud' started
+[2022-03-18 04:44:40] start: Resource 'identity' started
+[2022-03-18 04:44:40] start: Resource 'igsarka' started
+[2022-03-18 04:44:40] start: Resource 'igsetraf' started
+[2022-03-18 04:44:40] start: Resource 'igsks' started
+[2022-03-18 04:44:40] start: Resource 'info' started
+[2022-03-18 04:44:40] start: Resource 'infoscreen' started
+[2022-03-18 04:44:40] start: Resource 'integration' started
+[2022-03-18 04:44:40] start: Resource 'interface' started
+[2022-03-18 04:44:40] start: Resource 'interior_bank' started
+[2022-03-18 04:44:40] start: Resource 'interior_cabinet' started
+[2022-03-18 04:44:40] start: Resource 'interior_manager' started
+[2022-03-18 04:44:40] start: Resource 'interiors' started
+[2022-03-18 04:44:40] start: Resource 'item_move' started
+[2022-03-18 04:44:40] ERROR: [infrastructure]\item_texture\s_itemtexture.lua:4: exports: Call to non-running server resource (items) [string "?"]
+[2022-03-18 04:44:40] ERROR: [infrastructure]\item_texture\s_itemtexture.lua:17: exports: Call to non-running server resource (items) [string "?"]
+[2022-03-18 04:44:40] WARNING: [infrastructure]\item_texture\s_itemtexture.lua:25: Bad argument @ 'getElementsByType' [Expected element at argument 2, got boolean]
+[2022-03-18 04:44:40] ERROR: [infrastructure]\item_texture\s_itemtexture.lua:30: bad argument #1 to 'ipairs' (table expected, got boolean)
+[2022-03-18 04:44:40] start: Resource 'item_texture' started
+[2022-03-18 04:44:40] ERROR: [infrastructure]\item_world\g_permissions.lua:3: exports: Call to non-running server resource (items) [string "?"]
+[2022-03-18 04:44:40] ERROR: [infrastructure]\item_world\s_load_items.lua:108: attempt to perform arithmetic on global 'timerDelay' (a nil value)
+[2022-03-18 04:44:40] start: Resource 'item_world' started
+[2022-03-18 04:44:41] start: Resource 'items' started
+[2022-03-18 04:44:41] start: Resource 'jobs' started
+[2022-03-18 04:44:41] start: Resource 'keycopy' started
+[2022-03-18 04:44:41] start: Resource 'kizkulesi' started
+[2022-03-18 04:44:41] start: Resource 'kizkulesiobje' started
+[2022-03-18 04:44:41] start: Resource 'labelstats' started
+[2022-03-18 04:44:41] start: Resource 'languages' started
+[2022-03-18 04:44:41] start: Resource 'license' started
+[2022-03-18 04:44:41] start: Resource 'lightfix' started
+[2022-03-18 04:44:41] start: Resource 'logapi' started
+[2022-03-18 04:44:41] start: Resource 'logs' started
+[2022-03-18 04:44:41] start: Resource 'lowshade' started
+[2022-03-18 04:44:41] start: Resource 'mafyamap' started
+[2022-03-18 04:44:41] start: Resource 'map1' started
+[2022-03-18 04:44:41] start: Resource 'map2' started
+[2022-03-18 04:44:41] start: Resource 'map3' started
+[2022-03-18 04:44:41] start: Resource 'map4' started
+[2022-03-18 04:44:41] start: Resource 'map5' started
+[2022-03-18 04:44:41] start: Resource 'mdc' started
+[2022-03-18 04:44:41] start: Resource 'minimap' started
+[2022-03-18 04:44:41] start: Resource 'mods' started
+[2022-03-18 04:44:41] Please wait...
+[2022-03-18 04:44:42] Please wait...
+[2022-03-18 04:44:42] start: Resource 'navigation' started
+[2022-03-18 04:44:42] start: Resource 'neon' started
+[2022-03-18 04:44:42] start: Resource 'notification' started
+[2022-03-18 04:44:42] start: Resource 'npc' started
+[2022-03-18 04:44:42] start: Resource 'object_interaction' started
+[2022-03-18 04:44:42] start: Resource 'object_preview' started
+[2022-03-18 04:44:42] start: Resource 'object_system' started
+[2022-03-18 04:44:42] WARNING: [infrastructure]\starter\server.lua:10: Failed to start resource 'official_interiors': Couldn't find script additionalInteriors/yourpalemirdaire.lua for resource official_interiors
+[2022-03-18 04:44:42] start: Resource 'parachute' started
+[2022-03-18 04:44:42] start: Resource 'patatesmap' started
+[2022-03-18 04:44:42] WARNING: [infrastructure]\starter\server.lua:10: Failed to start resource 'pavlovbtmap': Couldn't find map yourpalemirbtmap.map for resource pavlovbtmap
+[2022-03-18 04:44:42] start: Resource 'pavyon' started
+[2022-03-18 04:44:42] start: Resource 'payday' started
+[2022-03-18 04:44:42] start: Resource 'paynspray' started
+[2022-03-18 04:44:42] start: Resource 'peds' started
+[2022-03-18 04:44:43] start: Resource 'phone' started
+[2022-03-18 04:44:43] start: Resource 'pizzastack' started
+[2022-03-18 04:44:43] start: Resource 'playerlist' started
+[2022-03-18 04:44:43] start: Resource 'police_door' started
+[2022-03-18 04:44:43] start: Resource 'police_int_objects' started
+[2022-03-18 04:44:43] start: Resource 'police_interior' started
+[2022-03-18 04:44:43] start: Resource 'prison' started
+[2022-03-18 04:44:43] start: Resource 'privateshop' started
+[2022-03-18 04:44:43] start: Resource 'proximity_voice' started
+[2022-03-18 04:44:43] start: Resource 'quitlog' started
+[2022-03-18 04:44:43] start: Resource 'radar' started
+[2022-03-18 04:44:43] start: Resource 'ramp' started
+[2022-03-18 04:44:43] start: Resource 'realism' started
+[2022-03-18 04:44:43] start: Resource 'realtime' started
+[2022-03-18 04:44:43] start: Resource 'rentcar' started
+[2022-03-18 04:44:43] INFO: Loaded 0 reports.
+[2022-03-18 04:44:43] start: Resource 'reports' started
+[2022-03-18 04:44:43] start: Resource 'resources' started
+[2022-03-18 04:44:43] start: Resource 'roadblock' started
+[2022-03-18 04:44:43] start: Resource 'robber' started
+[2022-03-18 04:44:43] start: Resource 'rulet' started
+[2022-03-18 04:44:43] start: Resource 'save' started
+[2022-03-18 04:44:43] start: Resource 'showlicense' started
+[2022-03-18 04:44:44] start: Resource 'skinshop' started
+[2022-03-18 04:44:44] start: Resource 'social' started
+[2022-03-18 04:44:44] start: Resource 'soundpanel' started
+[2022-03-18 04:44:44] start: Resource 'speedo' started
+[2022-03-18 04:44:44] start: Resource 'starbucksobje' started
+[2022-03-18 04:44:44] start: Resource 'stathud' started
+[2022-03-18 04:44:44] start: Resource 'switchdraw' started
+[2022-03-18 04:44:44] start: Resource 'textures' started
+[2022-03-18 04:44:44] start: Resource 'toll' started
+[2022-03-18 04:44:44] start: Resource 'tooltips' started
+[2022-03-18 04:44:44] start: Resource 'trailersync' started
+[2022-03-18 04:44:44] start: Resource 'ulkuocak' started
+[2022-03-18 04:44:44] start: Resource 'vehicle' started
+[2022-03-18 04:44:44] start: Resource 'vehicle_bring' started
+[2022-03-18 04:44:44] start: Resource 'vehicle_fuel' started
+[2022-03-18 04:44:44] start: Resource 'vehicle_interiors' started
+[2022-03-18 04:44:44] start: Resource 'vehicle_manager' started
+[2022-03-18 04:44:45] WARNING: File 'files/bmw.dff' in resource 'vehicle_models' contains errors.
+[2022-03-18 04:44:45] WARNING: File 'files/passat.dff' in resource 'vehicle_models' contains errors.
+[2022-03-18 04:44:45] WARNING: File 'files/trafikarac.dff' in resource 'vehicle_models' contains errors.
+[2022-03-18 04:44:46] start: Resource 'vehicle_models' started
+[2022-03-18 04:44:46] start: Resource 'vehicle_plate' started
+[2022-03-18 04:44:46] start: Resource 'vehicle_sell' started
+[2022-03-18 04:44:46] start: Resource 'vehicle_shop' started
+[2022-03-18 04:44:46] start: Resource 'vehicle_ticket' started
+[2022-03-18 04:44:46] start: Resource 'vehicle_trailer' started
+[2022-03-18 04:44:46] start: Resource 'vip' started
+[2022-03-18 04:44:46] start: Resource 'voice' started
+[2022-03-18 04:44:46] start: Resource 'wage' started
+[2022-03-18 04:44:46] start: Resource 'water' started
+[2022-03-18 04:44:46] start: Resource 'weapon' started
+[2022-03-18 04:44:46] start: Resource 'weaponcap' started
+[2022-03-18 04:44:46] start: Resource 'wearable' started
+[2022-03-18 04:44:46] start: Resource 'weather' started
+[2022-03-18 04:44:46] start: Resource 'winter' started
+[2022-03-18 04:44:46] Querying MTA master server... success! (Auto detected IP:212.154.66.86)
+[2022-03-18 04:44:46] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2022-03-18 04:44:46] Server started and is ready to accept connections!
+[2022-03-18 04:44:46] To stop the server, type 'shutdown' or press Ctrl-C
+[2022-03-18 04:44:46] Type 'help' for a list of commands.
+[2022-03-18 04:44:46] WARNING: [infrastructure]\license\s_gunlicensesmanager.lua:6: dbPoll failed; Unknown column 'glicense' in 'field list'
+[2022-03-18 04:44:46] ERROR: [infrastructure]\license\s_gunlicensesmanager.lua:9: bad argument #1 to 'ipairs' (table expected, got boolean)
+[2022-03-18 04:44:49] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-18 04:44:49] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-18 04:44:49] NICK: nox is now known as Belirsiz-1
+[2022-03-18 04:45:25] WARNING: [infrastructure]\auth\server.lua:189: Bad argument @ 'fromJSON' [Expected string at argument 1, got boolean]
+[2022-03-18 04:45:27] NICK: Belirsiz-1 is now known as Emir_Test
+[2022-03-18 04:47:44] ERROR: [infrastructure]\auth\server.lua:873: Bad argument @ 'setElementData' [Expected argument at argument 3, got none]
+[2022-03-18 04:51:00] ERROR: Resource 'stathud' has been removed while running! Stopping resource.
+[2022-03-18 04:51:00] Stopping stathud
+[2022-03-18 04:51:00] Resource 'official_interiors' changed, reloading
+[2022-03-18 04:51:00] ERROR: Couldn't find script additionalInteriors/yourpalemirdaire.lua for resource official_interiors
+[2022-03-18 04:51:00] Loading of resource 'official_interiors' failed
+[2022-03-18 04:51:00] Resource 'pavlovbtmap' changed, reloading
+[2022-03-18 04:51:00] ERROR: Couldn't find map yourpalemirbtmap.map for resource pavlovbtmap
+[2022-03-18 04:51:00] Loading of resource 'pavlovbtmap' failed
+[2022-03-18 04:51:00] ERROR: Problem with resource: official_interiors; Couldn't find script additionalInteriors/yourpalemirdaire.lua for resource official_interiors
+[2022-03-18 04:51:00] ERROR: Problem with resource: pavlovbtmap; Couldn't find map yourpalemirbtmap.map for resource pavlovbtmap
+[2022-03-18 04:51:00] Resources: 183 loaded, 2 failed
+[2022-03-18 04:52:36] Resource 'pavlovbtmap' has been removed, unloading
+[2022-03-18 04:52:36] Resource 'official_interiors' changed, reloading
+[2022-03-18 04:52:36] New resource 'official_interiors' loaded
+[2022-03-18 04:52:36] Resources: 184 loaded, 0 failed
+[2022-03-18 04:52:40] start: Requested by Console
+[2022-03-18 04:52:40] Starting official_interiors
+[2022-03-18 04:52:40] start: Resource 'official_interiors' started
+[2022-03-18 04:53:42] restart: Requested by Console
+[2022-03-18 04:53:42] restart: Resource restarting...
+[2022-03-18 04:53:42] Stopping radar
+[2022-03-18 04:53:42] Resource 'radar' changed, reloading and starting
+[2022-03-18 04:53:42] Starting radar
+[2022-03-18 04:53:42] radar restarted successfully
+[2022-03-18 04:55:06] restart: Requested by Console
+[2022-03-18 04:55:06] restart: Resource restarting...
+[2022-03-18 04:55:06] Stopping radar
+[2022-03-18 04:55:06] Resource 'radar' changed, reloading and starting
+[2022-03-18 04:55:06] ERROR: Couldn't find file images/radar.png for resource radar
+[2022-03-18 04:55:06] Loading of resource 'radar' failed
+[2022-03-18 04:55:06] ERROR: Unable to restart resource radar
+[2022-03-18 04:55:11] restart: Requested by Console
+[2022-03-18 04:55:11] restart: Resource is loaded, but has errors (Couldn't find file images/radar.png for resource radar)
+[2022-03-18 04:55:36] restart: Requested by Console
+[2022-03-18 04:55:36] restart: Resource is loaded, but has errors (Couldn't find file images/radar.png for resource radar)
+[2022-03-18 04:55:38] Resource 'radar' changed, reloading
+[2022-03-18 04:55:38] New resource 'radar' loaded
+[2022-03-18 04:55:38] Resources: 184 loaded, 0 failed
+[2022-03-18 04:55:40] start: Requested by Console
+[2022-03-18 04:55:40] Starting radar
+[2022-03-18 04:55:40] start: Resource 'radar' started
+[2022-03-18 04:56:32] start: Requested by Console
+[2022-03-18 04:56:32] start: Resource is already running
+[2022-03-18 04:56:37] restart: Requested by Console
+[2022-03-18 04:56:37] restart: Resource restarting...
+[2022-03-18 04:56:37] Stopping radar
+[2022-03-18 04:56:37] Resource 'radar' changed, reloading and starting
+[2022-03-18 04:56:37] Starting radar
+[2022-03-18 04:56:37] radar restarted successfully
+[2022-03-18 04:57:31] restart: Requested by Console
+[2022-03-18 04:57:31] restart: Resource restarting...
+[2022-03-18 04:57:31] Stopping radar
+[2022-03-18 04:57:31] Resource 'radar' changed, reloading and starting
+[2022-03-18 04:57:31] Starting radar
+[2022-03-18 04:57:31] radar restarted successfully
+[2022-03-18 04:59:13] restart: Requested by Console
+[2022-03-18 04:59:13] restart: Resource restarting...
+[2022-03-18 04:59:13] Stopping radar
+[2022-03-18 04:59:14] Starting radar
+[2022-03-18 04:59:14] radar restarted successfully
+[2022-03-18 04:59:25] restart: Requested by Console
+[2022-03-18 04:59:25] restart: Resource restarting...
+[2022-03-18 04:59:25] Stopping radar
+[2022-03-18 04:59:25] Starting radar
+[2022-03-18 04:59:25] radar restarted successfully
+[2022-03-18 04:59:29] restart: Requested by Console
+[2022-03-18 04:59:29] restart: Resource restarting...
+[2022-03-18 04:59:29] Stopping labelstats
+[2022-03-18 04:59:29] Resource 'labelstats' changed, reloading and starting
+[2022-03-18 04:59:29] Starting labelstats
+[2022-03-18 04:59:29] labelstats restarted successfully
+[2022-03-18 04:59:38] restart: Requested by Console
+[2022-03-18 04:59:38] restart: Resource restarting...
+[2022-03-18 04:59:38] Stopping labelstats
+[2022-03-18 04:59:38] Resource 'labelstats' changed, reloading and starting
+[2022-03-18 04:59:38] Starting labelstats
+[2022-03-18 04:59:38] labelstats restarted successfully
+[2022-03-18 04:59:46] restart: Requested by Console
+[2022-03-18 04:59:46] restart: Resource restarting...
+[2022-03-18 04:59:46] Stopping labelstats
+[2022-03-18 04:59:46] Resource 'labelstats' changed, reloading and starting
+[2022-03-18 04:59:46] Starting labelstats
+[2022-03-18 04:59:46] labelstats restarted successfully
+[2022-03-18 05:00:02] restart: Requested by Console
+[2022-03-18 05:00:02] restart: Resource restarting...
+[2022-03-18 05:00:02] Stopping labelstats
+[2022-03-18 05:00:02] Resource 'labelstats' changed, reloading and starting
+[2022-03-18 05:00:02] Starting labelstats
+[2022-03-18 05:00:02] labelstats restarted successfully
+[2022-03-18 05:00:10] restart: Requested by Console
+[2022-03-18 05:00:10] restart: Resource restarting...
+[2022-03-18 05:00:10] Stopping labelstats
+[2022-03-18 05:00:10] Resource 'labelstats' changed, reloading and starting
+[2022-03-18 05:00:10] Starting labelstats
+[2022-03-18 05:00:10] labelstats restarted successfully
+[2022-03-18 05:00:19] restart: Requested by Console
+[2022-03-18 05:00:19] restart: Resource restarting...
+[2022-03-18 05:00:19] Stopping labelstats
+[2022-03-18 05:00:19] Resource 'labelstats' changed, reloading and starting
+[2022-03-18 05:00:19] Starting labelstats
+[2022-03-18 05:00:19] labelstats restarted successfully
+[2022-03-18 05:00:27] restart: Requested by Console
+[2022-03-18 05:00:27] restart: Resource restarting...
+[2022-03-18 05:00:27] Stopping labelstats
+[2022-03-18 05:00:27] Resource 'labelstats' changed, reloading and starting
+[2022-03-18 05:00:27] Starting labelstats
+[2022-03-18 05:00:27] labelstats restarted successfully
+[2022-03-18 05:00:38] restart: Requested by Console
+[2022-03-18 05:00:38] restart: Resource restarting...
+[2022-03-18 05:00:38] Stopping labelstats
+[2022-03-18 05:00:38] Resource 'labelstats' changed, reloading and starting
+[2022-03-18 05:00:38] Starting labelstats
+[2022-03-18 05:00:38] labelstats restarted successfully
+[2022-03-18 05:02:06] restart: Requested by Console
+[2022-03-18 05:02:06] restart: Resource restarting...
+[2022-03-18 05:02:06] Stopping infoscreen
+[2022-03-18 05:02:06] Resource 'infoscreen' changed, reloading and starting
+[2022-03-18 05:02:07] Starting infoscreen
+[2022-03-18 05:02:07] infoscreen restarted successfully
+[2022-03-18 05:02:53] restart: Requested by Console
+[2022-03-18 05:02:53] restart: Resource restarting...
+[2022-03-18 05:02:53] Stopping infoscreen
+[2022-03-18 05:02:53] Resource 'infoscreen' changed, reloading and starting
+[2022-03-18 05:02:53] Starting infoscreen
+[2022-03-18 05:02:53] infoscreen restarted successfully
+[2022-03-18 05:04:10] restart: Requested by Console
+[2022-03-18 05:04:10] restart: Resource restarting...
+[2022-03-18 05:04:10] Stopping minimap
+[2022-03-18 05:04:10] Resource 'minimap' changed, reloading and starting
+[2022-03-18 05:04:10] Starting minimap
+[2022-03-18 05:04:10] minimap restarted successfully
+[2022-03-18 05:13:00] ERROR: Client (Emir_Test) triggered serverside event addFakeBullet, but event is not added serverside
+[2022-03-18 05:14:46] Stopping vehicle_shop
+[2022-03-18 05:14:46] Starting vehicle_shop
+[2022-03-18 05:14:46] vehicle_shop restarted successfully
+[2022-03-18 05:20:29] ERROR: Client (Emir_Test) triggered serverside event addFakeBullet, but event is not added serverside
+[2022-03-18 05:20:43] ERROR: Client (Emir_Test) triggered serverside event addFakeBullet, but event is not added serverside
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9 [64 bit]
+==================================================================
+= Server name      : Unt Roleplay [untroleplay.com] Sesli/Yazılı Global Medium+ (Türk/Türk Sunucusu)
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ../ww3/server/mods/deathmatch/logs/server.log
+= Maximum players  : 4000
+= HTTP port        : 22005
+= Voice Chat       : Quality [10];  Sample Rate: [16000Hz]
+= Bandwidth saving : None
+==================================================================
+[2022-03-18 22:39:28] ERROR: Couldn't find file images/radar.png for resource radar
+[2022-03-18 22:39:28] Loading of resource 'radar' failed
+[2022-03-18 22:39:42] ERROR: Problem with resource: radar; Couldn't find file images/radar.png for resource radar
+[2022-03-18 22:39:42] Resources: 183 loaded, 1 failed
+[2022-03-18 22:39:43] MODULE: File not found - x64\modules\mta_mysql.dll
+[2022-03-18 22:39:43] Starting resources...
+[2022-03-18 22:39:43] INFO: Connect to database.
+[2022-03-18 22:39:43] start: Resource 'mysql' started
+[2022-03-18 22:39:43] Server minclientversion is now 1.5.9-9.21129.0
+[2022-03-18 22:39:43] start: Resource 'global' started
+[2022-03-18 22:39:43] ERROR: [infrastructure]\pool\core\server-side.lua:147: exports: Call to non-running server resource (data) [string "?"]
+[2022-03-18 22:39:43] ERROR: [infrastructure]\pool\core\server-side.lua:151: exports: Call to non-running server resource (data) [string "?"]
+[2022-03-18 22:39:43] start: Resource 'pool' started
+[2022-03-18 22:39:43] start: Resource 'data' started
+[2022-03-18 22:39:43] start: Resource 'fonts' started
+[2022-03-18 22:39:43] start: Resource 'Latin' started
+[2022-03-18 22:39:43] ERROR: [infrastructure]\admins\server\s_manager.lua:3: exports: Call to non-running server resource (integration) [string "?"]
+[2022-03-18 22:39:43] start: Resource 'admins' started
+[2022-03-18 22:39:43] start: Resource 'advertisements' started
+[2022-03-18 22:39:43] start: Resource 'ammunation' started
+[2022-03-18 22:39:43] start: Resource 'animations' started
+[2022-03-18 22:39:43] start: Resource 'antibind' started
+[2022-03-18 22:39:43] start: Resource 'anticheat' started
+[2022-03-18 22:39:43] start: Resource 'antispam' started
+[2022-03-18 22:39:43] start: Resource 'artifacts' started
+[2022-03-18 22:39:44] start: Resource 'auth' started
+[2022-03-18 22:39:44] start: Resource 'bank' started
+[2022-03-18 22:39:44] start: Resource 'bankaetrafs' started
+[2022-03-18 22:39:44] start: Resource 'bankakarsi' started
+[2022-03-18 22:39:44] start: Resource 'bans' started
+[2022-03-18 22:39:44] start: Resource 'blackshop' started
+[2022-03-18 22:39:44] start: Resource 'blur' started
+[2022-03-18 22:39:44] start: Resource 'bone_attach' started
+[2022-03-18 22:39:44] start: Resource 'cache' started
+[2022-03-18 22:39:44] start: Resource 'camera' started
+[2022-03-18 22:39:44] start: Resource 'carradio' started
+[2022-03-18 22:39:44] start: Resource 'cctv' started
+[2022-03-18 22:39:44] start: Resource 'cetemap' started
+[2022-03-18 22:39:44] start: Resource 'chat' started
+[2022-03-18 22:39:44] start: Resource 'clearlights' started
+[2022-03-18 22:39:44] start: Resource 'clothes' started
+[2022-03-18 22:39:44] start: Resource 'coloration' started
+[2022-03-18 22:39:44] start: Resource 'colorblender' started
+[2022-03-18 22:39:44] start: Resource 'computers' started
+[2022-03-18 22:39:44] start: Resource 'country' started
+[2022-03-18 22:39:44] start: Resource 'cpu' started
+[2022-03-18 22:39:44] start: Resource 'ctree' started
+[2022-03-18 22:39:44] start: Resource 'damages' started
+[2022-03-18 22:39:44] start: Resource 'datetime' started
+[2022-03-18 22:39:44] start: Resource 'death' started
+[2022-03-18 22:39:44] start: Resource 'deathanim' started
+[2022-03-18 22:39:44] start: Resource 'debug' started
+[2022-03-18 22:39:44] start: Resource 'description' started
+[2022-03-18 22:39:44] start: Resource 'draw' started
+[2022-03-18 22:39:44] start: Resource 'driveby' started
+[2022-03-18 22:39:44] start: Resource 'drug' started
+[2022-03-18 22:39:44] start: Resource 'egm' started
+[2022-03-18 22:39:44] start: Resource 'egmtexture' started
+[2022-03-18 22:39:44] start: Resource 'ehliyetmap' started
+[2022-03-18 22:39:44] start: Resource 'ehliyetobje' started
+[2022-03-18 22:39:44] start: Resource 'elementclick' started
+[2022-03-18 22:39:44] start: Resource 'elevators' started
+[2022-03-18 22:39:44] start: Resource 'factions' started
+[2022-03-18 22:39:44] start: Resource 'factionscripts' started
+[2022-03-18 22:39:45] start: Resource 'flags' started
+[2022-03-18 22:39:45] start: Resource 'freecam' started
+[2022-03-18 22:39:45] start: Resource 'fthmap' started
+[2022-03-18 22:39:45] start: Resource 'funfair' started
+[2022-03-18 22:39:45] start: Resource 'gambling' started
+[2022-03-18 22:39:45] start: Resource 'garage_col' started
+[2022-03-18 22:39:45] start: Resource 'garage_map' started
+[2022-03-18 22:39:45] start: Resource 'gate_manager' started
+[2022-03-18 22:39:45] start: Resource 'gatekeepers' started
+[2022-03-18 22:39:45] start: Resource 'generalshop' started
+[2022-03-18 22:39:45] start: Resource 'glassremover' started
+[2022-03-18 22:39:45] start: Resource 'glue' started
+[2022-03-18 22:39:45] start: Resource 'grassremover' started
+[2022-03-18 22:39:45] start: Resource 'handcuff' started
+[2022-03-18 22:39:45] start: Resource 'hastanekson' started
+[2022-03-18 22:39:45] start: Resource 'heligrab' started
+[2022-03-18 22:39:45] start: Resource 'hmap_1' started
+[2022-03-18 22:39:45] start: Resource 'hmap_2' started
+[2022-03-18 22:39:45] start: Resource 'hmap_4' started
+[2022-03-18 22:39:45] start: Resource 'hmap_5' started
+[2022-03-18 22:39:45] start: Resource 'horseracing' started
+[2022-03-18 22:39:45] start: Resource 'hospitaltext' started
+[2022-03-18 22:39:45] start: Resource 'house_1' started
+[2022-03-18 22:39:45] start: Resource 'house_3' started
+[2022-03-18 22:39:45] start: Resource 'house_4' started
+[2022-03-18 22:39:45] start: Resource 'house_5' started
+[2022-03-18 22:39:46] start: Resource 'hud' started
+[2022-03-18 22:39:46] start: Resource 'identity' started
+[2022-03-18 22:39:46] start: Resource 'igsarka' started
+[2022-03-18 22:39:46] start: Resource 'igsetraf' started
+[2022-03-18 22:39:46] start: Resource 'igsks' started
+[2022-03-18 22:39:46] start: Resource 'info' started
+[2022-03-18 22:39:46] start: Resource 'infoscreen' started
+[2022-03-18 22:39:46] start: Resource 'integration' started
+[2022-03-18 22:39:46] start: Resource 'interface' started
+[2022-03-18 22:39:46] start: Resource 'interior_bank' started
+[2022-03-18 22:39:46] start: Resource 'interior_cabinet' started
+[2022-03-18 22:39:46] start: Resource 'interior_manager' started
+[2022-03-18 22:39:46] start: Resource 'interiors' started
+[2022-03-18 22:39:46] start: Resource 'item_move' started
+[2022-03-18 22:39:46] ERROR: [infrastructure]\item_texture\s_itemtexture.lua:4: exports: Call to non-running server resource (items) [string "?"]
+[2022-03-18 22:39:46] ERROR: [infrastructure]\item_texture\s_itemtexture.lua:17: exports: Call to non-running server resource (items) [string "?"]
+[2022-03-18 22:39:46] WARNING: [infrastructure]\item_texture\s_itemtexture.lua:25: Bad argument @ 'getElementsByType' [Expected element at argument 2, got boolean]
+[2022-03-18 22:39:46] ERROR: [infrastructure]\item_texture\s_itemtexture.lua:30: bad argument #1 to 'ipairs' (table expected, got boolean)
+[2022-03-18 22:39:46] start: Resource 'item_texture' started
+[2022-03-18 22:39:46] ERROR: [infrastructure]\item_world\g_permissions.lua:3: exports: Call to non-running server resource (items) [string "?"]
+[2022-03-18 22:39:46] ERROR: [infrastructure]\item_world\s_load_items.lua:108: attempt to perform arithmetic on global 'timerDelay' (a nil value)
+[2022-03-18 22:39:46] start: Resource 'item_world' started
+[2022-03-18 22:39:46] start: Resource 'items' started
+[2022-03-18 22:39:46] start: Resource 'jobs' started
+[2022-03-18 22:39:46] start: Resource 'keycopy' started
+[2022-03-18 22:39:46] start: Resource 'kizkulesi' started
+[2022-03-18 22:39:46] start: Resource 'kizkulesiobje' started
+[2022-03-18 22:39:46] start: Resource 'labelstats' started
+[2022-03-18 22:39:46] start: Resource 'languages' started
+[2022-03-18 22:39:46] start: Resource 'license' started
+[2022-03-18 22:39:46] start: Resource 'lightfix' started
+[2022-03-18 22:39:46] start: Resource 'logapi' started
+[2022-03-18 22:39:46] start: Resource 'logs' started
+[2022-03-18 22:39:46] start: Resource 'lowshade' started
+[2022-03-18 22:39:46] start: Resource 'mafyamap' started
+[2022-03-18 22:39:46] start: Resource 'map1' started
+[2022-03-18 22:39:47] start: Resource 'map2' started
+[2022-03-18 22:39:47] start: Resource 'map3' started
+[2022-03-18 22:39:47] start: Resource 'map4' started
+[2022-03-18 22:39:47] start: Resource 'map5' started
+[2022-03-18 22:39:47] start: Resource 'mdc' started
+[2022-03-18 22:39:47] start: Resource 'minimap' started
+[2022-03-18 22:39:47] start: Resource 'mods' started
+[2022-03-18 22:39:47] Please wait...
+[2022-03-18 22:39:47] Please wait...
+[2022-03-18 22:39:48] start: Resource 'navigation' started
+[2022-03-18 22:39:48] start: Resource 'neon' started
+[2022-03-18 22:39:48] start: Resource 'notification' started
+[2022-03-18 22:39:48] start: Resource 'npc' started
+[2022-03-18 22:39:48] start: Resource 'object_interaction' started
+[2022-03-18 22:39:48] start: Resource 'object_preview' started
+[2022-03-18 22:39:48] start: Resource 'object_system' started
+[2022-03-18 22:39:48] start: Resource 'official_interiors' started
+[2022-03-18 22:39:48] start: Resource 'parachute' started
+[2022-03-18 22:39:48] start: Resource 'patatesmap' started
+[2022-03-18 22:39:48] start: Resource 'pavyon' started
+[2022-03-18 22:39:48] start: Resource 'payday' started
+[2022-03-18 22:39:48] start: Resource 'paynspray' started
+[2022-03-18 22:39:48] start: Resource 'peds' started
+[2022-03-18 22:39:48] start: Resource 'phone' started
+[2022-03-18 22:39:48] start: Resource 'pizzastack' started
+[2022-03-18 22:39:48] start: Resource 'playerlist' started
+[2022-03-18 22:39:48] start: Resource 'police_door' started
+[2022-03-18 22:39:48] start: Resource 'police_int_objects' started
+[2022-03-18 22:39:48] start: Resource 'police_interior' started
+[2022-03-18 22:39:48] start: Resource 'prison' started
+[2022-03-18 22:39:48] start: Resource 'privateshop' started
+[2022-03-18 22:39:48] start: Resource 'proximity_voice' started
+[2022-03-18 22:39:48] start: Resource 'quitlog' started
+[2022-03-18 22:39:48] WARNING: [infrastructure]\starter\server.lua:10: Failed to start resource 'radar': Couldn't find file images/radar.png for resource radar
+[2022-03-18 22:39:48] start: Resource 'ramp' started
+[2022-03-18 22:39:49] start: Resource 'realism' started
+[2022-03-18 22:39:49] start: Resource 'realtime' started
+[2022-03-18 22:39:49] start: Resource 'rentcar' started
+[2022-03-18 22:39:49] INFO: Loaded 0 reports.
+[2022-03-18 22:39:49] start: Resource 'reports' started
+[2022-03-18 22:39:49] start: Resource 'resources' started
+[2022-03-18 22:39:49] start: Resource 'roadblock' started
+[2022-03-18 22:39:49] start: Resource 'robber' started
+[2022-03-18 22:39:49] start: Resource 'rulet' started
+[2022-03-18 22:39:49] start: Resource 'save' started
+[2022-03-18 22:39:49] start: Resource 'showlicense' started
+[2022-03-18 22:39:50] start: Resource 'skinshop' started
+[2022-03-18 22:39:50] start: Resource 'social' started
+[2022-03-18 22:39:50] start: Resource 'soundpanel' started
+[2022-03-18 22:39:50] start: Resource 'speedo' started
+[2022-03-18 22:39:50] start: Resource 'starbucksobje' started
+[2022-03-18 22:39:50] start: Resource 'switchdraw' started
+[2022-03-18 22:39:50] start: Resource 'textures' started
+[2022-03-18 22:39:50] start: Resource 'toll' started
+[2022-03-18 22:39:50] start: Resource 'tooltips' started
+[2022-03-18 22:39:50] start: Resource 'trailersync' started
+[2022-03-18 22:39:50] start: Resource 'ulkuocak' started
+[2022-03-18 22:39:50] start: Resource 'vehicle' started
+[2022-03-18 22:39:50] start: Resource 'vehicle_bring' started
+[2022-03-18 22:39:50] start: Resource 'vehicle_fuel' started
+[2022-03-18 22:39:50] start: Resource 'vehicle_interiors' started
+[2022-03-18 22:39:50] start: Resource 'vehicle_manager' started
+[2022-03-18 22:39:51] WARNING: File 'files/bmw.dff' in resource 'vehicle_models' contains errors.
+[2022-03-18 22:39:51] WARNING: File 'files/passat.dff' in resource 'vehicle_models' contains errors.
+[2022-03-18 22:39:51] WARNING: File 'files/trafikarac.dff' in resource 'vehicle_models' contains errors.
+[2022-03-18 22:39:51] start: Resource 'vehicle_models' started
+[2022-03-18 22:39:51] start: Resource 'vehicle_plate' started
+[2022-03-18 22:39:51] start: Resource 'vehicle_sell' started
+[2022-03-18 22:39:51] start: Resource 'vehicle_shop' started
+[2022-03-18 22:39:51] start: Resource 'vehicle_ticket' started
+[2022-03-18 22:39:51] start: Resource 'vehicle_trailer' started
+[2022-03-18 22:39:51] start: Resource 'vip' started
+[2022-03-18 22:39:51] start: Resource 'voice' started
+[2022-03-18 22:39:51] start: Resource 'wage' started
+[2022-03-18 22:39:51] start: Resource 'water' started
+[2022-03-18 22:39:51] start: Resource 'weapon' started
+[2022-03-18 22:39:51] start: Resource 'weaponcap' started
+[2022-03-18 22:39:52] start: Resource 'wearable' started
+[2022-03-18 22:39:52] start: Resource 'weather' started
+[2022-03-18 22:39:52] start: Resource 'winter' started
+[2022-03-18 22:39:52] Querying MTA master server... success! (Auto detected IP:212.154.66.86)
+[2022-03-18 22:39:52] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2022-03-18 22:39:52] Server started and is ready to accept connections!
+[2022-03-18 22:39:52] To stop the server, type 'shutdown' or press Ctrl-C
+[2022-03-18 22:39:52] Type 'help' for a list of commands.
+[2022-03-18 22:39:52] WARNING: [infrastructure]\license\s_gunlicensesmanager.lua:6: dbPoll failed; Unknown column 'glicense' in 'field list'
+[2022-03-18 22:39:52] ERROR: [infrastructure]\license\s_gunlicensesmanager.lua:9: bad argument #1 to 'ipairs' (table expected, got boolean)
+[2022-03-18 22:40:53] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-18 22:40:54] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-18 22:40:54] NICK: nox is now known as Belirsiz-1
+[2022-03-18 22:41:42] WARNING: [infrastructure]\auth\server.lua:189: Bad argument @ 'fromJSON' [Expected string at argument 1, got boolean]
+[2022-03-18 22:41:44] NICK: Belirsiz-1 is now known as Emir_Test
+[2022-03-18 22:42:32] restart: Requested by Console
+[2022-03-18 22:42:32] restart: Resource restarting...
+[2022-03-18 22:42:32] Stopping playerlist
+[2022-03-18 22:42:32] Resource 'playerlist' changed, reloading and starting
+[2022-03-18 22:42:32] Starting playerlist
+[2022-03-18 22:42:32] playerlist restarted successfully
+[2022-03-18 22:44:48] QUIT: Emir_Test left the game [Quit]
+[2022-03-18 22:44:50] Server stopped!
+[2022-03-18 22:44:50] Stopping resources..................................................
+[2022-03-18 22:44:50] INFO: [Factions] Saving duty allow changes...
+[2022-03-18 22:44:50] INFO: [Factions] Completed in 0 seconds.
+[2022-03-18 22:44:50] ERROR: [infrastructure]\pool\core\server-side.lua:142: exports: Call to non-running server resource (data) [string "?"]
+[2022-03-18 22:44:50] ERROR: [infrastructure]\pool\core\server-side.lua:143: exports: Call to non-running server resource (data) [string "?"]
+[2022-03-18 22:44:51] ERROR: [infrastructure]\reports\core\s_reports.lua:115: exports: Call to non-running server resource (data) [string "?"]
+[2022-03-18 22:44:51] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9 [64 bit]
+==================================================================
+= Server name      : Unt Roleplay [untroleplay.com] Sesli/Yazılı Global Medium+ (Türk/Türk Sunucusu)
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..nox-dev/ww3/mods/deathmatch/logs/server.log
+= Maximum players  : 4000
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2022-03-24 20:10:17] Compacting accounts database 'internal.db' ...
+[2022-03-24 20:10:17] Compacting database 'registry.db' ...
+[2022-03-24 20:10:17] ERROR: Could not bind the server on interface '' and port '22003'!
+[2022-03-24 20:10:18] Server stopped!
+[2022-03-24 20:10:18] Stopping resources...
+[2022-03-24 20:10:18] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9 [64 bit]
+==================================================================
+= Server name      : Unt Roleplay [untroleplay.com] Sesli/Yazılı Global Medium+ (Türk/Türk Sunucusu)
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..nox-dev/ww3/mods/deathmatch/logs/server.log
+= Maximum players  : 4000
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2022-03-24 20:10:27] Starting resources...
+[2022-03-24 20:10:27] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2022-03-24 20:10:27] Server started and is ready to accept connections!
+[2022-03-24 20:10:27] To stop the server, type 'shutdown' or press Ctrl-C
+[2022-03-24 20:10:27] Type 'help' for a list of commands.
+[2022-03-24 20:10:28] Querying MTA master server... success! (Auto detected IP:212.154.66.131)
+[2022-03-24 20:11:04] ACL: Denied 'Console' access to command 'refresh'
+[2022-03-24 20:11:04] ACL: Access denied for 'refresh'
+[2022-03-24 20:11:39] ACL: Denied 'Console' access to command 'reloadacl'
+[2022-03-24 20:11:39] ACL: Access denied for 'reloadacl'
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9 [64 bit]
+==================================================================
+= Server name      : Unt Roleplay [untroleplay.com] Sesli/Yazılı Global Medium+ (Türk/Türk Sunucusu)
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..nox-dev/ww3/mods/deathmatch/logs/server.log
+= Maximum players  : 4000
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2022-03-24 20:12:00] Resources: 1 loaded, 0 failed
+[2022-03-24 20:12:00] Starting resources...
+[2022-03-24 20:12:00] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2022-03-24 20:12:00] Server started and is ready to accept connections!
+[2022-03-24 20:12:00] To stop the server, type 'shutdown' or press Ctrl-C
+[2022-03-24 20:12:00] Type 'help' for a list of commands.
+[2022-03-24 20:12:00] Querying MTA master server... success! (Auto detected IP:212.154.66.131)
+[2022-03-24 20:12:22] start: Requested by Console
+[2022-03-24 20:12:22] WARNING: guieditor <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.6-9.14489 because of 'guiComboBoxGetItemCount')
+[2022-03-24 20:12:22] WARNING: guieditor requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.6-9.14489 because of 'guiComboBoxGetItemCount')
+[2022-03-24 20:12:22] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2022-03-24 20:12:22] Starting guieditor
+[2022-03-24 20:12:22] Server minclientversion is now 1.5.9-9.21129.0
+[2022-03-24 20:12:22] start: Resource 'guieditor' started
+[2022-03-24 20:12:27] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-24 20:12:27] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-24 20:12:34] ERROR: guieditor\server.lua:431: bad argument #1 to 'lower' (string expected, got nil)
+[2022-03-24 20:16:29] New resource 'auth' loaded
+[2022-03-24 20:16:29] Resources: 2 loaded, 0 failed
+[2022-03-24 20:16:30] start: Requested by Console
+[2022-03-24 20:16:30] Starting auth
+[2022-03-24 20:16:30] start: Resource 'auth' started
+[2022-03-24 20:16:35] ERROR: guieditor\server.lua:431: bad argument #1 to 'lower' (string expected, got nil)
+[2022-03-24 20:16:39] QUIT: nox left the game [Quit]
+[2022-03-24 20:16:39] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-24 20:16:39] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-24 20:16:48] start: Requested by Console
+[2022-03-24 20:16:48] start: Resource is already running
+[2022-03-24 20:16:51] restart: Requested by Console
+[2022-03-24 20:16:51] restart: Resource restarting...
+[2022-03-24 20:16:51] Stopping auth
+[2022-03-24 20:16:51] Resource 'auth' changed, reloading and starting
+[2022-03-24 20:16:51] Starting auth
+[2022-03-24 20:16:51] auth restarted successfully
+[2022-03-24 20:16:56] QUIT: nox left the game [Quit]
+[2022-03-24 20:16:56] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-24 20:16:57] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-24 20:17:16] ERROR: guieditor\server.lua:431: bad argument #1 to 'lower' (string expected, got nil)
+[2022-03-24 20:18:04] restart: Requested by Console
+[2022-03-24 20:18:04] restart: Resource restarting...
+[2022-03-24 20:18:04] Stopping auth
+[2022-03-24 20:18:04] Resource 'auth' changed, reloading and starting
+[2022-03-24 20:18:04] Starting auth
+[2022-03-24 20:18:04] auth restarted successfully
+[2022-03-24 20:18:12] restart: Requested by Console
+[2022-03-24 20:18:12] restart: Resource restarting...
+[2022-03-24 20:18:12] Stopping auth
+[2022-03-24 20:18:12] Resource 'auth' changed, reloading and starting
+[2022-03-24 20:18:12] Starting auth
+[2022-03-24 20:18:12] auth restarted successfully
+[2022-03-24 20:18:23] restart: Requested by Console
+[2022-03-24 20:18:23] restart: Resource restarting...
+[2022-03-24 20:18:23] Stopping auth
+[2022-03-24 20:18:23] Starting auth
+[2022-03-24 20:18:23] auth restarted successfully
+[2022-03-24 20:18:32] restart: Requested by Console
+[2022-03-24 20:18:32] restart: Resource restarting...
+[2022-03-24 20:18:32] Stopping auth
+[2022-03-24 20:18:32] Resource 'auth' changed, reloading and starting
+[2022-03-24 20:18:32] Starting auth
+[2022-03-24 20:18:32] auth restarted successfully
+[2022-03-24 20:18:47] restart: Requested by Console
+[2022-03-24 20:18:47] restart: Resource restarting...
+[2022-03-24 20:18:47] Stopping auth
+[2022-03-24 20:18:47] Resource 'auth' changed, reloading and starting
+[2022-03-24 20:18:47] Starting auth
+[2022-03-24 20:18:47] auth restarted successfully
+[2022-03-24 20:18:50] QUIT: nox left the game [Quit]
+[2022-03-24 20:18:53] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-24 20:18:53] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-24 20:20:40] restart: Requested by Console
+[2022-03-24 20:20:40] restart: Resource restarting...
+[2022-03-24 20:20:40] Stopping auth
+[2022-03-24 20:20:40] Resource 'auth' changed, reloading and starting
+[2022-03-24 20:20:40] Starting auth
+[2022-03-24 20:20:40] auth restarted successfully
+[2022-03-24 20:20:43] QUIT: nox left the game [Quit]
+[2022-03-24 20:20:44] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-24 20:20:44] JOIN: nox joined the game (IP: 127.0.0.1)
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9 [64 bit]
+==================================================================
+= Server name      : Unt Roleplay [untroleplay.com] Sesli/Yazılı Global Medium+ (Türk/Türk Sunucusu)
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..nox-dev/ww3/mods/deathmatch/logs/server.log
+= Maximum players  : 4000
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2022-03-25 19:11:25] Resources: 2 loaded, 0 failed
+[2022-03-25 19:11:25] Starting resources...
+[2022-03-25 19:11:25] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2022-03-25 19:11:25] Server started and is ready to accept connections!
+[2022-03-25 19:11:25] To stop the server, type 'shutdown' or press Ctrl-C
+[2022-03-25 19:11:25] Type 'help' for a list of commands.
+[2022-03-25 19:11:25] Querying MTA master server... success! (Auto detected IP:212.154.66.131)
+[2022-03-25 19:11:29] start: Requested by Console
+[2022-03-25 19:11:29] Starting auth
+[2022-03-25 19:11:29] start: Resource 'auth' started
+[2022-03-25 19:12:09] Server minclientversion is now 1.5.9-9.21129.0
+[2022-03-25 19:12:09] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:12:11] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:12:58] restart: Requested by Console
+[2022-03-25 19:12:58] restart: Resource restarting...
+[2022-03-25 19:12:58] Stopping auth
+[2022-03-25 19:12:58] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:12:58] Starting auth
+[2022-03-25 19:12:58] auth restarted successfully
+[2022-03-25 19:13:08] ACL: Denied 'nox' access to command 'debugscript'
+[2022-03-25 19:15:49] restart: Requested by Console
+[2022-03-25 19:15:49] restart: Resource restarting...
+[2022-03-25 19:15:49] Stopping auth
+[2022-03-25 19:15:49] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:15:49] Starting auth
+[2022-03-25 19:15:49] auth restarted successfully
+[2022-03-25 19:15:52] QUIT: nox left the game [Quit]
+[2022-03-25 19:15:52] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:15:52] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:16:01] restart: Requested by Console
+[2022-03-25 19:16:01] restart: Resource restarting...
+[2022-03-25 19:16:01] Stopping auth
+[2022-03-25 19:16:01] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:16:01] Starting auth
+[2022-03-25 19:16:01] auth restarted successfully
+[2022-03-25 19:16:07] QUIT: nox left the game [Quit]
+[2022-03-25 19:16:08] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:16:08] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:16:40] New resource 'debug' loaded
+[2022-03-25 19:16:40] Resources: 3 loaded, 0 failed
+[2022-03-25 19:16:42] start: Resource could not be found
+[2022-03-25 19:16:43] start: Resource could not be found
+[2022-03-25 19:16:45] start: Requested by Console
+[2022-03-25 19:16:45] Starting debug
+[2022-03-25 19:16:45] start: Resource 'debug' started
+[2022-03-25 19:27:48] restart: Requested by Console
+[2022-03-25 19:27:48] restart: Resource restarting...
+[2022-03-25 19:27:48] Stopping auth
+[2022-03-25 19:27:48] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:27:48] Starting auth
+[2022-03-25 19:27:48] auth restarted successfully
+[2022-03-25 19:27:52] QUIT: nox left the game [Quit]
+[2022-03-25 19:27:53] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:27:53] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:34:53] restart: Requested by Console
+[2022-03-25 19:34:53] restart: Resource restarting...
+[2022-03-25 19:34:53] Stopping auth
+[2022-03-25 19:34:53] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:34:53] Starting auth
+[2022-03-25 19:34:53] auth restarted successfully
+[2022-03-25 19:34:57] QUIT: nox left the game [Quit]
+[2022-03-25 19:34:57] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:34:57] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:35:05] restart: Requested by Console
+[2022-03-25 19:35:05] restart: Resource restarting...
+[2022-03-25 19:35:05] Stopping auth
+[2022-03-25 19:35:06] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:35:06] Starting auth
+[2022-03-25 19:35:06] auth restarted successfully
+[2022-03-25 19:35:09] QUIT: nox left the game [Quit]
+[2022-03-25 19:35:09] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:35:09] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:35:18] restart: Requested by Console
+[2022-03-25 19:35:18] restart: Resource restarting...
+[2022-03-25 19:35:18] Stopping auth
+[2022-03-25 19:35:18] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:35:18] Starting auth
+[2022-03-25 19:35:18] auth restarted successfully
+[2022-03-25 19:35:21] QUIT: nox left the game [Quit]
+[2022-03-25 19:35:22] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:35:22] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:44:32] restart: Requested by Console
+[2022-03-25 19:44:32] restart: Resource restarting...
+[2022-03-25 19:44:32] Stopping auth
+[2022-03-25 19:44:32] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:44:32] Starting auth
+[2022-03-25 19:44:32] auth restarted successfully
+[2022-03-25 19:44:35] QUIT: nox left the game [Quit]
+[2022-03-25 19:44:36] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:44:36] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:45:00] restart: Requested by Console
+[2022-03-25 19:45:00] restart: Resource restarting...
+[2022-03-25 19:45:00] Stopping auth
+[2022-03-25 19:45:00] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:45:00] Starting auth
+[2022-03-25 19:45:00] auth restarted successfully
+[2022-03-25 19:45:02] QUIT: nox left the game [Quit]
+[2022-03-25 19:45:03] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:45:03] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:45:14] restart: Requested by Console
+[2022-03-25 19:45:14] restart: Resource restarting...
+[2022-03-25 19:45:14] Stopping auth
+[2022-03-25 19:45:14] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:45:14] Starting auth
+[2022-03-25 19:45:14] auth restarted successfully
+[2022-03-25 19:45:16] QUIT: nox left the game [Quit]
+[2022-03-25 19:45:16] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:45:16] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:45:42] restart: Requested by Console
+[2022-03-25 19:45:42] restart: Resource restarting...
+[2022-03-25 19:45:42] Stopping auth
+[2022-03-25 19:45:42] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:45:42] Starting auth
+[2022-03-25 19:45:42] auth restarted successfully
+[2022-03-25 19:45:44] QUIT: nox left the game [Quit]
+[2022-03-25 19:45:45] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:45:45] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:45:52] restart: Requested by Console
+[2022-03-25 19:45:52] restart: Resource restarting...
+[2022-03-25 19:45:52] Stopping auth
+[2022-03-25 19:45:52] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:45:52] Starting auth
+[2022-03-25 19:45:52] auth restarted successfully
+[2022-03-25 19:45:53] QUIT: nox left the game [Quit]
+[2022-03-25 19:45:54] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:45:54] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:46:32] restart: Requested by Console
+[2022-03-25 19:46:32] restart: Resource restarting...
+[2022-03-25 19:46:32] Stopping auth
+[2022-03-25 19:46:32] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:46:32] Starting auth
+[2022-03-25 19:46:32] auth restarted successfully
+[2022-03-25 19:46:33] QUIT: nox left the game [Quit]
+[2022-03-25 19:46:34] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:46:34] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:46:48] restart: Requested by Console
+[2022-03-25 19:46:48] restart: Resource restarting...
+[2022-03-25 19:46:48] Stopping auth
+[2022-03-25 19:46:48] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:46:48] Starting auth
+[2022-03-25 19:46:48] auth restarted successfully
+[2022-03-25 19:46:50] QUIT: nox left the game [Quit]
+[2022-03-25 19:46:51] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:46:51] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:47:09] restart: Requested by Console
+[2022-03-25 19:47:09] restart: Resource restarting...
+[2022-03-25 19:47:09] Stopping auth
+[2022-03-25 19:47:09] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:47:09] Starting auth
+[2022-03-25 19:47:09] auth restarted successfully
+[2022-03-25 19:47:11] QUIT: nox left the game [Quit]
+[2022-03-25 19:47:12] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:47:12] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:47:50] restart: Requested by Console
+[2022-03-25 19:47:50] restart: Resource restarting...
+[2022-03-25 19:47:50] Stopping auth
+[2022-03-25 19:47:50] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:47:50] Starting auth
+[2022-03-25 19:47:50] auth restarted successfully
+[2022-03-25 19:47:52] QUIT: nox left the game [Quit]
+[2022-03-25 19:47:53] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:47:53] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:48:02] restart: Requested by Console
+[2022-03-25 19:48:02] restart: Resource restarting...
+[2022-03-25 19:48:02] Stopping auth
+[2022-03-25 19:48:02] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:48:02] Starting auth
+[2022-03-25 19:48:02] auth restarted successfully
+[2022-03-25 19:48:04] QUIT: nox left the game [Quit]
+[2022-03-25 19:48:04] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:48:04] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:48:09] restart: Requested by Console
+[2022-03-25 19:48:09] restart: Resource restarting...
+[2022-03-25 19:48:09] Stopping auth
+[2022-03-25 19:48:09] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:48:09] Starting auth
+[2022-03-25 19:48:09] auth restarted successfully
+[2022-03-25 19:48:11] QUIT: nox left the game [Quit]
+[2022-03-25 19:48:12] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:48:12] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:48:16] restart: Requested by Console
+[2022-03-25 19:48:16] restart: Resource restarting...
+[2022-03-25 19:48:16] Stopping auth
+[2022-03-25 19:48:16] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:48:16] Starting auth
+[2022-03-25 19:48:16] auth restarted successfully
+[2022-03-25 19:48:18] QUIT: nox left the game [Quit]
+[2022-03-25 19:48:18] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:48:18] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:48:23] restart: Requested by Console
+[2022-03-25 19:48:23] restart: Resource restarting...
+[2022-03-25 19:48:23] Stopping auth
+[2022-03-25 19:48:23] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:48:23] Starting auth
+[2022-03-25 19:48:23] auth restarted successfully
+[2022-03-25 19:48:24] QUIT: nox left the game [Quit]
+[2022-03-25 19:48:25] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:48:25] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:48:29] restart: Requested by Console
+[2022-03-25 19:48:29] restart: Resource restarting...
+[2022-03-25 19:48:29] Stopping auth
+[2022-03-25 19:48:29] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:48:29] Starting auth
+[2022-03-25 19:48:29] auth restarted successfully
+[2022-03-25 19:48:31] QUIT: nox left the game [Quit]
+[2022-03-25 19:48:31] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:48:31] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:48:36] restart: Requested by Console
+[2022-03-25 19:48:36] restart: Resource restarting...
+[2022-03-25 19:48:36] Stopping auth
+[2022-03-25 19:48:36] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:48:36] Starting auth
+[2022-03-25 19:48:36] auth restarted successfully
+[2022-03-25 19:48:38] QUIT: nox left the game [Quit]
+[2022-03-25 19:48:38] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:48:38] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:49:39] restart: Requested by Console
+[2022-03-25 19:49:39] restart: Resource restarting...
+[2022-03-25 19:49:39] Stopping auth
+[2022-03-25 19:49:39] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:49:39] Starting auth
+[2022-03-25 19:49:39] auth restarted successfully
+[2022-03-25 19:49:41] QUIT: nox left the game [Quit]
+[2022-03-25 19:49:41] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:49:41] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:49:49] restart: Requested by Console
+[2022-03-25 19:49:49] restart: Resource restarting...
+[2022-03-25 19:49:49] Stopping auth
+[2022-03-25 19:49:49] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:49:49] Starting auth
+[2022-03-25 19:49:49] auth restarted successfully
+[2022-03-25 19:49:51] QUIT: nox left the game [Quit]
+[2022-03-25 19:49:51] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:49:52] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:50:09] restart: Requested by Console
+[2022-03-25 19:50:09] restart: Resource restarting...
+[2022-03-25 19:50:09] Stopping auth
+[2022-03-25 19:50:09] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:50:09] Starting auth
+[2022-03-25 19:50:09] auth restarted successfully
+[2022-03-25 19:50:11] QUIT: nox left the game [Quit]
+[2022-03-25 19:50:11] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:50:11] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:50:42] restart: Requested by Console
+[2022-03-25 19:50:42] restart: Resource restarting...
+[2022-03-25 19:50:42] Stopping auth
+[2022-03-25 19:50:42] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:50:42] Starting auth
+[2022-03-25 19:50:42] auth restarted successfully
+[2022-03-25 19:50:44] QUIT: nox left the game [Quit]
+[2022-03-25 19:50:45] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:50:45] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:50:56] restart: Requested by Console
+[2022-03-25 19:50:56] restart: Resource restarting...
+[2022-03-25 19:50:56] Stopping auth
+[2022-03-25 19:50:56] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:50:56] Starting auth
+[2022-03-25 19:50:56] auth restarted successfully
+[2022-03-25 19:50:57] QUIT: nox left the game [Quit]
+[2022-03-25 19:50:58] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:50:58] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:51:05] restart: Requested by Console
+[2022-03-25 19:51:05] restart: Resource restarting...
+[2022-03-25 19:51:05] Stopping auth
+[2022-03-25 19:51:05] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:51:05] Starting auth
+[2022-03-25 19:51:05] auth restarted successfully
+[2022-03-25 19:51:08] QUIT: nox left the game [Quit]
+[2022-03-25 19:51:08] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:51:08] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:51:16] restart: Requested by Console
+[2022-03-25 19:51:16] restart: Resource restarting...
+[2022-03-25 19:51:16] Stopping auth
+[2022-03-25 19:51:16] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:51:16] Starting auth
+[2022-03-25 19:51:16] auth restarted successfully
+[2022-03-25 19:51:18] QUIT: nox left the game [Quit]
+[2022-03-25 19:51:18] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:51:18] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:51:30] restart: Requested by Console
+[2022-03-25 19:51:30] restart: Resource restarting...
+[2022-03-25 19:51:30] Stopping auth
+[2022-03-25 19:51:30] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:51:30] Starting auth
+[2022-03-25 19:51:30] auth restarted successfully
+[2022-03-25 19:51:32] QUIT: nox left the game [Quit]
+[2022-03-25 19:51:32] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:51:32] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:51:37] QUIT: nox left the game [Quit]
+[2022-03-25 19:51:38] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:51:38] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:51:42] restart: Requested by Console
+[2022-03-25 19:51:42] restart: Resource restarting...
+[2022-03-25 19:51:42] Stopping auth
+[2022-03-25 19:51:42] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:51:42] Starting auth
+[2022-03-25 19:51:42] auth restarted successfully
+[2022-03-25 19:51:44] QUIT: nox left the game [Quit]
+[2022-03-25 19:51:45] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:51:45] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:51:52] restart: Requested by Console
+[2022-03-25 19:51:52] restart: Resource restarting...
+[2022-03-25 19:51:52] Stopping auth
+[2022-03-25 19:51:52] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:51:52] Starting auth
+[2022-03-25 19:51:52] auth restarted successfully
+[2022-03-25 19:51:53] QUIT: nox left the game [Quit]
+[2022-03-25 19:51:53] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:51:53] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:53:02] restart: Requested by Console
+[2022-03-25 19:53:02] restart: Resource restarting...
+[2022-03-25 19:53:02] Stopping auth
+[2022-03-25 19:53:02] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:53:02] Starting auth
+[2022-03-25 19:53:02] auth restarted successfully
+[2022-03-25 19:53:04] QUIT: nox left the game [Quit]
+[2022-03-25 19:53:05] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:53:05] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:53:25] restart: Requested by Console
+[2022-03-25 19:53:25] restart: Resource restarting...
+[2022-03-25 19:53:25] Stopping auth
+[2022-03-25 19:53:25] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:53:25] Starting auth
+[2022-03-25 19:53:25] auth restarted successfully
+[2022-03-25 19:53:26] QUIT: nox left the game [Quit]
+[2022-03-25 19:53:27] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:53:27] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:54:24] restart: Requested by Console
+[2022-03-25 19:54:24] restart: Resource restarting...
+[2022-03-25 19:54:24] Stopping auth
+[2022-03-25 19:54:24] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:54:24] Starting auth
+[2022-03-25 19:54:24] auth restarted successfully
+[2022-03-25 19:54:25] QUIT: nox left the game [Quit]
+[2022-03-25 19:54:26] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:54:26] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:54:57] restart: Requested by Console
+[2022-03-25 19:54:57] restart: Resource restarting...
+[2022-03-25 19:54:57] Stopping auth
+[2022-03-25 19:54:57] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:54:57] Starting auth
+[2022-03-25 19:54:57] auth restarted successfully
+[2022-03-25 19:54:58] QUIT: nox left the game [Quit]
+[2022-03-25 19:54:58] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:54:58] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:56:07] restart: Requested by Console
+[2022-03-25 19:56:07] restart: Resource restarting...
+[2022-03-25 19:56:07] Stopping auth
+[2022-03-25 19:56:07] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:56:07] Starting auth
+[2022-03-25 19:56:07] auth restarted successfully
+[2022-03-25 19:56:09] QUIT: nox left the game [Quit]
+[2022-03-25 19:56:09] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:56:09] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:56:25] New resource 'fonts' loaded
+[2022-03-25 19:56:25] Resources: 4 loaded, 0 failed
+[2022-03-25 19:56:27] start: Requested by Console
+[2022-03-25 19:56:27] Starting fonts
+[2022-03-25 19:56:27] start: Resource 'fonts' started
+[2022-03-25 19:56:37] start: Requested by Console
+[2022-03-25 19:56:37] start: Resource is already running
+[2022-03-25 19:56:39] restart: Requested by Console
+[2022-03-25 19:56:39] restart: Resource restarting...
+[2022-03-25 19:56:39] Stopping auth
+[2022-03-25 19:56:39] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:56:39] Starting auth
+[2022-03-25 19:56:39] auth restarted successfully
+[2022-03-25 19:56:40] QUIT: nox left the game [Quit]
+[2022-03-25 19:56:40] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:56:40] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:56:51] restart: Requested by Console
+[2022-03-25 19:56:51] restart: Resource restarting...
+[2022-03-25 19:56:51] Stopping auth
+[2022-03-25 19:56:51] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:56:51] Starting auth
+[2022-03-25 19:56:51] auth restarted successfully
+[2022-03-25 19:56:53] QUIT: nox left the game [Quit]
+[2022-03-25 19:56:53] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:56:53] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:57:02] restart: Requested by Console
+[2022-03-25 19:57:02] restart: Resource restarting...
+[2022-03-25 19:57:02] Stopping auth
+[2022-03-25 19:57:02] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:57:02] Starting auth
+[2022-03-25 19:57:02] auth restarted successfully
+[2022-03-25 19:57:03] QUIT: nox left the game [Quit]
+[2022-03-25 19:57:04] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:57:04] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:57:09] restart: Requested by Console
+[2022-03-25 19:57:09] restart: Resource restarting...
+[2022-03-25 19:57:09] Stopping auth
+[2022-03-25 19:57:09] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:57:09] Starting auth
+[2022-03-25 19:57:09] auth restarted successfully
+[2022-03-25 19:57:10] QUIT: nox left the game [Quit]
+[2022-03-25 19:57:10] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:57:10] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 19:57:19] restart: Requested by Console
+[2022-03-25 19:57:19] restart: Resource restarting...
+[2022-03-25 19:57:19] Stopping auth
+[2022-03-25 19:57:19] Resource 'auth' changed, reloading and starting
+[2022-03-25 19:57:19] Starting auth
+[2022-03-25 19:57:19] auth restarted successfully
+[2022-03-25 19:57:20] QUIT: nox left the game [Quit]
+[2022-03-25 19:57:21] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 19:57:21] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:01:51] restart: Requested by Console
+[2022-03-25 20:01:51] restart: Resource restarting...
+[2022-03-25 20:01:51] Stopping auth
+[2022-03-25 20:01:51] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:01:51] Starting auth
+[2022-03-25 20:01:51] auth restarted successfully
+[2022-03-25 20:01:52] QUIT: nox left the game [Quit]
+[2022-03-25 20:01:52] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:01:52] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:03:21] restart: Requested by Console
+[2022-03-25 20:03:21] restart: Resource restarting...
+[2022-03-25 20:03:21] Stopping auth
+[2022-03-25 20:03:21] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:03:21] Starting auth
+[2022-03-25 20:03:21] auth restarted successfully
+[2022-03-25 20:03:22] QUIT: nox left the game [Quit]
+[2022-03-25 20:03:22] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:03:22] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:04:18] restart: Requested by Console
+[2022-03-25 20:04:18] restart: Resource restarting...
+[2022-03-25 20:04:18] Stopping auth
+[2022-03-25 20:04:18] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:04:18] Starting auth
+[2022-03-25 20:04:18] auth restarted successfully
+[2022-03-25 20:04:19] QUIT: nox left the game [Quit]
+[2022-03-25 20:04:19] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:04:19] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:05:02] restart: Requested by Console
+[2022-03-25 20:05:02] restart: Resource restarting...
+[2022-03-25 20:05:02] Stopping auth
+[2022-03-25 20:05:02] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:05:02] Starting auth
+[2022-03-25 20:05:02] auth restarted successfully
+[2022-03-25 20:05:04] QUIT: nox left the game [Quit]
+[2022-03-25 20:05:04] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:05:04] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:05:51] restart: Requested by Console
+[2022-03-25 20:05:51] restart: Resource restarting...
+[2022-03-25 20:05:51] Stopping auth
+[2022-03-25 20:05:51] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:05:51] Starting auth
+[2022-03-25 20:05:51] auth restarted successfully
+[2022-03-25 20:05:52] QUIT: nox left the game [Quit]
+[2022-03-25 20:05:52] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:05:52] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:07:32] restart: Requested by Console
+[2022-03-25 20:07:32] restart: Resource restarting...
+[2022-03-25 20:07:32] Stopping auth
+[2022-03-25 20:07:32] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:07:32] Starting auth
+[2022-03-25 20:07:32] auth restarted successfully
+[2022-03-25 20:07:33] QUIT: nox left the game [Quit]
+[2022-03-25 20:07:33] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:07:33] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:08:59] restart: Requested by Console
+[2022-03-25 20:08:59] restart: Resource restarting...
+[2022-03-25 20:08:59] Stopping auth
+[2022-03-25 20:08:59] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:08:59] Starting auth
+[2022-03-25 20:08:59] auth restarted successfully
+[2022-03-25 20:09:00] QUIT: nox left the game [Quit]
+[2022-03-25 20:09:01] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:09:01] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:15:24] restart: Requested by Console
+[2022-03-25 20:15:24] restart: Resource restarting...
+[2022-03-25 20:15:24] Stopping auth
+[2022-03-25 20:15:24] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:15:24] Starting auth
+[2022-03-25 20:15:24] auth restarted successfully
+[2022-03-25 20:15:25] QUIT: nox left the game [Quit]
+[2022-03-25 20:15:26] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:15:26] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:18:01] restart: Requested by Console
+[2022-03-25 20:18:01] restart: Resource restarting...
+[2022-03-25 20:18:01] Stopping auth
+[2022-03-25 20:18:01] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:18:01] Starting auth
+[2022-03-25 20:18:01] auth restarted successfully
+[2022-03-25 20:18:02] QUIT: nox left the game [Quit]
+[2022-03-25 20:18:02] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:18:02] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:18:10] restart: Requested by Console
+[2022-03-25 20:18:10] restart: Resource restarting...
+[2022-03-25 20:18:10] Stopping auth
+[2022-03-25 20:18:10] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:18:10] Starting auth
+[2022-03-25 20:18:10] auth restarted successfully
+[2022-03-25 20:18:11] QUIT: nox left the game [Quit]
+[2022-03-25 20:18:12] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:18:12] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:20:34] restart: Requested by Console
+[2022-03-25 20:20:34] restart: Resource restarting...
+[2022-03-25 20:20:34] Stopping auth
+[2022-03-25 20:20:34] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:20:34] Starting auth
+[2022-03-25 20:20:34] auth restarted successfully
+[2022-03-25 20:20:36] QUIT: nox left the game [Quit]
+[2022-03-25 20:20:36] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:20:36] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:21:00] restart: Requested by Console
+[2022-03-25 20:21:00] restart: Resource restarting...
+[2022-03-25 20:21:00] Stopping auth
+[2022-03-25 20:21:00] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:21:00] Starting auth
+[2022-03-25 20:21:00] auth restarted successfully
+[2022-03-25 20:21:08] QUIT: nox left the game [Quit]
+[2022-03-25 20:21:09] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:21:09] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:23:20] restart: Requested by Console
+[2022-03-25 20:23:20] restart: Resource restarting...
+[2022-03-25 20:23:20] Stopping auth
+[2022-03-25 20:23:20] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:23:20] Starting auth
+[2022-03-25 20:23:20] auth restarted successfully
+[2022-03-25 20:23:21] QUIT: nox left the game [Quit]
+[2022-03-25 20:23:22] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:23:22] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:23:26] restart: Requested by Console
+[2022-03-25 20:23:26] restart: Resource restarting...
+[2022-03-25 20:23:26] Stopping auth
+[2022-03-25 20:23:26] Starting auth
+[2022-03-25 20:23:26] auth restarted successfully
+[2022-03-25 20:26:28] restart: Requested by Console
+[2022-03-25 20:26:28] restart: Resource restarting...
+[2022-03-25 20:26:28] Stopping auth
+[2022-03-25 20:26:28] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:26:28] Starting auth
+[2022-03-25 20:26:28] auth restarted successfully
+[2022-03-25 20:26:29] QUIT: nox left the game [Quit]
+[2022-03-25 20:26:29] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:26:29] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:26:35] QUIT: nox left the game [Quit]
+[2022-03-25 20:26:36] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:26:36] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:31:33] restart: Requested by Console
+[2022-03-25 20:31:33] restart: Resource restarting...
+[2022-03-25 20:31:33] Stopping auth
+[2022-03-25 20:31:33] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:31:34] Starting auth
+[2022-03-25 20:31:34] auth restarted successfully
+[2022-03-25 20:31:35] QUIT: nox left the game [Quit]
+[2022-03-25 20:31:35] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:31:35] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:32:20] restart: Requested by Console
+[2022-03-25 20:32:20] restart: Resource restarting...
+[2022-03-25 20:32:20] Stopping auth
+[2022-03-25 20:32:20] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:32:20] Starting auth
+[2022-03-25 20:32:20] auth restarted successfully
+[2022-03-25 20:32:22] QUIT: nox left the game [Quit]
+[2022-03-25 20:32:23] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:32:23] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:33:35] restart: Requested by Console
+[2022-03-25 20:33:35] restart: Resource restarting...
+[2022-03-25 20:33:35] Stopping auth
+[2022-03-25 20:33:35] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:33:35] Starting auth
+[2022-03-25 20:33:35] auth restarted successfully
+[2022-03-25 20:33:36] QUIT: nox left the game [Quit]
+[2022-03-25 20:33:36] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:33:37] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:33:48] restart: Requested by Console
+[2022-03-25 20:33:48] restart: Resource restarting...
+[2022-03-25 20:33:48] Stopping auth
+[2022-03-25 20:33:48] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:33:48] Starting auth
+[2022-03-25 20:33:48] auth restarted successfully
+[2022-03-25 20:33:49] QUIT: nox left the game [Quit]
+[2022-03-25 20:33:49] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:33:49] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:34:17] restart: Requested by Console
+[2022-03-25 20:34:17] restart: Resource restarting...
+[2022-03-25 20:34:17] Stopping auth
+[2022-03-25 20:34:17] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:34:17] Starting auth
+[2022-03-25 20:34:17] auth restarted successfully
+[2022-03-25 20:34:18] QUIT: nox left the game [Quit]
+[2022-03-25 20:34:18] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:34:18] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:34:25] restart: Requested by Console
+[2022-03-25 20:34:25] restart: Resource restarting...
+[2022-03-25 20:34:25] Stopping auth
+[2022-03-25 20:34:25] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:34:25] Starting auth
+[2022-03-25 20:34:25] auth restarted successfully
+[2022-03-25 20:34:25] QUIT: nox left the game [Quit]
+[2022-03-25 20:34:26] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:34:26] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:34:31] restart: Requested by Console
+[2022-03-25 20:34:31] restart: Resource restarting...
+[2022-03-25 20:34:31] Stopping auth
+[2022-03-25 20:34:31] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:34:31] Starting auth
+[2022-03-25 20:34:31] auth restarted successfully
+[2022-03-25 20:34:32] QUIT: nox left the game [Quit]
+[2022-03-25 20:34:33] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:34:33] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:34:36] restart: Requested by Console
+[2022-03-25 20:34:36] restart: Resource restarting...
+[2022-03-25 20:34:36] Stopping auth
+[2022-03-25 20:34:36] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:34:36] Starting auth
+[2022-03-25 20:34:36] auth restarted successfully
+[2022-03-25 20:34:42] QUIT: nox left the game [Quit]
+[2022-03-25 20:34:42] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:34:42] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:34:54] restart: Requested by Console
+[2022-03-25 20:34:54] restart: Resource restarting...
+[2022-03-25 20:34:54] Stopping auth
+[2022-03-25 20:34:54] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:34:54] Starting auth
+[2022-03-25 20:34:54] auth restarted successfully
+[2022-03-25 20:34:55] QUIT: nox left the game [Quit]
+[2022-03-25 20:34:55] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:34:55] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:35:00] restart: Requested by Console
+[2022-03-25 20:35:00] restart: Resource restarting...
+[2022-03-25 20:35:00] Stopping auth
+[2022-03-25 20:35:00] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:35:00] Starting auth
+[2022-03-25 20:35:00] auth restarted successfully
+[2022-03-25 20:35:02] QUIT: nox left the game [Quit]
+[2022-03-25 20:35:02] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:35:02] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:35:08] restart: Requested by Console
+[2022-03-25 20:35:08] restart: Resource restarting...
+[2022-03-25 20:35:08] Stopping auth
+[2022-03-25 20:35:08] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:35:08] Starting auth
+[2022-03-25 20:35:08] auth restarted successfully
+[2022-03-25 20:35:09] QUIT: nox left the game [Quit]
+[2022-03-25 20:35:09] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:35:09] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:35:28] restart: Requested by Console
+[2022-03-25 20:35:28] restart: Resource restarting...
+[2022-03-25 20:35:28] Stopping auth
+[2022-03-25 20:35:28] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:35:28] Starting auth
+[2022-03-25 20:35:28] auth restarted successfully
+[2022-03-25 20:35:29] QUIT: nox left the game [Quit]
+[2022-03-25 20:35:29] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:35:29] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:35:37] restart: Requested by Console
+[2022-03-25 20:35:37] restart: Resource restarting...
+[2022-03-25 20:35:37] Stopping auth
+[2022-03-25 20:35:37] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:35:37] Starting auth
+[2022-03-25 20:35:37] auth restarted successfully
+[2022-03-25 20:35:38] QUIT: nox left the game [Quit]
+[2022-03-25 20:35:38] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:35:39] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:35:50] restart: Requested by Console
+[2022-03-25 20:35:50] restart: Resource restarting...
+[2022-03-25 20:35:50] Stopping auth
+[2022-03-25 20:35:50] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:35:50] Starting auth
+[2022-03-25 20:35:50] auth restarted successfully
+[2022-03-25 20:35:51] QUIT: nox left the game [Quit]
+[2022-03-25 20:35:52] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:35:52] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:35:57] restart: Requested by Console
+[2022-03-25 20:35:57] restart: Resource restarting...
+[2022-03-25 20:35:57] Stopping auth
+[2022-03-25 20:35:57] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:35:57] Starting auth
+[2022-03-25 20:35:57] auth restarted successfully
+[2022-03-25 20:35:57] QUIT: nox left the game [Quit]
+[2022-03-25 20:35:58] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:35:58] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:36:03] QUIT: nox left the game [Quit]
+[2022-03-25 20:36:04] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:36:04] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:36:11] QUIT: nox left the game [Quit]
+[2022-03-25 20:36:11] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:36:11] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:36:21] restart: Requested by Console
+[2022-03-25 20:36:21] restart: Resource restarting...
+[2022-03-25 20:36:21] Stopping auth
+[2022-03-25 20:36:21] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:36:21] Starting auth
+[2022-03-25 20:36:21] auth restarted successfully
+[2022-03-25 20:36:22] QUIT: nox left the game [Quit]
+[2022-03-25 20:36:22] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:36:22] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:36:26] restart: Requested by Console
+[2022-03-25 20:36:26] restart: Resource restarting...
+[2022-03-25 20:36:26] Stopping auth
+[2022-03-25 20:36:26] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:36:26] Starting auth
+[2022-03-25 20:36:26] auth restarted successfully
+[2022-03-25 20:36:27] QUIT: nox left the game [Quit]
+[2022-03-25 20:36:28] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:36:28] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:36:42] restart: Requested by Console
+[2022-03-25 20:36:42] restart: Resource restarting...
+[2022-03-25 20:36:42] Stopping auth
+[2022-03-25 20:36:42] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:36:42] Starting auth
+[2022-03-25 20:36:42] auth restarted successfully
+[2022-03-25 20:36:42] QUIT: nox left the game [Quit]
+[2022-03-25 20:36:43] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:36:43] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:36:50] restart: Requested by Console
+[2022-03-25 20:36:50] restart: Resource restarting...
+[2022-03-25 20:36:50] Stopping auth
+[2022-03-25 20:36:50] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:36:50] Starting auth
+[2022-03-25 20:36:50] auth restarted successfully
+[2022-03-25 20:36:50] QUIT: nox left the game [Quit]
+[2022-03-25 20:36:51] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:36:51] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:37:05] restart: Requested by Console
+[2022-03-25 20:37:05] restart: Resource restarting...
+[2022-03-25 20:37:05] Stopping auth
+[2022-03-25 20:37:05] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:37:05] Starting auth
+[2022-03-25 20:37:05] auth restarted successfully
+[2022-03-25 20:37:05] QUIT: nox left the game [Quit]
+[2022-03-25 20:37:06] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:37:06] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:37:16] restart: Requested by Console
+[2022-03-25 20:37:16] restart: Resource restarting...
+[2022-03-25 20:37:16] Stopping auth
+[2022-03-25 20:37:16] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:37:16] Starting auth
+[2022-03-25 20:37:16] auth restarted successfully
+[2022-03-25 20:37:16] QUIT: nox left the game [Quit]
+[2022-03-25 20:37:17] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:37:17] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:38:00] restart: Requested by Console
+[2022-03-25 20:38:00] restart: Resource restarting...
+[2022-03-25 20:38:00] Stopping auth
+[2022-03-25 20:38:00] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:38:00] Starting auth
+[2022-03-25 20:38:00] auth restarted successfully
+[2022-03-25 20:38:01] QUIT: nox left the game [Quit]
+[2022-03-25 20:38:02] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:38:02] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:38:18] restart: Requested by Console
+[2022-03-25 20:38:18] restart: Resource restarting...
+[2022-03-25 20:38:18] Stopping auth
+[2022-03-25 20:38:18] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:38:18] Starting auth
+[2022-03-25 20:38:18] auth restarted successfully
+[2022-03-25 20:38:19] QUIT: nox left the game [Quit]
+[2022-03-25 20:38:19] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:38:20] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:38:31] restart: Requested by Console
+[2022-03-25 20:38:31] restart: Resource restarting...
+[2022-03-25 20:38:31] Stopping auth
+[2022-03-25 20:38:31] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:38:31] Starting auth
+[2022-03-25 20:38:31] auth restarted successfully
+[2022-03-25 20:38:32] QUIT: nox left the game [Quit]
+[2022-03-25 20:38:32] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:38:32] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:38:41] restart: Requested by Console
+[2022-03-25 20:38:41] restart: Resource restarting...
+[2022-03-25 20:38:41] Stopping auth
+[2022-03-25 20:38:41] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:38:41] Starting auth
+[2022-03-25 20:38:41] auth restarted successfully
+[2022-03-25 20:38:42] QUIT: nox left the game [Quit]
+[2022-03-25 20:38:42] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:38:43] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:38:49] restart: Requested by Console
+[2022-03-25 20:38:49] restart: Resource restarting...
+[2022-03-25 20:38:49] Stopping auth
+[2022-03-25 20:38:49] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:38:49] Starting auth
+[2022-03-25 20:38:49] auth restarted successfully
+[2022-03-25 20:38:49] QUIT: nox left the game [Quit]
+[2022-03-25 20:38:50] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:38:50] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:39:56] restart: Requested by Console
+[2022-03-25 20:39:56] restart: Resource restarting...
+[2022-03-25 20:39:56] Stopping auth
+[2022-03-25 20:39:56] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:39:56] Starting auth
+[2022-03-25 20:39:56] auth restarted successfully
+[2022-03-25 20:39:56] QUIT: nox left the game [Quit]
+[2022-03-25 20:39:58] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:39:58] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:40:11] restart: Requested by Console
+[2022-03-25 20:40:11] restart: Resource restarting...
+[2022-03-25 20:40:11] Stopping auth
+[2022-03-25 20:40:11] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:40:11] Starting auth
+[2022-03-25 20:40:11] auth restarted successfully
+[2022-03-25 20:40:16] QUIT: nox left the game [Quit]
+[2022-03-25 20:40:19] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:40:19] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:44:30] restart: Requested by Console
+[2022-03-25 20:44:30] restart: Resource restarting...
+[2022-03-25 20:44:30] Stopping auth
+[2022-03-25 20:44:30] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:44:30] Starting auth
+[2022-03-25 20:44:30] auth restarted successfully
+[2022-03-25 20:44:31] QUIT: nox left the game [Quit]
+[2022-03-25 20:44:32] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:44:32] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:45:00] restart: Requested by Console
+[2022-03-25 20:45:00] restart: Resource restarting...
+[2022-03-25 20:45:00] Stopping auth
+[2022-03-25 20:45:00] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:45:00] Starting auth
+[2022-03-25 20:45:00] auth restarted successfully
+[2022-03-25 20:45:01] QUIT: nox left the game [Quit]
+[2022-03-25 20:45:01] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:45:01] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:45:33] restart: Requested by Console
+[2022-03-25 20:45:33] restart: Resource restarting...
+[2022-03-25 20:45:33] Stopping auth
+[2022-03-25 20:45:33] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:45:33] Starting auth
+[2022-03-25 20:45:33] auth restarted successfully
+[2022-03-25 20:45:34] QUIT: nox left the game [Quit]
+[2022-03-25 20:45:34] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:45:34] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:46:55] restart: Requested by Console
+[2022-03-25 20:46:55] restart: Resource restarting...
+[2022-03-25 20:46:55] Stopping auth
+[2022-03-25 20:46:55] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:46:55] Starting auth
+[2022-03-25 20:46:55] auth restarted successfully
+[2022-03-25 20:46:58] QUIT: nox left the game [Quit]
+[2022-03-25 20:46:59] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:46:59] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:47:33] New resource 'cpu' loaded
+[2022-03-25 20:47:33] Resources: 5 loaded, 0 failed
+[2022-03-25 20:47:34] start: Requested by Console
+[2022-03-25 20:47:34] Starting cpu
+[2022-03-25 20:47:34] start: Resource 'cpu' started
+[2022-03-25 20:47:35] QUIT: nox left the game [Quit]
+[2022-03-25 20:47:36] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:47:36] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-25 20:50:44] start: Requested by Console
+[2022-03-25 20:50:44] start: Resource is already running
+[2022-03-25 20:50:46] restart: Requested by Console
+[2022-03-25 20:50:46] restart: Resource restarting...
+[2022-03-25 20:50:46] Stopping auth
+[2022-03-25 20:50:46] Resource 'auth' changed, reloading and starting
+[2022-03-25 20:50:46] Starting auth
+[2022-03-25 20:50:46] auth restarted successfully
+[2022-03-25 20:50:47] QUIT: nox left the game [Quit]
+[2022-03-25 20:50:50] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-25 20:50:50] JOIN: nox joined the game (IP: 127.0.0.1)
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9 [64 bit]
+==================================================================
+= Server name      : Unt Roleplay [untroleplay.com] Sesli/Yazılı Global Medium+ (Türk/Türk Sunucusu)
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..nox-dev/ww3/mods/deathmatch/logs/server.log
+= Maximum players  : 4000
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2022-03-26 14:59:20] Resources: 5 loaded, 0 failed
+[2022-03-26 14:59:20] Starting resources...
+[2022-03-26 14:59:20] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2022-03-26 14:59:20] Server started and is ready to accept connections!
+[2022-03-26 14:59:20] To stop the server, type 'shutdown' or press Ctrl-C
+[2022-03-26 14:59:20] Type 'help' for a list of commands.
+[2022-03-26 14:59:20] Querying MTA master server... success! (Auto detected IP:212.154.66.131)
+[2022-03-26 14:59:25] start: Requested by Console
+[2022-03-26 14:59:25] Starting auth
+[2022-03-26 14:59:25] start: Resource 'auth' started
+[2022-03-26 14:59:26] start: Requested by Console
+[2022-03-26 14:59:26] Starting cpu
+[2022-03-26 14:59:26] start: Resource 'cpu' started
+[2022-03-26 14:59:28] start: Requested by Console
+[2022-03-26 14:59:28] Starting fonts
+[2022-03-26 14:59:28] Server minclientversion is now 1.5.9-9.21129.0
+[2022-03-26 14:59:28] start: Resource 'fonts' started
+[2022-03-26 14:59:29] start: Requested by Console
+[2022-03-26 14:59:29] Starting debug
+[2022-03-26 14:59:29] start: Resource 'debug' started
+[2022-03-26 14:59:32] restart: Requested by Console
+[2022-03-26 14:59:32] restart: Resource restarting...
+[2022-03-26 14:59:32] Stopping auth
+[2022-03-26 14:59:32] Starting auth
+[2022-03-26 14:59:32] auth restarted successfully
+[2022-03-26 15:06:15] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 15:06:17] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-26 15:16:47] restart: Requested by Console
+[2022-03-26 15:16:47] restart: Resource restarting...
+[2022-03-26 15:16:47] Stopping auth
+[2022-03-26 15:16:47] Resource 'auth' changed, reloading and starting
+[2022-03-26 15:16:47] Starting auth
+[2022-03-26 15:16:47] auth restarted successfully
+[2022-03-26 15:16:48] QUIT: nox left the game [Quit]
+[2022-03-26 15:16:49] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 15:16:49] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-26 15:17:32] restart: Requested by Console
+[2022-03-26 15:17:32] restart: Resource restarting...
+[2022-03-26 15:17:32] Stopping auth
+[2022-03-26 15:17:32] Resource 'auth' changed, reloading and starting
+[2022-03-26 15:17:32] Starting auth
+[2022-03-26 15:17:32] auth restarted successfully
+[2022-03-26 15:17:33] QUIT: nox left the game [Quit]
+[2022-03-26 15:17:34] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 15:17:34] JOIN: nox joined the game (IP: 127.0.0.1)
