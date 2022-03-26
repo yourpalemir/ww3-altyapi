@@ -8,7 +8,7 @@ end)
 addEvent('login:attempt',true)
 addEventHandler('login:attempt',root,function(username, password)
     for k, v in pairs(accounts) do
-        if tostring(username) == tostring(v.username) and tostring(password) == tostring(v.password) then
+        if (tostring(username) == tostring(v.username) and tostring(password) == tostring(v.password)) then
             setElementData(source, 'account:username', v.username)
 			setElementData(source, 'adminlevel', v.admin)
             setElementData(source, 'dbid', v.id)
@@ -30,7 +30,7 @@ addEventHandler('onPlayerQuit', root, function()
 	dbExec(db, 'UPDATE accounts SET x=?, y=?, z=?, skin=? WHERE id=? ',x ,y, z, skin,tonumber(getElementData(source,'dbid')))
 	for k, v in pairs(accounts) do
 		if (accounts[tonumber(getElementData(source,'dbid'))]) then 
-			accounts[tonumber(getElementData(source,'dbid'))] = {admin=v.admin, x=v.x, y=v.y, z=v.z, skin=v.skin}
+			accounts[tonumber(getElementData(source,'dbid'))] = {id=value.id, username=value.username, password=value.password, email=value.email, phonenumber=value.phonenumber, serial=value.serial, admin=v.admin, x=v.x, y=v.y, z=v.z, skin=v.skin}
 		return end
 	end
 end)
@@ -51,7 +51,7 @@ end
 
 addEvent('register:request', true)
 addEventHandler('register:request', root, function(username, password)
-	local serial = getPlayerSerial(client)
+	local serial = getPlayerSerial(source)
 	if not (isAccountExists(username, password, serial)) and not (determinePlayerAccount(serial)) then
 		createAccount(username,password,serial)
         outputChatBox('Hesabın oluşturuldu.')

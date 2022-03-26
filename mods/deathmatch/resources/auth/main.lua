@@ -111,6 +111,8 @@ else
     showCursor(false)
     showing = false
     selectedText = nil
+    userText = ''
+    passText = ''
 end
 end
 addEvent('redirect:server',true)
@@ -161,6 +163,8 @@ function removeRender()
     showCursor(false)
     showing = false
     selectedText = nil
+    userText = ''
+    passText = ''
 end
 addEvent('remove:render',true)
 addEventHandler('remove:render',root,removeRender)
