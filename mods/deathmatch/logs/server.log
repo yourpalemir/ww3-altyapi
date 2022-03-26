@@ -2502,3 +2502,980 @@
 [2022-03-26 17:04:12] Resource 'nametag' changed, reloading and starting
 [2022-03-26 17:04:12] Starting nametag
 [2022-03-26 17:04:12] nametag restarted successfully
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9 [64 bit]
+==================================================================
+= Server name      : ww3 altyapi
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ww3-altyapi/mods/deathmatch/logs/server.log
+= Maximum players  : 4000
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2022-03-26 17:30:28] Resources: 10 loaded, 0 failed
+[2022-03-26 17:30:28] Starting resources...
+[2022-03-26 17:30:28] INFO: Database baglantisi basarili. - nox
+[2022-03-26 17:30:28] start: Resource 'sqlite' started
+[2022-03-26 17:30:28] Server minclientversion is now 1.5.9-9.21129.0
+[2022-03-26 17:30:28] start: Resource 'fonts' started
+[2022-03-26 17:30:28] start: Resource 'auth' started
+[2022-03-26 17:30:28] start: Resource 'main' started
+[2022-03-26 17:30:28] start: Resource 'admin-system' started
+[2022-03-26 17:30:28] start: Resource 'cpu' started
+[2022-03-26 17:30:28] start: Resource 'debug' started
+[2022-03-26 17:30:29] WARNING: guieditor <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.6-9.14489 because of 'guiComboBoxGetItemCount')
+[2022-03-26 17:30:29] WARNING: guieditor requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.6-9.14489 because of 'guiComboBoxGetItemCount')
+[2022-03-26 17:30:29] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2022-03-26 17:30:29] start: Resource 'guieditor' started
+[2022-03-26 17:30:29] start: Resource 'nametag' started
+[2022-03-26 17:30:29] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2022-03-26 17:30:29] Server started and is ready to accept connections!
+[2022-03-26 17:30:29] To stop the server, type 'shutdown' or press Ctrl-C
+[2022-03-26 17:30:29] Type 'help' for a list of commands.
+[2022-03-26 17:30:29] Querying MTA master server... success! (Auto detected IP:212.154.66.131)
+[2022-03-26 17:30:35] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 17:30:36] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-26 17:32:21] Server stopped!
+[2022-03-26 17:32:21] Stopping resources.............
+[2022-03-26 17:32:22] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9 [64 bit]
+==================================================================
+= Server name      : ww3 altyapi
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ww3-altyapi/mods/deathmatch/logs/server.log
+= Maximum players  : 4000
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2022-03-26 17:32:23] Resources: 10 loaded, 0 failed
+[2022-03-26 17:32:24] Starting resources...
+[2022-03-26 17:32:24] INFO: Database baglantisi basarili. - nox
+[2022-03-26 17:32:24] start: Resource 'sqlite' started
+[2022-03-26 17:32:24] Server minclientversion is now 1.5.9-9.21129.0
+[2022-03-26 17:32:24] start: Resource 'fonts' started
+[2022-03-26 17:32:24] start: Resource 'auth' started
+[2022-03-26 17:32:24] start: Resource 'main' started
+[2022-03-26 17:32:24] start: Resource 'admin-system' started
+[2022-03-26 17:32:24] start: Resource 'cpu' started
+[2022-03-26 17:32:24] start: Resource 'debug' started
+[2022-03-26 17:32:24] WARNING: guieditor <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.6-9.14489 because of 'guiComboBoxGetItemCount')
+[2022-03-26 17:32:24] WARNING: guieditor requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.6-9.14489 because of 'guiComboBoxGetItemCount')
+[2022-03-26 17:32:24] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2022-03-26 17:32:24] start: Resource 'guieditor' started
+[2022-03-26 17:32:24] start: Resource 'nametag' started
+[2022-03-26 17:32:24] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2022-03-26 17:32:24] Server started and is ready to accept connections!
+[2022-03-26 17:32:24] To stop the server, type 'shutdown' or press Ctrl-C
+[2022-03-26 17:32:24] Type 'help' for a list of commands.
+[2022-03-26 17:32:24] Querying MTA master server... success! (Auto detected IP:212.154.66.131)
+[2022-03-26 17:32:27] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 17:32:27] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-26 17:44:23] start: Resource could not be found
+[2022-03-26 17:44:26] start: Requested by Console
+[2022-03-26 17:44:26] start: Resource is already running
+[2022-03-26 17:44:29] restart: Requested by Console
+[2022-03-26 17:44:29] restart: Resource restarting...
+[2022-03-26 17:44:29] Stopping admin-system
+[2022-03-26 17:44:29] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 17:44:29] Starting admin-system
+[2022-03-26 17:44:29] SCRIPT ERROR: admin-system\ranks.lua:10: 'then' expected near 'the'
+[2022-03-26 17:44:29] ERROR: Loading script failed: admin-system\ranks.lua:10: 'then' expected near 'the'
+[2022-03-26 17:44:29] admin-system restarted successfully
+[2022-03-26 17:44:37] restart: Requested by Console
+[2022-03-26 17:44:37] restart: Resource restarting...
+[2022-03-26 17:44:37] Stopping admin-system
+[2022-03-26 17:44:37] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 17:44:37] Starting admin-system
+[2022-03-26 17:44:37] admin-system restarted successfully
+[2022-03-26 17:46:18] restart: Requested by Console
+[2022-03-26 17:46:18] restart: Resource restarting...
+[2022-03-26 17:46:18] Stopping admin-system
+[2022-03-26 17:46:18] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 17:46:18] Starting admin-system
+[2022-03-26 17:46:18] SCRIPT ERROR: admin-system\admin-cmds.lua:11: 'end' expected (to close 'function' at line 7) near 'else'
+[2022-03-26 17:46:18] ERROR: Loading script failed: admin-system\admin-cmds.lua:11: 'end' expected (to close 'function' at line 7) near 'else'
+[2022-03-26 17:46:18] admin-system restarted successfully
+[2022-03-26 17:46:42] restart: Requested by Console
+[2022-03-26 17:46:42] restart: Resource restarting...
+[2022-03-26 17:46:42] Stopping admin-system
+[2022-03-26 17:46:42] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 17:46:42] Starting admin-system
+[2022-03-26 17:46:42] admin-system restarted successfully
+[2022-03-26 17:49:21] restart: Requested by Console
+[2022-03-26 17:49:21] restart: Resource restarting...
+[2022-03-26 17:49:21] Stopping admin-system
+[2022-03-26 17:49:21] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 17:49:21] Starting admin-system
+[2022-03-26 17:49:21] admin-system restarted successfully
+[2022-03-26 17:49:42] restart: Requested by Console
+[2022-03-26 17:49:42] restart: Resource restarting...
+[2022-03-26 17:49:42] Stopping admin-system
+[2022-03-26 17:49:42] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 17:49:42] Starting admin-system
+[2022-03-26 17:49:42] SCRIPT ERROR: admin-system\admin-cmds.lua:17: '<eof>' expected near 'end'
+[2022-03-26 17:49:42] ERROR: Loading script failed: admin-system\admin-cmds.lua:17: '<eof>' expected near 'end'
+[2022-03-26 17:49:42] admin-system restarted successfully
+[2022-03-26 17:49:43] restart: Requested by Console
+[2022-03-26 17:49:43] restart: Resource restarting...
+[2022-03-26 17:49:43] Stopping admin-system
+[2022-03-26 17:49:43] Starting admin-system
+[2022-03-26 17:49:43] SCRIPT ERROR: admin-system\admin-cmds.lua:17: '<eof>' expected near 'end'
+[2022-03-26 17:49:43] admin-system restarted successfully
+[2022-03-26 17:49:47] restart: Requested by Console
+[2022-03-26 17:49:47] restart: Resource restarting...
+[2022-03-26 17:49:47] Stopping admin-system
+[2022-03-26 17:49:47] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 17:49:47] Starting admin-system
+[2022-03-26 17:49:47] admin-system restarted successfully
+[2022-03-26 17:49:48] ERROR: Loading script failed: admin-system\admin-cmds.lua:17: '<eof>' expected near 'end'
+[2022-03-26 17:50:04] restart: Requested by Console
+[2022-03-26 17:50:04] restart: Resource restarting...
+[2022-03-26 17:50:04] Stopping admin-system
+[2022-03-26 17:50:04] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 17:50:04] Starting admin-system
+[2022-03-26 17:50:04] SCRIPT ERROR: admin-system\admin-cmds.lua:17: '<eof>' expected near 'end'
+[2022-03-26 17:50:04] ERROR: Loading script failed: admin-system\admin-cmds.lua:17: '<eof>' expected near 'end'
+[2022-03-26 17:50:04] admin-system restarted successfully
+[2022-03-26 17:50:09] restart: Requested by Console
+[2022-03-26 17:50:09] restart: Resource restarting...
+[2022-03-26 17:50:09] Stopping admin-system
+[2022-03-26 17:50:09] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 17:50:09] Starting admin-system
+[2022-03-26 17:50:09] admin-system restarted successfully
+[2022-03-26 17:52:21] Server stopped!
+[2022-03-26 17:52:21] Stopping resources.............
+[2022-03-26 17:52:21] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9 [64 bit]
+==================================================================
+= Server name      : ww3 altyapi
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ww3-altyapi/mods/deathmatch/logs/server.log
+= Maximum players  : 4000
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2022-03-26 17:52:25] Resources: 10 loaded, 0 failed
+[2022-03-26 17:52:25] Starting resources...
+[2022-03-26 17:52:25] INFO: Database baglantisi basarili. - nox
+[2022-03-26 17:52:25] start: Resource 'sqlite' started
+[2022-03-26 17:52:26] Server minclientversion is now 1.5.9-9.21129.0
+[2022-03-26 17:52:26] start: Resource 'fonts' started
+[2022-03-26 17:52:26] start: Resource 'auth' started
+[2022-03-26 17:52:26] start: Resource 'main' started
+[2022-03-26 17:52:26] start: Resource 'admin-system' started
+[2022-03-26 17:52:26] start: Resource 'cpu' started
+[2022-03-26 17:52:26] start: Resource 'debug' started
+[2022-03-26 17:52:26] WARNING: guieditor <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.6-9.14489 because of 'guiComboBoxGetItemCount')
+[2022-03-26 17:52:26] WARNING: guieditor requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.6-9.14489 because of 'guiComboBoxGetItemCount')
+[2022-03-26 17:52:26] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2022-03-26 17:52:26] start: Resource 'guieditor' started
+[2022-03-26 17:52:26] start: Resource 'nametag' started
+[2022-03-26 17:52:26] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2022-03-26 17:52:26] Server started and is ready to accept connections!
+[2022-03-26 17:52:26] To stop the server, type 'shutdown' or press Ctrl-C
+[2022-03-26 17:52:26] Type 'help' for a list of commands.
+[2022-03-26 17:52:26] Querying MTA master server... success! (Auto detected IP:212.154.66.131)
+[2022-03-26 17:52:34] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 17:52:34] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-26 17:53:39] restart: Requested by Console
+[2022-03-26 17:53:39] restart: Resource restarting...
+[2022-03-26 17:53:39] Stopping admin-system
+[2022-03-26 17:53:39] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 17:53:39] Starting admin-system
+[2022-03-26 17:53:39] admin-system restarted successfully
+[2022-03-26 17:54:39] restart: Requested by Console
+[2022-03-26 17:54:39] restart: Resource restarting...
+[2022-03-26 17:54:39] Stopping admin-system
+[2022-03-26 17:54:39] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 17:54:39] Starting admin-system
+[2022-03-26 17:54:39] admin-system restarted successfully
+[2022-03-26 18:34:57] restart: Requested by Console
+[2022-03-26 18:34:57] restart: Resource restarting...
+[2022-03-26 18:34:57] Stopping admin-system
+[2022-03-26 18:34:57] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 18:34:57] Starting admin-system
+[2022-03-26 18:34:57] admin-system restarted successfully
+[2022-03-26 18:35:25] restart: Requested by Console
+[2022-03-26 18:35:25] restart: Resource restarting...
+[2022-03-26 18:35:25] Stopping nametag
+[2022-03-26 18:35:25] Resource 'nametag' changed, reloading and starting
+[2022-03-26 18:35:25] Starting nametag
+[2022-03-26 18:35:25] nametag restarted successfully
+[2022-03-26 18:36:01] restart: Requested by Console
+[2022-03-26 18:36:01] restart: Resource restarting...
+[2022-03-26 18:36:01] Stopping nametag
+[2022-03-26 18:36:01] Starting nametag
+[2022-03-26 18:36:01] nametag restarted successfully
+[2022-03-26 18:36:03] restart: Requested by Console
+[2022-03-26 18:36:03] restart: Resource restarting...
+[2022-03-26 18:36:03] Stopping admin-system
+[2022-03-26 18:36:03] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 18:36:03] Starting admin-system
+[2022-03-26 18:36:03] admin-system restarted successfully
+[2022-03-26 18:39:05] restart: Requested by Console
+[2022-03-26 18:39:05] restart: Resource restarting...
+[2022-03-26 18:39:05] Stopping admin-system
+[2022-03-26 18:39:05] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 18:39:05] Starting admin-system
+[2022-03-26 18:39:05] SCRIPT ERROR: admin-system\admin-cmds.lua:16: '<eof>' expected near 'end'
+[2022-03-26 18:39:05] ERROR: Loading script failed: admin-system\admin-cmds.lua:16: '<eof>' expected near 'end'
+[2022-03-26 18:39:05] admin-system restarted successfully
+[2022-03-26 18:39:11] restart: Requested by Console
+[2022-03-26 18:39:11] restart: Resource restarting...
+[2022-03-26 18:39:11] Stopping admin-system
+[2022-03-26 18:39:11] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 18:39:11] Starting admin-system
+[2022-03-26 18:39:11] admin-system restarted successfully
+[2022-03-26 18:40:58] restart: Requested by Console
+[2022-03-26 18:40:58] restart: Resource restarting...
+[2022-03-26 18:40:58] Stopping admin-system
+[2022-03-26 18:40:58] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 18:40:58] Starting admin-system
+[2022-03-26 18:40:58] admin-system restarted successfully
+[2022-03-26 18:42:08] restart: Requested by Console
+[2022-03-26 18:42:08] restart: Resource restarting...
+[2022-03-26 18:42:08] Stopping admin-system
+[2022-03-26 18:42:08] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 18:42:08] Starting admin-system
+[2022-03-26 18:42:08] admin-system restarted successfully
+[2022-03-26 18:42:22] restart: Requested by Console
+[2022-03-26 18:42:22] restart: Resource restarting...
+[2022-03-26 18:42:22] Stopping admin-system
+[2022-03-26 18:42:22] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 18:42:22] Starting admin-system
+[2022-03-26 18:42:22] admin-system restarted successfully
+[2022-03-26 18:43:10] restart: Requested by Console
+[2022-03-26 18:43:10] restart: Resource restarting...
+[2022-03-26 18:43:10] Stopping admin-system
+[2022-03-26 18:43:10] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 18:43:10] Starting admin-system
+[2022-03-26 18:43:10] admin-system restarted successfully
+[2022-03-26 18:45:15] Server stopped!
+[2022-03-26 18:45:15] Stopping resources.............
+[2022-03-26 18:45:15] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9 [64 bit]
+==================================================================
+= Server name      : ww3 altyapi
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ww3-altyapi/mods/deathmatch/logs/server.log
+= Maximum players  : 4000
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2022-03-26 18:45:26] Resources: 10 loaded, 0 failed
+[2022-03-26 18:45:26] Starting resources...
+[2022-03-26 18:45:26] INFO: Database baglantisi basarili. - nox
+[2022-03-26 18:45:26] start: Resource 'sqlite' started
+[2022-03-26 18:45:26] Server minclientversion is now 1.5.9-9.21129.0
+[2022-03-26 18:45:26] start: Resource 'fonts' started
+[2022-03-26 18:45:26] start: Resource 'auth' started
+[2022-03-26 18:45:26] start: Resource 'main' started
+[2022-03-26 18:45:26] start: Resource 'admin-system' started
+[2022-03-26 18:45:26] start: Resource 'cpu' started
+[2022-03-26 18:45:26] start: Resource 'debug' started
+[2022-03-26 18:45:26] WARNING: guieditor <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.6-9.14489 because of 'guiComboBoxGetItemCount')
+[2022-03-26 18:45:26] WARNING: guieditor requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.6-9.14489 because of 'guiComboBoxGetItemCount')
+[2022-03-26 18:45:26] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2022-03-26 18:45:26] start: Resource 'guieditor' started
+[2022-03-26 18:45:26] start: Resource 'nametag' started
+[2022-03-26 18:45:26] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2022-03-26 18:45:26] Server started and is ready to accept connections!
+[2022-03-26 18:45:26] To stop the server, type 'shutdown' or press Ctrl-C
+[2022-03-26 18:45:26] Type 'help' for a list of commands.
+[2022-03-26 18:45:27] Querying MTA master server... success! (Auto detected IP:212.154.66.131)
+[2022-03-26 18:45:34] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 18:45:34] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-26 18:48:46] restart: Requested by Console
+[2022-03-26 18:48:46] restart: Resource restarting...
+[2022-03-26 18:48:46] Stopping admin-system
+[2022-03-26 18:48:46] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 18:48:46] Starting admin-system
+[2022-03-26 18:48:46] admin-system restarted successfully
+[2022-03-26 18:49:30] restart: Requested by Console
+[2022-03-26 18:49:30] restart: Resource restarting...
+[2022-03-26 18:49:30] Stopping admin-system
+[2022-03-26 18:49:30] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 18:49:30] Starting admin-system
+[2022-03-26 18:49:30] admin-system restarted successfully
+[2022-03-26 18:49:55] restart: Requested by Console
+[2022-03-26 18:49:55] restart: Resource restarting...
+[2022-03-26 18:49:55] Stopping admin-system
+[2022-03-26 18:49:55] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 18:49:55] Starting admin-system
+[2022-03-26 18:49:55] admin-system restarted successfully
+[2022-03-26 18:51:15] Server stopped!
+[2022-03-26 18:51:15] Stopping resources.............
+[2022-03-26 18:51:15] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9 [64 bit]
+==================================================================
+= Server name      : ww3 altyapi
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ww3-altyapi/mods/deathmatch/logs/server.log
+= Maximum players  : 4000
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2022-03-26 18:51:23] Resources: 10 loaded, 0 failed
+[2022-03-26 18:51:23] Starting resources...
+[2022-03-26 18:51:23] INFO: Database baglantisi basarili. - nox
+[2022-03-26 18:51:23] start: Resource 'sqlite' started
+[2022-03-26 18:51:23] Server minclientversion is now 1.5.9-9.21129.0
+[2022-03-26 18:51:23] start: Resource 'fonts' started
+[2022-03-26 18:51:23] start: Resource 'auth' started
+[2022-03-26 18:51:23] start: Resource 'main' started
+[2022-03-26 18:51:23] start: Resource 'admin-system' started
+[2022-03-26 18:51:23] start: Resource 'cpu' started
+[2022-03-26 18:51:23] start: Resource 'debug' started
+[2022-03-26 18:51:23] WARNING: guieditor <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.6-9.14489 because of 'guiComboBoxGetItemCount')
+[2022-03-26 18:51:23] WARNING: guieditor requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.6-9.14489 because of 'guiComboBoxGetItemCount')
+[2022-03-26 18:51:23] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2022-03-26 18:51:23] start: Resource 'guieditor' started
+[2022-03-26 18:51:23] start: Resource 'nametag' started
+[2022-03-26 18:51:23] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2022-03-26 18:51:23] Server started and is ready to accept connections!
+[2022-03-26 18:51:23] To stop the server, type 'shutdown' or press Ctrl-C
+[2022-03-26 18:51:23] Type 'help' for a list of commands.
+[2022-03-26 18:51:24] Querying MTA master server... success! (Auto detected IP:212.154.66.131)
+[2022-03-26 18:51:24] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 18:51:24] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-26 18:52:33] restart: Requested by Console
+[2022-03-26 18:52:33] restart: Resource restarting...
+[2022-03-26 18:52:33] Stopping admin-system
+[2022-03-26 18:52:33] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 18:52:33] Starting admin-system
+[2022-03-26 18:52:33] admin-system restarted successfully
+[2022-03-26 18:52:35] ERROR: admin-system\admin-cmds.lua:18: attempt to call global 'getLocalPlayer' (a nil value)
+[2022-03-26 18:52:41] ERROR: admin-system\admin-cmds.lua:18: attempt to call global 'getLocalPlayer' (a nil value)  [DUP x3]
+[2022-03-26 18:52:45] ERROR: admin-system\admin-cmds.lua:18: attempt to call global 'getLocalPlayer' (a nil value)
+[2022-03-26 18:52:51] ERROR: admin-system\admin-cmds.lua:18: attempt to call global 'getLocalPlayer' (a nil value)  [DUP x2]
+[2022-03-26 18:52:59] restart: Requested by Console
+[2022-03-26 18:52:59] restart: Resource restarting...
+[2022-03-26 18:52:59] Stopping admin-system
+[2022-03-26 18:52:59] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 18:52:59] Starting admin-system
+[2022-03-26 18:52:59] admin-system restarted successfully
+[2022-03-26 18:54:23] restart: Requested by Console
+[2022-03-26 18:54:23] restart: Resource restarting...
+[2022-03-26 18:54:23] Stopping admin-system
+[2022-03-26 18:54:23] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 18:54:23] Starting admin-system
+[2022-03-26 18:54:23] admin-system restarted successfully
+[2022-03-26 18:55:11] restart: Requested by Console
+[2022-03-26 18:55:11] restart: Resource restarting...
+[2022-03-26 18:55:11] Stopping admin-system
+[2022-03-26 18:55:11] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 18:55:11] Starting admin-system
+[2022-03-26 18:55:11] admin-system restarted successfully
+[2022-03-26 18:57:00] restart: Requested by Console
+[2022-03-26 18:57:00] restart: Resource restarting...
+[2022-03-26 18:57:00] Stopping admin-system
+[2022-03-26 18:57:00] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 18:57:00] Starting admin-system
+[2022-03-26 18:57:00] admin-system restarted successfully
+[2022-03-26 18:59:03] restart: Requested by Console
+[2022-03-26 18:59:03] restart: Resource restarting...
+[2022-03-26 18:59:03] Stopping admin-system
+[2022-03-26 18:59:03] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 18:59:03] Starting admin-system
+[2022-03-26 18:59:03] WARNING: admin-system\admin-cmds.lua:17: Bad argument @ 'addCommandHandler' [Expected function at argument 2, got nil]
+[2022-03-26 18:59:03] admin-system restarted successfully
+[2022-03-26 18:59:11] restart: Requested by Console
+[2022-03-26 18:59:11] restart: Resource restarting...
+[2022-03-26 18:59:11] Stopping admin-system
+[2022-03-26 18:59:11] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 18:59:11] Starting admin-system
+[2022-03-26 18:59:11] admin-system restarted successfully
+[2022-03-26 19:00:13] restart: Requested by Console
+[2022-03-26 19:00:13] restart: Resource restarting...
+[2022-03-26 19:00:13] Stopping admin-system
+[2022-03-26 19:00:13] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 19:00:13] Starting admin-system
+[2022-03-26 19:00:13] admin-system restarted successfully
+[2022-03-26 19:00:30] restart: Requested by Console
+[2022-03-26 19:00:30] restart: Resource restarting...
+[2022-03-26 19:00:30] Stopping admin-system
+[2022-03-26 19:00:30] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 19:00:30] Starting admin-system
+[2022-03-26 19:00:30] admin-system restarted successfully
+[2022-03-26 19:01:34] restart: Requested by Console
+[2022-03-26 19:01:34] restart: Resource restarting...
+[2022-03-26 19:01:34] Stopping admin-system
+[2022-03-26 19:01:34] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 19:01:34] Starting admin-system
+[2022-03-26 19:01:34] admin-system restarted successfully
+[2022-03-26 19:01:35] WARNING: admin-system\admin-cmds.lua:20: Bad argument @ 'outputChatBox' [Expected element/table at argument 2, got number (255)]
+[2022-03-26 19:01:58] restart: Requested by Console
+[2022-03-26 19:01:58] restart: Resource restarting...
+[2022-03-26 19:01:58] Stopping admin-system
+[2022-03-26 19:01:58] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 19:01:58] Starting admin-system
+[2022-03-26 19:01:58] admin-system restarted successfully
+[2022-03-26 19:02:26] restart: Requested by Console
+[2022-03-26 19:02:26] restart: Resource restarting...
+[2022-03-26 19:02:26] Stopping admin-system
+[2022-03-26 19:02:26] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 19:02:26] Starting admin-system
+[2022-03-26 19:02:26] admin-system restarted successfully
+[2022-03-26 19:06:37] restart: Requested by Console
+[2022-03-26 19:06:37] restart: Resource restarting...
+[2022-03-26 19:06:37] Stopping admin-system
+[2022-03-26 19:06:37] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 19:06:37] Starting admin-system
+[2022-03-26 19:06:37] admin-system restarted successfully
+[2022-03-26 19:06:39] restart: Requested by Console
+[2022-03-26 19:06:39] restart: Resource restarting...
+[2022-03-26 19:06:39] Stopping auth
+[2022-03-26 19:06:39] Resource 'auth' changed, reloading and starting
+[2022-03-26 19:06:39] Starting auth
+[2022-03-26 19:06:39] auth restarted successfully
+[2022-03-26 19:06:43] QUIT: nox left the game [Quit]
+[2022-03-26 19:06:44] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 19:06:44] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-26 19:09:15] restart: Requested by Console
+[2022-03-26 19:09:15] restart: Resource restarting...
+[2022-03-26 19:09:15] Stopping admin-system
+[2022-03-26 19:09:15] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 19:09:15] Starting admin-system
+[2022-03-26 19:09:15] admin-system restarted successfully
+[2022-03-26 19:09:17] restart: Requested by Console
+[2022-03-26 19:09:17] restart: Resource restarting...
+[2022-03-26 19:09:17] Stopping nametag
+[2022-03-26 19:09:17] Resource 'nametag' changed, reloading and starting
+[2022-03-26 19:09:17] Starting nametag
+[2022-03-26 19:09:17] nametag restarted successfully
+[2022-03-26 19:09:50] restart: Requested by Console
+[2022-03-26 19:09:50] restart: Resource restarting...
+[2022-03-26 19:09:50] Stopping nametag
+[2022-03-26 19:09:50] Resource 'nametag' changed, reloading and starting
+[2022-03-26 19:09:50] Starting nametag
+[2022-03-26 19:09:50] nametag restarted successfully
+[2022-03-26 19:10:08] restart: Requested by Console
+[2022-03-26 19:10:08] restart: Resource restarting...
+[2022-03-26 19:10:08] Stopping nametag
+[2022-03-26 19:10:08] Resource 'nametag' changed, reloading and starting
+[2022-03-26 19:10:08] Starting nametag
+[2022-03-26 19:10:08] nametag restarted successfully
+[2022-03-26 19:10:37] restart: Requested by Console
+[2022-03-26 19:10:37] restart: Resource restarting...
+[2022-03-26 19:10:37] Stopping nametag
+[2022-03-26 19:10:37] Resource 'nametag' changed, reloading and starting
+[2022-03-26 19:10:37] Starting nametag
+[2022-03-26 19:10:37] nametag restarted successfully
+[2022-03-26 19:10:57] restart: Requested by Console
+[2022-03-26 19:10:57] restart: Resource restarting...
+[2022-03-26 19:10:57] Stopping nametag
+[2022-03-26 19:10:57] Resource 'nametag' changed, reloading and starting
+[2022-03-26 19:10:57] Starting nametag
+[2022-03-26 19:10:57] nametag restarted successfully
+[2022-03-26 19:11:18] restart: Requested by Console
+[2022-03-26 19:11:18] restart: Resource restarting...
+[2022-03-26 19:11:18] Stopping nametag
+[2022-03-26 19:11:18] Starting nametag
+[2022-03-26 19:11:18] nametag restarted successfully
+[2022-03-26 19:11:27] restart: Requested by Console
+[2022-03-26 19:11:27] restart: Resource restarting...
+[2022-03-26 19:11:27] Stopping admin-system
+[2022-03-26 19:11:27] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 19:11:27] Starting admin-system
+[2022-03-26 19:11:27] admin-system restarted successfully
+[2022-03-26 19:14:34] restart: Requested by Console
+[2022-03-26 19:14:34] restart: Resource restarting...
+[2022-03-26 19:14:34] Stopping admin-system
+[2022-03-26 19:14:34] Starting admin-system
+[2022-03-26 19:14:34] admin-system restarted successfully
+[2022-03-26 19:15:00] restart: Requested by Console
+[2022-03-26 19:15:00] restart: Resource restarting...
+[2022-03-26 19:15:00] Stopping admin-system
+[2022-03-26 19:15:00] Starting admin-system
+[2022-03-26 19:15:00] admin-system restarted successfully
+[2022-03-26 19:15:43] restart: Requested by Console
+[2022-03-26 19:15:43] restart: Resource restarting...
+[2022-03-26 19:15:43] Stopping admin-system
+[2022-03-26 19:15:43] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 19:15:43] Starting admin-system
+[2022-03-26 19:15:43] admin-system restarted successfully
+[2022-03-26 19:16:34] restart: Requested by Console
+[2022-03-26 19:16:34] restart: Resource restarting...
+[2022-03-26 19:16:34] Stopping admin-system
+[2022-03-26 19:16:34] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 19:16:34] Starting admin-system
+[2022-03-26 19:16:34] admin-system restarted successfully
+[2022-03-26 19:17:35] restart: Requested by Console
+[2022-03-26 19:17:35] restart: Resource restarting...
+[2022-03-26 19:17:35] Stopping admin-system
+[2022-03-26 19:17:35] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 19:17:35] Starting admin-system
+[2022-03-26 19:17:35] admin-system restarted successfully
+[2022-03-26 19:17:58] restart: Requested by Console
+[2022-03-26 19:17:58] restart: Resource restarting...
+[2022-03-26 19:17:58] Stopping admin-system
+[2022-03-26 19:17:58] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 19:17:58] Starting admin-system
+[2022-03-26 19:17:58] admin-system restarted successfully
+[2022-03-26 19:19:40] restart: Requested by Console
+[2022-03-26 19:19:40] restart: Resource restarting...
+[2022-03-26 19:19:40] Stopping admin-system
+[2022-03-26 19:19:40] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 19:19:40] Starting admin-system
+[2022-03-26 19:19:40] admin-system restarted successfully
+[2022-03-26 19:20:54] restart: Requested by Console
+[2022-03-26 19:20:54] restart: Resource restarting...
+[2022-03-26 19:20:54] Stopping admin-system
+[2022-03-26 19:20:54] Resource 'admin-system' changed, reloading and starting
+[2022-03-26 19:20:54] Starting admin-system
+[2022-03-26 19:20:54] admin-system restarted successfully
+[2022-03-26 19:32:14] restart: Requested by Console
+[2022-03-26 19:32:14] restart: Resource restarting...
+[2022-03-26 19:32:14] Stopping admin-system
+[2022-03-26 19:32:14] Starting admin-system
+[2022-03-26 19:32:14] admin-system restarted successfully
+[2022-03-26 19:32:16] restart: Requested by Console
+[2022-03-26 19:32:16] restart: Resource restarting...
+[2022-03-26 19:32:16] Stopping auth
+[2022-03-26 19:32:16] Resource 'auth' changed, reloading and starting
+[2022-03-26 19:32:16] Starting auth
+[2022-03-26 19:32:16] auth restarted successfully
+[2022-03-26 19:32:16] WARNING: auth\event.lua:72: dbPoll failed; SQL logic error
+[2022-03-26 19:32:16] ERROR: auth\event.lua:73: bad argument #1 to 'pairs' (table expected, got boolean)
+[2022-03-26 19:32:38] restart: Requested by Console
+[2022-03-26 19:32:38] restart: Resource restarting...
+[2022-03-26 19:32:38] Stopping sqlite
+[2022-03-26 19:32:38] Starting sqlite
+[2022-03-26 19:32:38] INFO: Database baglantisi basarili. - nox
+[2022-03-26 19:32:38] sqlite restarted successfully
+[2022-03-26 19:32:39] restart: Requested by Console
+[2022-03-26 19:32:39] restart: Resource restarting...
+[2022-03-26 19:32:39] Stopping auth
+[2022-03-26 19:32:39] Starting auth
+[2022-03-26 19:32:39] auth restarted successfully
+[2022-03-26 19:32:48] QUIT: nox left the game [Quit]
+[2022-03-26 19:32:48] WARNING: auth\event.lua:29: Bad argument @ 'getElementPosition' [Expected element at argument 1, got nil]
+[2022-03-26 19:32:48] WARNING: auth\event.lua:30: Bad argument @ 'getElementData' [Expected element at argument 1, got nil]
+[2022-03-26 19:32:48] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 19:32:49] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-26 19:33:13] restart: Requested by Console
+[2022-03-26 19:33:13] restart: Resource restarting...
+[2022-03-26 19:33:13] Stopping auth
+[2022-03-26 19:33:13] Resource 'auth' changed, reloading and starting
+[2022-03-26 19:33:13] Starting auth
+[2022-03-26 19:33:13] auth restarted successfully
+[2022-03-26 19:33:19] QUIT: nox left the game [Quit]
+[2022-03-26 19:33:19] WARNING: auth\event.lua:30: Bad argument @ 'getElementData' [Expected element at argument 1, got nil]
+[2022-03-26 19:33:20] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 19:33:20] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-26 19:34:26] QUIT: nox left the game [Quit]
+[2022-03-26 19:34:26] WARNING: auth\event.lua:30: Bad argument @ 'getElementData' [Expected element at argument 1, got nil]
+[2022-03-26 19:34:27] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 19:34:27] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-26 19:42:24] restart: Requested by Console
+[2022-03-26 19:42:24] restart: Resource restarting...
+[2022-03-26 19:42:24] Stopping auth
+[2022-03-26 19:42:24] Resource 'auth' changed, reloading and starting
+[2022-03-26 19:42:24] Starting auth
+[2022-03-26 19:42:24] auth restarted successfully
+[2022-03-26 19:42:26] QUIT: nox left the game [Quit]
+[2022-03-26 19:42:26] INFO: -11.974609375    5.46875    3.1171875
+[2022-03-26 19:42:26] WARNING: auth\event.lua:31: Bad argument @ 'getElementData' [Expected element at argument 1, got nil]
+[2022-03-26 19:42:27] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 19:42:27] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-26 19:44:57] restart: Requested by Console
+[2022-03-26 19:44:57] restart: Resource restarting...
+[2022-03-26 19:44:57] Stopping auth
+[2022-03-26 19:44:57] Resource 'auth' changed, reloading and starting
+[2022-03-26 19:44:57] Starting auth
+[2022-03-26 19:44:57] auth restarted successfully
+[2022-03-26 19:45:00] QUIT: nox left the game [Quit]
+[2022-03-26 19:45:00] INFO: 0    0    0
+[2022-03-26 19:45:01] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 19:45:01] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-26 19:45:13] QUIT: nox left the game [Quit]
+[2022-03-26 19:45:13] INFO: -9.4443359375    28.4990234375    3.1171875
+[2022-03-26 19:45:13] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 19:45:13] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-26 19:50:05] restart: Requested by Console
+[2022-03-26 19:50:05] restart: Resource restarting...
+[2022-03-26 19:50:05] Stopping auth
+[2022-03-26 19:50:05] Resource 'auth' changed, reloading and starting
+[2022-03-26 19:50:05] Starting auth
+[2022-03-26 19:50:05] auth restarted successfully
+[2022-03-26 19:50:11] QUIT: nox left the game [Quit]
+[2022-03-26 19:50:11] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 19:50:11] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-26 19:50:36] restart: Requested by Console
+[2022-03-26 19:50:36] restart: Resource restarting...
+[2022-03-26 19:50:36] Stopping auth
+[2022-03-26 19:50:36] Resource 'auth' changed, reloading and starting
+[2022-03-26 19:50:36] Starting auth
+[2022-03-26 19:50:36] auth restarted successfully
+[2022-03-26 19:50:37] QUIT: nox left the game [Quit]
+[2022-03-26 19:50:38] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 19:50:38] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-26 19:50:58] QUIT: nox left the game [Quit]
+[2022-03-26 19:51:02] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 19:51:02] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-26 19:51:29] QUIT: nox left the game [Quit]
+[2022-03-26 19:51:29] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 19:51:29] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-26 19:51:53] QUIT: nox left the game [Quit]
+[2022-03-26 19:51:53] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 19:51:54] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-26 19:54:55] restart: Requested by Console
+[2022-03-26 19:54:55] restart: Resource restarting...
+[2022-03-26 19:54:55] Stopping auth
+[2022-03-26 19:54:55] Resource 'auth' changed, reloading and starting
+[2022-03-26 19:54:55] Starting auth
+[2022-03-26 19:54:55] auth restarted successfully
+[2022-03-26 19:54:56] QUIT: nox left the game [Quit]
+[2022-03-26 19:54:56] ERROR: auth\event.lua:32: attempt to index global 'value' (a nil value)
+[2022-03-26 19:54:56] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 19:54:56] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-26 19:55:07] QUIT: nox left the game [Quit]
+[2022-03-26 19:55:07] ERROR: auth\event.lua:32: attempt to index global 'value' (a nil value)
+[2022-03-26 19:55:08] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 19:55:08] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-26 19:55:16] restart: Requested by Console
+[2022-03-26 19:55:16] restart: Resource restarting...
+[2022-03-26 19:55:16] Stopping auth
+[2022-03-26 19:55:17] Resource 'auth' changed, reloading and starting
+[2022-03-26 19:55:17] Starting auth
+[2022-03-26 19:55:17] auth restarted successfully
+[2022-03-26 19:55:19] QUIT: nox left the game [Quit]
+[2022-03-26 19:55:20] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 19:55:20] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-26 19:55:29] QUIT: nox left the game [Quit]
+[2022-03-26 19:55:30] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 19:55:30] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-26 19:55:56] QUIT: nox left the game [Quit]
+[2022-03-26 19:55:57] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 19:55:57] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-26 19:56:12] QUIT: nox left the game [Quit]
+[2022-03-26 19:56:13] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 19:56:13] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-26 19:57:16] restart: Requested by Console
+[2022-03-26 19:57:16] restart: Resource restarting...
+[2022-03-26 19:57:16] Stopping auth
+[2022-03-26 19:57:16] Starting auth
+[2022-03-26 19:57:16] auth restarted successfully
+[2022-03-26 19:57:19] QUIT: nox left the game [Quit]
+[2022-03-26 19:57:19] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 19:57:19] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-26 19:57:29] QUIT: nox left the game [Quit]
+[2022-03-26 19:57:30] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 19:57:30] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-26 19:58:07] QUIT: nox left the game [Quit]
+[2022-03-26 19:58:07] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 19:58:07] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-26 19:58:56] restart: Requested by Console
+[2022-03-26 19:58:56] restart: Resource restarting...
+[2022-03-26 19:58:56] Stopping auth
+[2022-03-26 19:58:56] Resource 'auth' changed, reloading and starting
+[2022-03-26 19:58:56] Starting auth
+[2022-03-26 19:58:56] auth restarted successfully
+[2022-03-26 19:58:58] QUIT: nox left the game [Quit]
+[2022-03-26 19:58:58] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 19:58:58] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-26 19:59:50] restart: Requested by Console
+[2022-03-26 19:59:50] restart: Resource restarting...
+[2022-03-26 19:59:50] Stopping auth
+[2022-03-26 19:59:50] Resource 'auth' changed, reloading and starting
+[2022-03-26 19:59:50] Starting auth
+[2022-03-26 19:59:50] auth restarted successfully
+[2022-03-26 20:00:14] QUIT: nox left the game [Quit]
+[2022-03-26 20:00:14] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 20:00:14] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-26 20:00:48] QUIT: nox left the game [Quit]
+[2022-03-26 20:00:48] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 20:00:48] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-26 20:00:58] QUIT: nox left the game [Quit]
+[2022-03-26 20:00:59] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 20:00:59] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-26 20:03:16] restart: Requested by Console
+[2022-03-26 20:03:16] restart: Resource restarting...
+[2022-03-26 20:03:16] Stopping auth
+[2022-03-26 20:03:16] Resource 'auth' changed, reloading and starting
+[2022-03-26 20:03:16] Starting auth
+[2022-03-26 20:03:16] auth restarted successfully
+[2022-03-26 20:03:18] QUIT: nox left the game [Quit]
+[2022-03-26 20:03:21] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 20:03:21] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-26 20:03:55] restart: Requested by Console
+[2022-03-26 20:03:55] restart: Resource restarting...
+[2022-03-26 20:03:55] Stopping auth
+[2022-03-26 20:03:55] Starting auth
+[2022-03-26 20:03:55] auth restarted successfully
+[2022-03-26 20:03:56] QUIT: nox left the game [Quit]
+[2022-03-26 20:03:57] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-26 20:03:57] JOIN: nox joined the game (IP: 127.0.0.1)
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9 [64 bit]
+==================================================================
+= Server name      : ww3 altyapi
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ww3-altyapi/mods/deathmatch/logs/server.log
+= Maximum players  : 4000
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2022-03-27 00:25:35] Compacting accounts database 'internal.db' ...
+[2022-03-27 00:25:37] Resources: 10 loaded, 0 failed
+[2022-03-27 00:25:37] Compacting database 'registry.db' ...
+[2022-03-27 00:25:37] Starting resources...
+[2022-03-27 00:25:37] INFO: Database baglantisi basarili. - nox
+[2022-03-27 00:25:37] start: Resource 'sqlite' started
+[2022-03-27 00:25:37] Server minclientversion is now 1.5.9-9.21129.0
+[2022-03-27 00:25:37] start: Resource 'fonts' started
+[2022-03-27 00:25:37] start: Resource 'auth' started
+[2022-03-27 00:25:37] start: Resource 'main' started
+[2022-03-27 00:25:37] start: Resource 'admin-system' started
+[2022-03-27 00:25:37] start: Resource 'cpu' started
+[2022-03-27 00:25:37] start: Resource 'debug' started
+[2022-03-27 00:25:37] WARNING: guieditor <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.6-9.14489 because of 'guiComboBoxGetItemCount')
+[2022-03-27 00:25:37] WARNING: guieditor requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.6-9.14489 because of 'guiComboBoxGetItemCount')
+[2022-03-27 00:25:37] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2022-03-27 00:25:37] start: Resource 'guieditor' started
+[2022-03-27 00:25:37] start: Resource 'nametag' started
+[2022-03-27 00:25:37] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2022-03-27 00:25:37] Server started and is ready to accept connections!
+[2022-03-27 00:25:37] To stop the server, type 'shutdown' or press Ctrl-C
+[2022-03-27 00:25:37] Type 'help' for a list of commands.
+[2022-03-27 00:25:38] Querying MTA master server... success! (Auto detected IP:212.154.66.131)
+[2022-03-27 00:25:40] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 00:25:41] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 00:32:33] restart: Requested by Console
+[2022-03-27 00:32:33] restart: Resource restarting...
+[2022-03-27 00:32:33] Stopping admin-system
+[2022-03-27 00:32:33] Resource 'admin-system' changed, reloading and starting
+[2022-03-27 00:32:33] Starting admin-system
+[2022-03-27 00:32:33] admin-system restarted successfully
+[2022-03-27 00:33:29] restart: Requested by Console
+[2022-03-27 00:33:29] restart: Resource restarting...
+[2022-03-27 00:33:29] Stopping admin-system
+[2022-03-27 00:33:29] Starting admin-system
+[2022-03-27 00:33:29] admin-system restarted successfully
+[2022-03-27 00:33:34] restart: Requested by Console
+[2022-03-27 00:33:34] restart: Resource restarting...
+[2022-03-27 00:33:34] Stopping nametag
+[2022-03-27 00:33:34] Resource 'nametag' changed, reloading and starting
+[2022-03-27 00:33:34] Starting nametag
+[2022-03-27 00:33:34] nametag restarted successfully
+[2022-03-27 00:33:56] restart: Requested by Console
+[2022-03-27 00:33:56] restart: Resource restarting...
+[2022-03-27 00:33:56] Stopping nametag
+[2022-03-27 00:33:56] Resource 'nametag' changed, reloading and starting
+[2022-03-27 00:33:56] Starting nametag
+[2022-03-27 00:33:56] nametag restarted successfully
+[2022-03-27 00:34:31] restart: Requested by Console
+[2022-03-27 00:34:31] restart: Resource restarting...
+[2022-03-27 00:34:31] Stopping nametag
+[2022-03-27 00:34:31] Resource 'nametag' changed, reloading and starting
+[2022-03-27 00:34:31] Starting nametag
+[2022-03-27 00:34:31] nametag restarted successfully
+[2022-03-27 00:35:42] restart: Requested by Console
+[2022-03-27 00:35:42] restart: Resource restarting...
+[2022-03-27 00:35:42] Stopping nametag
+[2022-03-27 00:35:42] Resource 'nametag' changed, reloading and starting
+[2022-03-27 00:35:42] Starting nametag
+[2022-03-27 00:35:42] nametag restarted successfully
+[2022-03-27 00:36:05] restart: Requested by Console
+[2022-03-27 00:36:05] restart: Resource restarting...
+[2022-03-27 00:36:05] Stopping nametag
+[2022-03-27 00:36:05] Resource 'nametag' changed, reloading and starting
+[2022-03-27 00:36:05] Starting nametag
+[2022-03-27 00:36:05] nametag restarted successfully
+[2022-03-27 00:36:15] restart: Requested by Console
+[2022-03-27 00:36:15] restart: Resource restarting...
+[2022-03-27 00:36:15] Stopping nametag
+[2022-03-27 00:36:15] Resource 'nametag' changed, reloading and starting
+[2022-03-27 00:36:15] Starting nametag
+[2022-03-27 00:36:15] nametag restarted successfully
+[2022-03-27 00:38:07] restart: Requested by Console
+[2022-03-27 00:38:07] restart: Resource restarting...
+[2022-03-27 00:38:07] Stopping nametag
+[2022-03-27 00:38:07] Resource 'nametag' changed, reloading and starting
+[2022-03-27 00:38:07] Starting nametag
+[2022-03-27 00:38:07] nametag restarted successfully
+[2022-03-27 00:38:19] restart: Requested by Console
+[2022-03-27 00:38:19] restart: Resource restarting...
+[2022-03-27 00:38:19] Stopping nametag
+[2022-03-27 00:38:19] Resource 'nametag' changed, reloading and starting
+[2022-03-27 00:38:19] Starting nametag
+[2022-03-27 00:38:19] nametag restarted successfully
+[2022-03-27 00:38:25] restart: Requested by Console
+[2022-03-27 00:38:25] restart: Resource restarting...
+[2022-03-27 00:38:25] Stopping nametag
+[2022-03-27 00:38:25] Resource 'nametag' changed, reloading and starting
+[2022-03-27 00:38:25] Starting nametag
+[2022-03-27 00:38:25] nametag restarted successfully
+[2022-03-27 00:38:35] restart: Requested by Console
+[2022-03-27 00:38:35] restart: Resource restarting...
+[2022-03-27 00:38:35] Stopping nametag
+[2022-03-27 00:38:35] Resource 'nametag' changed, reloading and starting
+[2022-03-27 00:38:35] Starting nametag
+[2022-03-27 00:38:35] nametag restarted successfully
+[2022-03-27 00:39:11] restart: Requested by Console
+[2022-03-27 00:39:11] restart: Resource restarting...
+[2022-03-27 00:39:11] Stopping nametag
+[2022-03-27 00:39:11] Resource 'nametag' changed, reloading and starting
+[2022-03-27 00:39:11] Starting nametag
+[2022-03-27 00:39:11] nametag restarted successfully
+[2022-03-27 00:39:18] restart: Requested by Console
+[2022-03-27 00:39:18] restart: Resource restarting...
+[2022-03-27 00:39:18] Stopping nametag
+[2022-03-27 00:39:18] Resource 'nametag' changed, reloading and starting
+[2022-03-27 00:39:18] Starting nametag
+[2022-03-27 00:39:18] nametag restarted successfully
+[2022-03-27 00:40:48] restart: Requested by Console
+[2022-03-27 00:40:48] restart: Resource restarting...
+[2022-03-27 00:40:48] Stopping admin-system
+[2022-03-27 00:40:48] Resource 'admin-system' changed, reloading and starting
+[2022-03-27 00:40:48] Starting admin-system
+[2022-03-27 00:40:48] admin-system restarted successfully
+[2022-03-27 00:41:47] restart: Requested by Console
+[2022-03-27 00:41:47] restart: Resource restarting...
+[2022-03-27 00:41:47] Stopping nametag
+[2022-03-27 00:41:47] Resource 'nametag' changed, reloading and starting
+[2022-03-27 00:41:47] Starting nametag
+[2022-03-27 00:41:47] nametag restarted successfully
+[2022-03-27 00:42:21] restart: Requested by Console
+[2022-03-27 00:42:21] restart: Resource restarting...
+[2022-03-27 00:42:21] Stopping nametag
+[2022-03-27 00:42:21] Starting nametag
+[2022-03-27 00:42:21] nametag restarted successfully
+[2022-03-27 00:43:02] restart: Requested by Console
+[2022-03-27 00:43:02] restart: Resource restarting...
+[2022-03-27 00:43:02] Stopping admin-system
+[2022-03-27 00:43:02] Resource 'admin-system' changed, reloading and starting
+[2022-03-27 00:43:02] Starting admin-system
+[2022-03-27 00:43:02] admin-system restarted successfully
+[2022-03-27 00:43:03] restart: Requested by Console
+[2022-03-27 00:43:03] restart: Resource restarting...
+[2022-03-27 00:43:03] Stopping nametag
+[2022-03-27 00:43:03] Starting nametag
+[2022-03-27 00:43:03] nametag restarted successfully
+[2022-03-27 00:43:13] QUIT: nox left the game [Quit]
+[2022-03-27 00:43:14] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 00:43:14] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 00:43:45] QUIT: nox left the game [Quit]
+[2022-03-27 00:43:45] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 00:43:45] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 00:43:55] QUIT: nox left the game [Quit]
+[2022-03-27 00:43:55] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 00:43:55] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 00:44:08] QUIT: nox left the game [Quit]
+[2022-03-27 00:44:08] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 00:44:08] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 00:46:36] restart: Requested by Console
+[2022-03-27 00:46:36] restart: Resource restarting...
+[2022-03-27 00:46:36] Stopping auth
+[2022-03-27 00:46:36] Resource 'auth' changed, reloading and starting
+[2022-03-27 00:46:36] WARNING: auth/event.lua(Line 29) [Server] getPlayerSkin is deprecated and may not work in future versions. Please replace with getElementModel.
+[2022-03-27 00:46:36] Some files in 'auth' use deprecated functions.
+[2022-03-27 00:46:36] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2022-03-27 00:46:36] Starting auth
+[2022-03-27 00:46:36] auth restarted successfully
+[2022-03-27 00:48:47] restart: Requested by Console
+[2022-03-27 00:48:47] restart: Resource restarting...
+[2022-03-27 00:48:47] Stopping auth
+[2022-03-27 00:48:47] Resource 'auth' changed, reloading and starting
+[2022-03-27 00:48:47] Starting auth
+[2022-03-27 00:48:47] auth restarted successfully
+[2022-03-27 00:48:47] WARNING: auth\event.lua:76: dbPoll failed; SQL logic error
+[2022-03-27 00:48:47] ERROR: auth\event.lua:77: bad argument #1 to 'pairs' (table expected, got boolean)
+[2022-03-27 00:48:48] restart: Requested by Console
+[2022-03-27 00:48:48] restart: Resource restarting...
+[2022-03-27 00:48:48] Stopping auth
+[2022-03-27 00:48:48] Starting auth
+[2022-03-27 00:48:48] auth restarted successfully
+[2022-03-27 00:49:23] Server stopped!
+[2022-03-27 00:49:23] Stopping resources.............
+[2022-03-27 00:49:23] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9 [64 bit]
+==================================================================
+= Server name      : ww3 altyapi
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ww3-altyapi/mods/deathmatch/logs/server.log
+= Maximum players  : 4000
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2022-03-27 00:49:26] Resources: 10 loaded, 0 failed
+[2022-03-27 00:49:26] Starting resources...
+[2022-03-27 00:49:26] INFO: Database baglantisi basarili. - nox
+[2022-03-27 00:49:26] start: Resource 'sqlite' started
+[2022-03-27 00:49:26] Server minclientversion is now 1.5.9-9.21129.0
+[2022-03-27 00:49:26] start: Resource 'fonts' started
+[2022-03-27 00:49:26] start: Resource 'auth' started
+[2022-03-27 00:49:26] start: Resource 'main' started
+[2022-03-27 00:49:26] start: Resource 'admin-system' started
+[2022-03-27 00:49:26] start: Resource 'cpu' started
+[2022-03-27 00:49:26] start: Resource 'debug' started
+[2022-03-27 00:49:26] WARNING: guieditor <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.6-9.14489 because of 'guiComboBoxGetItemCount')
+[2022-03-27 00:49:26] WARNING: guieditor requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.6-9.14489 because of 'guiComboBoxGetItemCount')
+[2022-03-27 00:49:26] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2022-03-27 00:49:26] start: Resource 'guieditor' started
+[2022-03-27 00:49:26] start: Resource 'nametag' started
+[2022-03-27 00:49:26] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2022-03-27 00:49:26] Server started and is ready to accept connections!
+[2022-03-27 00:49:26] To stop the server, type 'shutdown' or press Ctrl-C
+[2022-03-27 00:49:26] Type 'help' for a list of commands.
+[2022-03-27 00:49:26] Querying MTA master server... success! (Auto detected IP:212.154.66.131)
+[2022-03-27 00:49:31] restart: Requested by Console
+[2022-03-27 00:49:31] restart: Resource restarting...
+[2022-03-27 00:49:31] Stopping auth
+[2022-03-27 00:49:31] Starting auth
+[2022-03-27 00:49:31] auth restarted successfully
+[2022-03-27 00:49:35] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 00:49:35] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 00:49:51] QUIT: nox left the game [Quit]
+[2022-03-27 00:49:51] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 00:49:51] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 00:53:28] restart: Requested by Console
+[2022-03-27 00:53:28] restart: Resource restarting...
+[2022-03-27 00:53:28] Stopping auth
+[2022-03-27 00:53:28] Resource 'auth' changed, reloading and starting
+[2022-03-27 00:53:28] Starting auth
+[2022-03-27 00:53:28] auth restarted successfully
+[2022-03-27 00:53:31] QUIT: nox left the game [Quit]
+[2022-03-27 00:53:32] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 00:53:32] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 00:53:41] QUIT: nox left the game [Quit]
+[2022-03-27 00:53:42] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 00:53:42] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 00:56:29] restart: Requested by Console
+[2022-03-27 00:56:29] restart: Resource restarting...
+[2022-03-27 00:56:29] Stopping auth
+[2022-03-27 00:56:29] Resource 'auth' changed, reloading and starting
+[2022-03-27 00:56:29] Starting auth
+[2022-03-27 00:56:29] auth restarted successfully
+[2022-03-27 00:56:32] QUIT: nox left the game [Quit]
+[2022-03-27 00:56:33] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 00:56:33] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 00:56:43] QUIT: nox left the game [Quit]
+[2022-03-27 00:56:46] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 00:56:46] JOIN: nox joined the game (IP: 127.0.0.1)

@@ -1,5 +1,5 @@
 ﻿local sw,sh = guiGetScreenSize()
-local font = exports.fonts:getFont('Roboto',12)
+local font = exports.fonts:getFont('inter',12)
 
 addEventHandler( "onClientRender", root, function (  )
     for k,player in ipairs(getElementsByType("player")) do
@@ -14,11 +14,21 @@ addEventHandler( "onClientRender", root, function (  )
                 if ( sx and sy ) then
                     local name = getElementData(localPlayer, 'account:username')
                     local id = ' ('..getElementData(localPlayer, 'dbid')..')' or 0
-                      dxDrawText(name..id, sx, sy, sx+size, sy+size-10, tocolor(0,0,0,255), size, font, "center", "bottom", false, false, false)
-                      dxDrawText(name..id, sx, sy, sx-size, sy-size-10, tocolor(0,0,0,255), size, font, "center", "bottom", false, false, false)
-                      dxDrawText(name..id, sx, sy, sx-size, sy+size-10, tocolor(0,0,0,255), size, font, "center", "bottom", false, false, false)
-                      dxDrawText(name..id, sx, sy, sx+size, sy-size-10, tocolor(0,0,0,255), size, font, "center", "bottom", false, false, false)
-                      dxDrawText(name..id, sx, sy, sx, sy-10, tocolor(255,255,255,255), size, font, "center", "bottom", false, false, false)
+                    local rank = exports['admin-system']:getPlayerAdminRankByID(localPlayer) 
+                    if getElementData(localPlayer,'duty') ~= 1 then
+                        dxDrawText(name..id, sx, sy, sx+size, sy+size-10, tocolor(0,0,0,255), size, font, "center", "bottom", false, false, false)
+                        dxDrawText(name..id, sx, sy, sx-size, sy-size-10, tocolor(0,0,0,255), size, font, "center", "bottom", false, false, false)
+                        dxDrawText(name..id, sx, sy, sx-size, sy+size-10, tocolor(0,0,0,255), size, font, "center", "bottom", false, false, false)
+                        dxDrawText(name..id, sx, sy, sx+size, sy-size-10, tocolor(0,0,0,255), size, font, "center", "bottom", false, false, false)
+                        dxDrawText(name..id, sx, sy, sx, sy-10, tocolor(255,255,255,255), size, font, "center", "bottom", false, false, false)
+                    else
+                        dxDrawText(tostring(rank), sx, sy, sx, sy-10, tocolor(255,0,0,255), size, font, "center", "bottom", false, false, false)
+                        dxDrawText(name..id, sx, sy, sx+size, sy+size-10, tocolor(0,0,0,255), size, font, "center", "bottom", false, false, false)
+                        dxDrawText(name..id, sx, sy, sx-size, sy-size-10, tocolor(0,0,0,255), size, font, "center", "bottom", false, false, false)
+                        dxDrawText(name..id, sx, sy, sx-size, sy+size-10, tocolor(0,0,0,255), size, font, "center", "bottom", false, false, false)
+                        dxDrawText(name..id, sx, sy, sx+size, sy-size-10, tocolor(0,0,0,255), size, font, "center", "bottom", false, false, false)
+                        dxDrawText(name..id, sx, sy, sx, sy-10, tocolor(255,0,0,255), size, font, "center", "bottom", false, false, false)
+                    end
                 end
             end
         end

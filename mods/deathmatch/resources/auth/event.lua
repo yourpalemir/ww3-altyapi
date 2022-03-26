@@ -1,24 +1,40 @@
+local db = exports.sqlite:getConnection()
+
 addEventHandler('onPlayerJoin',root,function()
 	local account_Crends = determinePlayerAccount(getPlayerSerial(source))
 	triggerClientEvent('redirect:server', source, account_Crends)
 end)
 
 addEvent('login:attempt',true)
-addEventHandler('login:attempt',root,function(user, pass)
+addEventHandler('login:attempt',root,function(username, password)
     for k, v in pairs(accounts) do
-        if tostring(user) == v.username and tostring(pass) == v.password then
+        if tostring(username) == tostring(v.username) and tostring(password) == tostring(v.password) then
             setElementData(source, 'account:username', v.username)
+			setElementData(source, 'adminlevel', v.admin)
             setElementData(source, 'dbid', v.id)
+			setElementData(source, 'duty', 0)
             triggerClientEvent('remove:render',source)
             outputChatBox('Giriş başarılı.',source)
-            spawnPlayer(source,0,0,2)
+            spawnPlayer(source,v.x,v.y,v.z)
             setCameraTarget(source, source)
             fadeCamera(source,true)
         else
-            outputChatBox('Bilgilerin yanlış.',source)
+            outputChatBox('[!] #FFFFFFBilgilerin yanlış.',source,255,0,0,true)
         return end
     end
 end)
+
+addEventHandler('onPlayerQuit', root, function()
+	x, y, z = getElementPosition(source)
+	skin = getElementModel(source)
+	dbExec(db, 'UPDATE accounts SET x=?, y=?, z=?, skin=? WHERE id=? ',x ,y, z, skin,tonumber(getElementData(source,'dbid')))
+	for k, v in pairs(accounts) do
+		if (accounts[tonumber(getElementData(source,'dbid'))]) then 
+			accounts[tonumber(getElementData(source,'dbid'))] = {admin=v.admin, x=v.x, y=v.y, z=v.z, skin=v.skin}
+		return end
+	end
+end)
+
 
 -- oyuncunun acc sini önceden belirleyip, dakkada bi performans öldürmemek için için
 
@@ -26,9 +42,9 @@ end)
 function determinePlayerAccount(serial)
 	for key, value in pairs(accounts) do 
 		if value.serial == serial then 
-			return value
+			return true
 		end 
-	end 
+	end
 end 
 
 -- kayıt 
@@ -36,7 +52,7 @@ end
 addEvent('register:request', true)
 addEventHandler('register:request', root, function(username, password)
 	local serial = getPlayerSerial(client)
-	if isAccountExists(username, password, serial) == false then
+	if not (isAccountExists(username, password, serial)) and not (determinePlayerAccount(serial)) then
 		createAccount(username,password,serial)
         outputChatBox('Hesabın oluşturuldu.')
     else
@@ -48,11 +64,9 @@ function isAccountExists(username, password, serial)
 	for key, value in pairs(accounts) do 
 		if value.username == username or value.password == password or value.serial == serial then return true end 
 	end 
-	return false 
 end 
 -- data
 
-local db = exports.sqlite:getConnection()
 
 addEventHandler('onResourceStart', resourceRoot, function()
 	dbQuery(queryAdd, db, 'SELECT * FROM accounts')
@@ -61,14 +75,14 @@ end)
 function queryAdd(queryHandle)
 	results = dbPoll(queryHandle, 0)
 	for key, value in pairs(results) do 
-		accounts[key] = {id=value.id, username=value.username, password=value.password, email=value.email, phonenumber=value.phonenumber, serial=value.serial}
+		accounts[key] = {id=value.id, username=value.username, password=value.password, email=value.email, phonenumber=value.phonenumber, serial=value.serial, admin=value.admin, x=value.x, y=value.y, z=value.z, skin=value.skin}
 	end 
 end
 
 function createAccount(username, password, serial)
-	local query = dbExec(db, 'INSERT INTO accounts(username, password, email, phonenumber, serial) VALUES(?, ?, ?, ?, ?)', username, password, "undefined", "undefined", serial)
+	local query = dbExec(db, 'INSERT INTO accounts(username, password, email, phonenumber, serial, admin, x, y, z, skin) VALUES(?, ?, ?, ?, ?, ?, ?, ?, ?, ?)', username, password, "undefined", "undefined", serial, 0,1480.9736328125, -1765.8916015625, 18.795755386353, 5)
 	if query == true then 
-		accounts[#accounts + 1] = {id=#accounts+1, username=username, password=password, email="undefined", phonenumber="undefined", serial=serial}
+		accounts[#accounts + 1] = {id=#accounts+1, username=username, password=password, email="undefined", phonenumber="undefined", serial=serial, admin=0, x=1480.9736328125, y=-1765.8916015625, z=18.795755386353, skin=5}
 	end 
 	return query
 end
