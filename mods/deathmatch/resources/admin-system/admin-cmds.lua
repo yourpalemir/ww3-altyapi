@@ -50,3 +50,10 @@ function getPosition(thePlayer, commandName)
 	end
 end
 addCommandHandler("getpos", getPosition, false, false)
+
+
+function den(player,cmd)
+    lvl = getPlayerAdminRankByID(player)
+    outputChatBox(lvl)
+end
+addCommandHandler('deneme',den)

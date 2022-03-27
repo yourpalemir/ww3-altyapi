@@ -42,3 +42,8 @@ function paraAl(player, value)
     end
     return false
 end
+
+function paraFormat(amount)
+	local left,num,right = string.match(tostring(amount),'^([^%d]*%d)(%d*)(.-)$')
+	return left..(num:reverse():gsub('(%d%d%d)','%1,'):reverse())..right
+end

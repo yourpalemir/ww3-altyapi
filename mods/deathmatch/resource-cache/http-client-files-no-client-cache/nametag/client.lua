@@ -14,7 +14,7 @@ addEventHandler( "onClientRender", root, function (  )
                 if ( sx and sy ) then
                     local name = getElementData(localPlayer, 'account:username')
                     local id = ' ('..getElementData(localPlayer, 'dbid')..')' or 0
-                    local rank = exports['admin-system']:getPlayerAdminRankByID(localPlayer) 
+                    local lvl = tostring(exports['admin-system']:getPlayerAdminRankByID(localPlayer)) or false
                     if getElementData(localPlayer,'duty') ~= 1 then
                         dxDrawText(name..id, sx, sy, sx+size, sy+size-10, tocolor(0,0,0,255), size, font, "center", "bottom", false, false, false)
                         dxDrawText(name..id, sx, sy, sx-size, sy-size-10, tocolor(0,0,0,255), size, font, "center", "bottom", false, false, false)
@@ -22,12 +22,12 @@ addEventHandler( "onClientRender", root, function (  )
                         dxDrawText(name..id, sx, sy, sx+size, sy-size-10, tocolor(0,0,0,255), size, font, "center", "bottom", false, false, false)
                         dxDrawText(name..id, sx, sy, sx, sy-10, tocolor(255,255,255,255), size, font, "center", "bottom", false, false, false)
                     else
-                        dxDrawText(tostring(rank), sx, sy, sx, sy-10, tocolor(255,0,0,255), size, font, "center", "bottom", false, false, false)
                         dxDrawText(name..id, sx, sy, sx+size, sy+size-10, tocolor(0,0,0,255), size, font, "center", "bottom", false, false, false)
                         dxDrawText(name..id, sx, sy, sx-size, sy-size-10, tocolor(0,0,0,255), size, font, "center", "bottom", false, false, false)
                         dxDrawText(name..id, sx, sy, sx-size, sy+size-10, tocolor(0,0,0,255), size, font, "center", "bottom", false, false, false)
                         dxDrawText(name..id, sx, sy, sx+size, sy-size-10, tocolor(0,0,0,255), size, font, "center", "bottom", false, false, false)
                         dxDrawText(name..id, sx, sy, sx, sy-10, tocolor(255,0,0,255), size, font, "center", "bottom", false, false, false)
+                        dxDrawText(lvl, sx, sy-20, sx, sy-30, tocolor(255,0,0,255), size, font, "center", "bottom", false, false, false)
                     end
                 end
             end

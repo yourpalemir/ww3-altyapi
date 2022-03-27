@@ -1,8 +1,11 @@
 <meta>
 <script src="admin-cmds.lua" type="server" />
 <script src="ranks.lua" type="server" />
-<script src="fly.lua" type="client"/>
+<script src="ranks.lua" type="client" cache="false" />
+<script src="fly.lua" type="client" cache="false"/>
 
 <export function="isDutyOn" type="server"/>
-<export function="getPlayerAdminRankByID" />
+<export function="isDutyOn" type="client"/>
+<export function="getPlayerAdminRankByID" type="server"/>
+<export function="getPlayerAdminRankByID" type="client"/>
 </meta>
