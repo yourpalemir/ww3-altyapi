@@ -76,7 +76,7 @@ function draw()
                         if #userText > 0 and #passText > 0 then 
                             triggerServerEvent('login:attempt',localPlayer, userText, passText)
                         else
-                            outputChatBox('Lütfen boşlukları eksiksiz doldurun.')
+                            outputChatBox('[!] #FFFFFFLütfen boşlukları eksiksiz doldurun.',255,0,0,true)
                         return end
                     elseif k == 2 then
                         if #userText > 0 and #passText > 0 then

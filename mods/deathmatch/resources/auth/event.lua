@@ -14,12 +14,13 @@ addEventHandler('login:attempt',root,function(username, password)
             setElementData(source, 'dbid', v.id)
 			setElementData(source, 'duty', 0)
             triggerClientEvent('remove:render',source)
-            outputChatBox('Giriş başarılı.',source)
+            outputChatBox('[!] #FFFFFFGiriş başarılı.',source,255,0,0,true)
             spawnPlayer(source,v.x,v.y,v.z)
             setCameraTarget(source, source)
             fadeCamera(source,true)
+			setElementModel(source, tonumber(v.skin))
         else
-            outputChatBox('[!] #FFFFFFBilgilerin yanlış.',source,255,0,0,true)
+            outputChatBox('[!] #FFFFFFGiriş bilgilerin yanlış.',source,255,0,0,true)
         return end
     end
 end)
@@ -30,7 +31,7 @@ addEventHandler('onPlayerQuit', root, function()
 	dbExec(db, 'UPDATE accounts SET x=?, y=?, z=?, skin=? WHERE id=? ',x ,y, z, skin,tonumber(getElementData(source,'dbid')))
 	for k, v in pairs(accounts) do
 		if (accounts[tonumber(getElementData(source,'dbid'))]) then 
-			accounts[tonumber(getElementData(source,'dbid'))] = {id=value.id, username=value.username, password=value.password, email=value.email, phonenumber=value.phonenumber, serial=value.serial, admin=v.admin, x=v.x, y=v.y, z=v.z, skin=v.skin}
+			accounts[tonumber(getElementData(source,'dbid'))] = {id=v.id, username=v.username, password=v.password, email=v.email, phonenumber=v.phonenumber, serial=v.serial, admin=v.admin, x=v.x, y=v.y, z=v.z, skin=v.skin}
 		return end
 	end
 end)
@@ -54,9 +55,9 @@ addEventHandler('register:request', root, function(username, password)
 	local serial = getPlayerSerial(source)
 	if not (isAccountExists(username, password, serial)) and not (determinePlayerAccount(serial)) then
 		createAccount(username,password,serial)
-        outputChatBox('Hesabın oluşturuldu.')
+        outputChatBox('[!] #FFFFFFHesabın oluşturuldu.',source,255,0,0,true)
     else
-        outputChatBox('Zaten bir hesabın var.')
+        outputChatBox('[!] #FFFFFFZaten bir hesabın var.',source,255,0,0,true)
 	end 
 end)
 
@@ -80,9 +81,9 @@ function queryAdd(queryHandle)
 end
 
 function createAccount(username, password, serial)
-	local query = dbExec(db, 'INSERT INTO accounts(username, password, email, phonenumber, serial, admin, x, y, z, skin) VALUES(?, ?, ?, ?, ?, ?, ?, ?, ?, ?)', username, password, "undefined", "undefined", serial, 0,1480.9736328125, -1765.8916015625, 18.795755386353, 5)
+	local query = dbExec(db, 'INSERT INTO accounts(username, password, email, phonenumber, serial, admin, x, y, z, skin) VALUES(?, ?, ?, ?, ?, ?, ?, ?, ?, ?)', username, password, "undefined", "undefined", serial, 0,1480.9736328125, -1765.8916015625, 18.795755386353, 0)
 	if query == true then 
-		accounts[#accounts + 1] = {id=#accounts+1, username=username, password=password, email="undefined", phonenumber="undefined", serial=serial, admin=0, x=1480.9736328125, y=-1765.8916015625, z=18.795755386353, skin=5}
+		accounts[#accounts + 1] = {id=#accounts+1, username=username, password=password, email="undefined", phonenumber="undefined", serial=serial, admin=0, x=1480.9736328125, y=-1765.8916015625, z=18.795755386353, skin=0}
 	end 
 	return query
 end

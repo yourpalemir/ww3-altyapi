@@ -27,6 +27,10 @@ addEventHandler( "onClientRender", root, function (  )
                         dxDrawText(name..id, sx, sy, sx-size, sy+size-10, tocolor(0,0,0,255), size, font, "center", "bottom", false, false, false)
                         dxDrawText(name..id, sx, sy, sx+size, sy-size-10, tocolor(0,0,0,255), size, font, "center", "bottom", false, false, false)
                         dxDrawText(name..id, sx, sy, sx, sy-10, tocolor(255,0,0,255), size, font, "center", "bottom", false, false, false)
+                        dxDrawText(lvl, sx, sy-20, sx+size, sy+size-30, tocolor(0,0,0,255), size, font, "center", "bottom", false, false, false)
+                        dxDrawText(lvl, sx, sy-20, sx-size, sy-size-30, tocolor(0,0,0,255), size, font, "center", "bottom", false, false, false)
+                        dxDrawText(lvl, sx, sy-20, sx-size, sy+size-30, tocolor(0,0,0,255), size, font, "center", "bottom", false, false, false)
+                        dxDrawText(lvl, sx, sy-20, sx+size, sy-size-30, tocolor(0,0,0,255), size, font, "center", "bottom", false, false, false)
                         dxDrawText(lvl, sx, sy-20, sx, sy-30, tocolor(255,0,0,255), size, font, "center", "bottom", false, false, false)
                     end
                 end

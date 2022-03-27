@@ -51,9 +51,18 @@ function getPosition(thePlayer, commandName)
 end
 addCommandHandler("getpos", getPosition, false, false)
 
-
-function den(player,cmd)
-    lvl = getPlayerAdminRankByID(player)
-    outputChatBox(lvl)
+function setSkin(player,cmd,dbid,id)
+    if isPlayerAdmin2(player) then
+    targetP = exports.main:findPlayer(dbid)
+    if tonumber(dbid) and tonumber(id) then
+        if (targetP) then
+            setElementModel(targetP, tonumber(id))
+            outputChatBox("[!] #FFFFFF"..getPlayerAdminRankByID(player).." "..getElementData(player, 'account:username').." adlı yetkili tarafından skininiz "..id.."ID'ye çevirildi.", targetP, 255,0,0,true) 
+            outputChatBox("[!] #FFFFFF"..getElementData(targetP, 'account:username').." adlı oyuncunun skinini "..id.."ID'ye çevirdiniz.",player, 255,0,0,true)
+        end
+    else
+        outputChatBox('KULLANIM: /'..cmd..' [dbid] [skinid]', player)
+    end
+    end
 end
-addCommandHandler('deneme',den)
+addCommandHandler('setskin',setSkin)
