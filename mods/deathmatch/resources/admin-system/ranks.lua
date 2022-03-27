@@ -62,6 +62,14 @@ function getPlayerAdminRankByID(player)
     return false
 end
 
+function getAdminRankByID(id)
+	if tonumber(id) then
+		return unpack(rank[tonumber(id)])
+	end
+	return false
+end
+
+
 function isDutyOn(player)
     if not player or not isElement(player) or not getElementType(player) == "player" then
 		return false

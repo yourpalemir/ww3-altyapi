@@ -8,4 +8,14 @@
 <export function="isDutyOn" type="client"/>
 <export function="getPlayerAdminRankByID" type="server"/>
 <export function="getPlayerAdminRankByID" type="client"/>
+<export function="isPlayerAdmin" type="server" />
+<export function="isPlayerAdmin" type="client" />
+<export function="isPlayerAdmin2" type="server" />
+<export function="isPlayerAdmin2" type="client" />
+<export function="isPlayerAdmin3" type="server" />
+<export function="isPlayerAdmin3" type="client" />
+<export function="isPlayerManagement" type="server" />
+<export function="isPlayerManagement" type="client" />
+<export function="isPlayerDeveloper" type="server" />
+<export function="isPlayerDeveloper" type="client" />
 </meta>

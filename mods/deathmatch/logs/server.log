@@ -3479,3 +3479,847 @@
 [2022-03-27 00:56:43] QUIT: nox left the game [Quit]
 [2022-03-27 00:56:46] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
 [2022-03-27 00:56:46] JOIN: nox joined the game (IP: 127.0.0.1)
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9 [64 bit]
+==================================================================
+= Server name      : ww3 altyapi
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ww3-altyapi/mods/deathmatch/logs/server.log
+= Maximum players  : 4000
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2022-03-27 02:29:29] Resources: 10 loaded, 0 failed
+[2022-03-27 02:29:29] Starting resources...
+[2022-03-27 02:29:29] INFO: Database baglantisi basarili. - nox
+[2022-03-27 02:29:29] start: Resource 'sqlite' started
+[2022-03-27 02:29:29] Server minclientversion is now 1.5.9-9.21129.0
+[2022-03-27 02:29:29] start: Resource 'fonts' started
+[2022-03-27 02:29:29] start: Resource 'auth' started
+[2022-03-27 02:29:29] start: Resource 'main' started
+[2022-03-27 02:29:29] start: Resource 'admin-system' started
+[2022-03-27 02:29:29] start: Resource 'cpu' started
+[2022-03-27 02:29:29] start: Resource 'debug' started
+[2022-03-27 02:29:29] WARNING: guieditor <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.6-9.14489 because of 'guiComboBoxGetItemCount')
+[2022-03-27 02:29:29] WARNING: guieditor requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.6-9.14489 because of 'guiComboBoxGetItemCount')
+[2022-03-27 02:29:29] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2022-03-27 02:29:30] start: Resource 'guieditor' started
+[2022-03-27 02:29:30] start: Resource 'nametag' started
+[2022-03-27 02:29:30] Querying MTA master server... success! (Auto detected IP:212.154.66.131)
+[2022-03-27 02:29:30] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2022-03-27 02:29:30] Server started and is ready to accept connections!
+[2022-03-27 02:29:30] To stop the server, type 'shutdown' or press Ctrl-C
+[2022-03-27 02:29:30] Type 'help' for a list of commands.
+[2022-03-27 02:30:12] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 02:30:13] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 02:30:40] restart: Requested by Console
+[2022-03-27 02:30:40] restart: Resource restarting...
+[2022-03-27 02:30:40] Stopping auth
+[2022-03-27 02:30:40] Resource 'auth' changed, reloading and starting
+[2022-03-27 02:30:40] Starting auth
+[2022-03-27 02:30:40] auth restarted successfully
+[2022-03-27 02:30:43] QUIT: nox left the game [Quit]
+[2022-03-27 02:30:43] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 02:30:43] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 02:31:04] QUIT: nox left the game [Quit]
+[2022-03-27 02:31:05] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 02:31:05] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 02:33:58] restart: Requested by Console
+[2022-03-27 02:33:58] restart: Resource restarting...
+[2022-03-27 02:33:58] Stopping auth
+[2022-03-27 02:33:58] Resource 'auth' changed, reloading and starting
+[2022-03-27 02:33:58] Starting auth
+[2022-03-27 02:33:58] auth restarted successfully
+[2022-03-27 02:34:02] QUIT: nox left the game [Quit]
+[2022-03-27 02:34:02] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 02:34:02] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 02:34:10] QUIT: nox left the game [Quit]
+[2022-03-27 02:34:11] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 02:34:11] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 02:34:49] restart: Requested by Console
+[2022-03-27 02:34:49] restart: Resource restarting...
+[2022-03-27 02:34:49] Stopping auth
+[2022-03-27 02:34:49] Resource 'auth' changed, reloading and starting
+[2022-03-27 02:34:49] Starting auth
+[2022-03-27 02:34:49] auth restarted successfully
+[2022-03-27 02:34:51] QUIT: nox left the game [Quit]
+[2022-03-27 02:34:52] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 02:34:52] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 02:35:02] QUIT: nox left the game [Quit]
+[2022-03-27 02:35:02] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 02:35:02] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 02:36:30] restart: Requested by Console
+[2022-03-27 02:36:30] restart: Resource restarting...
+[2022-03-27 02:36:30] Stopping auth
+[2022-03-27 02:36:30] Resource 'auth' changed, reloading and starting
+[2022-03-27 02:36:30] Starting auth
+[2022-03-27 02:36:30] auth restarted successfully
+[2022-03-27 02:36:33] QUIT: nox left the game [Quit]
+[2022-03-27 02:36:33] WARNING: auth\event.lua:30: dbExec failed; (5) database is locked
+[2022-03-27 02:36:33] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 02:36:34] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 02:36:54] restart: Requested by Console
+[2022-03-27 02:36:54] restart: Resource restarting...
+[2022-03-27 02:36:54] Stopping auth
+[2022-03-27 02:36:54] Starting auth
+[2022-03-27 02:36:54] auth restarted successfully
+[2022-03-27 02:37:00] restart: Requested by Console
+[2022-03-27 02:37:00] restart: Resource restarting...
+[2022-03-27 02:37:00] Stopping auth
+[2022-03-27 02:37:00] Starting auth
+[2022-03-27 02:37:00] auth restarted successfully
+[2022-03-27 02:37:02] QUIT: nox left the game [Quit]
+[2022-03-27 02:37:02] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 02:37:02] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 02:37:20] QUIT: nox left the game [Quit]
+[2022-03-27 02:37:21] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 02:37:21] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 02:38:51] restart: Requested by Console
+[2022-03-27 02:38:51] restart: Resource restarting...
+[2022-03-27 02:38:51] Stopping auth
+[2022-03-27 02:38:51] Resource 'auth' changed, reloading and starting
+[2022-03-27 02:38:51] Starting auth
+[2022-03-27 02:38:51] auth restarted successfully
+[2022-03-27 02:38:53] QUIT: nox left the game [Quit]
+[2022-03-27 02:38:54] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 02:38:54] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 02:39:03] QUIT: nox left the game [Quit]
+[2022-03-27 02:39:03] ERROR: auth\event.lua:33: attempt to index global 'value' (a nil value)
+[2022-03-27 02:39:03] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 02:39:03] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 02:39:52] restart: Requested by Console
+[2022-03-27 02:39:52] restart: Resource restarting...
+[2022-03-27 02:39:52] Stopping auth
+[2022-03-27 02:39:52] Resource 'auth' changed, reloading and starting
+[2022-03-27 02:39:52] Starting auth
+[2022-03-27 02:39:52] auth restarted successfully
+[2022-03-27 02:39:53] QUIT: nox left the game [Quit]
+[2022-03-27 02:39:53] ERROR: auth\event.lua:33: attempt to index global 'value' (a nil value)
+[2022-03-27 02:39:54] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 02:39:54] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 02:40:12] QUIT: nox left the game [Quit]
+[2022-03-27 02:40:12] ERROR: auth\event.lua:33: attempt to index global 'value' (a nil value)
+[2022-03-27 02:40:13] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 02:40:13] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 02:45:36] restart: Requested by Console
+[2022-03-27 02:45:36] restart: Resource restarting...
+[2022-03-27 02:45:36] Stopping nametag
+[2022-03-27 02:45:36] Resource 'nametag' changed, reloading and starting
+[2022-03-27 02:45:36] Starting nametag
+[2022-03-27 02:45:36] nametag restarted successfully
+[2022-03-27 02:45:38] restart: Requested by Console
+[2022-03-27 02:45:38] restart: Resource restarting...
+[2022-03-27 02:45:38] Stopping admin-system
+[2022-03-27 02:45:38] Resource 'admin-system' changed, reloading and starting
+[2022-03-27 02:45:38] Starting admin-system
+[2022-03-27 02:45:38] SCRIPT ERROR: admin-system\ranks.lua:2: '}' expected (to close '{' at line 1) near '='
+[2022-03-27 02:45:38] ERROR: Loading script failed: admin-system\ranks.lua:2: '}' expected (to close '{' at line 1) near '='
+[2022-03-27 02:45:38] admin-system restarted successfully
+[2022-03-27 02:45:48] restart: Requested by Console
+[2022-03-27 02:45:48] restart: Resource restarting...
+[2022-03-27 02:45:48] Stopping admin-system
+[2022-03-27 02:45:48] Resource 'admin-system' changed, reloading and starting
+[2022-03-27 02:45:48] Starting admin-system
+[2022-03-27 02:45:48] SCRIPT ERROR: admin-system\ranks.lua:2: '}' expected (to close '{' at line 1) near '='
+[2022-03-27 02:45:48] ERROR: Loading script failed: admin-system\ranks.lua:2: '}' expected (to close '{' at line 1) near '='
+[2022-03-27 02:45:48] admin-system restarted successfully
+[2022-03-27 02:46:25] restart: Requested by Console
+[2022-03-27 02:46:25] restart: Resource restarting...
+[2022-03-27 02:46:25] Stopping admin-system
+[2022-03-27 02:46:25] Resource 'admin-system' changed, reloading and starting
+[2022-03-27 02:46:25] Starting admin-system
+[2022-03-27 02:46:25] SCRIPT ERROR: admin-system\ranks.lua:2: '}' expected (to close '{' at line 1) near '='
+[2022-03-27 02:46:25] ERROR: Loading script failed: admin-system\ranks.lua:2: '}' expected (to close '{' at line 1) near '='
+[2022-03-27 02:46:25] admin-system restarted successfully
+[2022-03-27 02:46:28] restart: Requested by Console
+[2022-03-27 02:46:28] restart: Resource restarting...
+[2022-03-27 02:46:28] Stopping admin-system
+[2022-03-27 02:46:28] Starting admin-system
+[2022-03-27 02:46:28] SCRIPT ERROR: admin-system\ranks.lua:2: '}' expected (to close '{' at line 1) near '='
+[2022-03-27 02:46:28] admin-system restarted successfully
+[2022-03-27 02:46:31] ERROR: Loading script failed: admin-system\ranks.lua:2: '}' expected (to close '{' at line 1) near '='
+[2022-03-27 02:46:37] restart: Requested by Console
+[2022-03-27 02:46:37] restart: Resource restarting...
+[2022-03-27 02:46:37] Stopping admin-system
+[2022-03-27 02:46:37] Resource 'admin-system' changed, reloading and starting
+[2022-03-27 02:46:37] Starting admin-system
+[2022-03-27 02:46:37] SCRIPT ERROR: admin-system\ranks.lua:2: '}' expected (to close '{' at line 1) near '='
+[2022-03-27 02:46:37] ERROR: Loading script failed: admin-system\ranks.lua:2: '}' expected (to close '{' at line 1) near '='
+[2022-03-27 02:46:37] admin-system restarted successfully
+[2022-03-27 02:47:25] restart: Requested by Console
+[2022-03-27 02:47:25] restart: Resource restarting...
+[2022-03-27 02:47:25] Stopping admin-system
+[2022-03-27 02:47:25] Resource 'admin-system' changed, reloading and starting
+[2022-03-27 02:47:25] Starting admin-system
+[2022-03-27 02:47:25] SCRIPT ERROR: admin-system\ranks.lua:2: ']' expected near '}'
+[2022-03-27 02:47:25] ERROR: Loading script failed: admin-system\ranks.lua:2: ']' expected near '}'
+[2022-03-27 02:47:25] admin-system restarted successfully
+[2022-03-27 02:47:25] restart: Requested by Console
+[2022-03-27 02:47:25] restart: Resource restarting...
+[2022-03-27 02:47:25] Stopping admin-system
+[2022-03-27 02:47:25] Starting admin-system
+[2022-03-27 02:47:25] SCRIPT ERROR: admin-system\ranks.lua:2: ']' expected near '}'
+[2022-03-27 02:47:25] admin-system restarted successfully
+[2022-03-27 02:47:31] ERROR: Loading script failed: admin-system\ranks.lua:2: ']' expected near '}'
+[2022-03-27 02:47:55] restart: Requested by Console
+[2022-03-27 02:47:55] restart: Resource restarting...
+[2022-03-27 02:47:55] Stopping admin-system
+[2022-03-27 02:47:55] Resource 'admin-system' changed, reloading and starting
+[2022-03-27 02:47:55] Starting admin-system
+[2022-03-27 02:47:55] SCRIPT ERROR: admin-system\ranks.lua:2: ']' expected near '}'
+[2022-03-27 02:47:55] ERROR: Loading script failed: admin-system\ranks.lua:2: ']' expected near '}'
+[2022-03-27 02:47:55] admin-system restarted successfully
+[2022-03-27 02:49:06] restart: Requested by Console
+[2022-03-27 02:49:06] restart: Resource restarting...
+[2022-03-27 02:49:06] Stopping admin-system
+[2022-03-27 02:49:06] Resource 'admin-system' changed, reloading and starting
+[2022-03-27 02:49:06] Starting admin-system
+[2022-03-27 02:49:06] SCRIPT ERROR: admin-system\ranks.lua:2: '}' expected (to close '{' at line 1) near '='
+[2022-03-27 02:49:06] ERROR: Loading script failed: admin-system\ranks.lua:2: '}' expected (to close '{' at line 1) near '='
+[2022-03-27 02:49:06] admin-system restarted successfully
+[2022-03-27 02:49:07] restart: Requested by Console
+[2022-03-27 02:49:07] restart: Resource restarting...
+[2022-03-27 02:49:07] Stopping admin-system
+[2022-03-27 02:49:07] Starting admin-system
+[2022-03-27 02:49:07] SCRIPT ERROR: admin-system\ranks.lua:2: '}' expected (to close '{' at line 1) near '='
+[2022-03-27 02:49:07] admin-system restarted successfully
+[2022-03-27 02:49:07] restart: Requested by Console
+[2022-03-27 02:49:07] restart: Resource restarting...
+[2022-03-27 02:49:07] Stopping admin-system
+[2022-03-27 02:49:07] Starting admin-system
+[2022-03-27 02:49:07] SCRIPT ERROR: admin-system\ranks.lua:2: '}' expected (to close '{' at line 1) near '='
+[2022-03-27 02:49:07] admin-system restarted successfully
+[2022-03-27 02:49:12] ERROR: Loading script failed: admin-system\ranks.lua:2: '}' expected (to close '{' at line 1) near '='  [DUP x2]
+[2022-03-27 02:49:29] restart: Requested by Console
+[2022-03-27 02:49:29] restart: Resource restarting...
+[2022-03-27 02:49:29] Stopping admin-system
+[2022-03-27 02:49:29] Starting admin-system
+[2022-03-27 02:49:29] SCRIPT ERROR: admin-system\ranks.lua:2: '}' expected (to close '{' at line 1) near '='
+[2022-03-27 02:49:29] ERROR: Loading script failed: admin-system\ranks.lua:2: '}' expected (to close '{' at line 1) near '='
+[2022-03-27 02:49:29] admin-system restarted successfully
+[2022-03-27 02:50:42] restart: Requested by Console
+[2022-03-27 02:50:42] restart: Resource restarting...
+[2022-03-27 02:50:42] Stopping admin-system
+[2022-03-27 02:50:42] Resource 'admin-system' changed, reloading and starting
+[2022-03-27 02:50:42] Starting admin-system
+[2022-03-27 02:50:42] SCRIPT ERROR: admin-system\ranks.lua:2: '}' expected (to close '{' at line 1) near '='
+[2022-03-27 02:50:42] ERROR: Loading script failed: admin-system\ranks.lua:2: '}' expected (to close '{' at line 1) near '='
+[2022-03-27 02:50:42] admin-system restarted successfully
+[2022-03-27 02:51:13] restart: Requested by Console
+[2022-03-27 02:51:13] restart: Resource restarting...
+[2022-03-27 02:51:13] Stopping admin-system
+[2022-03-27 02:51:13] Resource 'admin-system' changed, reloading and starting
+[2022-03-27 02:51:13] Starting admin-system
+[2022-03-27 02:51:13] SCRIPT ERROR: admin-system\ranks.lua:2: '}' expected (to close '{' at line 1) near '='
+[2022-03-27 02:51:13] ERROR: Loading script failed: admin-system\ranks.lua:2: '}' expected (to close '{' at line 1) near '='
+[2022-03-27 02:51:13] admin-system restarted successfully
+[2022-03-27 02:51:14] restart: Requested by Console
+[2022-03-27 02:51:14] restart: Resource restarting...
+[2022-03-27 02:51:14] Stopping admin-system
+[2022-03-27 02:51:14] Starting admin-system
+[2022-03-27 02:51:14] SCRIPT ERROR: admin-system\ranks.lua:2: '}' expected (to close '{' at line 1) near '='
+[2022-03-27 02:51:14] admin-system restarted successfully
+[2022-03-27 02:51:15] restart: Requested by Console
+[2022-03-27 02:51:15] restart: Resource restarting...
+[2022-03-27 02:51:15] Stopping admin-system
+[2022-03-27 02:51:15] Starting admin-system
+[2022-03-27 02:51:15] SCRIPT ERROR: admin-system\ranks.lua:2: '}' expected (to close '{' at line 1) near '='
+[2022-03-27 02:51:15] admin-system restarted successfully
+[2022-03-27 02:51:19] ERROR: Loading script failed: admin-system\ranks.lua:2: '}' expected (to close '{' at line 1) near '='  [DUP x2]
+[2022-03-27 02:52:42] restart: Requested by Console
+[2022-03-27 02:52:42] restart: Resource restarting...
+[2022-03-27 02:52:42] Stopping admin-system
+[2022-03-27 02:52:42] Resource 'admin-system' changed, reloading and starting
+[2022-03-27 02:52:42] Starting admin-system
+[2022-03-27 02:52:42] admin-system restarted successfully
+[2022-03-27 02:52:57] restart: Requested by Console
+[2022-03-27 02:52:57] restart: Resource restarting...
+[2022-03-27 02:52:57] Stopping admin-system
+[2022-03-27 02:52:57] Resource 'admin-system' changed, reloading and starting
+[2022-03-27 02:52:57] Starting admin-system
+[2022-03-27 02:52:57] admin-system restarted successfully
+[2022-03-27 02:53:04] restart: Requested by Console
+[2022-03-27 02:53:04] restart: Resource restarting...
+[2022-03-27 02:53:04] Stopping admin-system
+[2022-03-27 02:53:04] Resource 'admin-system' changed, reloading and starting
+[2022-03-27 02:53:04] Starting admin-system
+[2022-03-27 02:53:04] admin-system restarted successfully
+[2022-03-27 02:53:14] restart: Requested by Console
+[2022-03-27 02:53:14] restart: Resource restarting...
+[2022-03-27 02:53:14] Stopping admin-system
+[2022-03-27 02:53:14] Resource 'admin-system' changed, reloading and starting
+[2022-03-27 02:53:14] Starting admin-system
+[2022-03-27 02:53:14] admin-system restarted successfully
+[2022-03-27 02:53:22] restart: Requested by Console
+[2022-03-27 02:53:22] restart: Resource restarting...
+[2022-03-27 02:53:22] Stopping admin-system
+[2022-03-27 02:53:22] Resource 'admin-system' changed, reloading and starting
+[2022-03-27 02:53:22] Starting admin-system
+[2022-03-27 02:53:22] admin-system restarted successfully
+[2022-03-27 02:54:43] restart: Requested by Console
+[2022-03-27 02:54:43] restart: Resource restarting...
+[2022-03-27 02:54:43] Stopping admin-system
+[2022-03-27 02:54:43] Resource 'admin-system' changed, reloading and starting
+[2022-03-27 02:54:43] Starting admin-system
+[2022-03-27 02:54:43] admin-system restarted successfully
+[2022-03-27 02:55:50] restart: Requested by Console
+[2022-03-27 02:55:50] restart: Resource restarting...
+[2022-03-27 02:55:50] Stopping nametag
+[2022-03-27 02:55:50] Resource 'nametag' changed, reloading and starting
+[2022-03-27 02:55:50] Starting nametag
+[2022-03-27 02:55:50] nametag restarted successfully
+[2022-03-27 02:56:29] restart: Requested by Console
+[2022-03-27 02:56:29] restart: Resource restarting...
+[2022-03-27 02:56:29] Stopping nametag
+[2022-03-27 02:56:29] Resource 'nametag' changed, reloading and starting
+[2022-03-27 02:56:29] Starting nametag
+[2022-03-27 02:56:29] nametag restarted successfully
+[2022-03-27 02:56:47] restart: Requested by Console
+[2022-03-27 02:56:47] restart: Resource restarting...
+[2022-03-27 02:56:47] Stopping nametag
+[2022-03-27 02:56:47] Starting nametag
+[2022-03-27 02:56:47] nametag restarted successfully
+[2022-03-27 02:56:56] restart: Requested by Console
+[2022-03-27 02:56:56] restart: Resource restarting...
+[2022-03-27 02:56:56] Stopping nametag
+[2022-03-27 02:56:56] Starting nametag
+[2022-03-27 02:56:56] nametag restarted successfully
+[2022-03-27 03:01:25] restart: Requested by Console
+[2022-03-27 03:01:25] restart: Resource restarting...
+[2022-03-27 03:01:25] Stopping nametag
+[2022-03-27 03:01:25] Resource 'nametag' changed, reloading and starting
+[2022-03-27 03:01:25] Starting nametag
+[2022-03-27 03:01:25] nametag restarted successfully
+[2022-03-27 03:08:08] restart: Requested by Console
+[2022-03-27 03:08:08] restart: Resource restarting...
+[2022-03-27 03:08:08] Stopping nametag
+[2022-03-27 03:08:08] Resource 'nametag' changed, reloading and starting
+[2022-03-27 03:08:08] Starting nametag
+[2022-03-27 03:08:08] nametag restarted successfully
+[2022-03-27 03:08:41] restart: Requested by Console
+[2022-03-27 03:08:41] restart: Resource restarting...
+[2022-03-27 03:08:41] Stopping nametag
+[2022-03-27 03:08:41] Resource 'nametag' changed, reloading and starting
+[2022-03-27 03:08:41] Starting nametag
+[2022-03-27 03:08:41] nametag restarted successfully
+[2022-03-27 03:09:02] restart: Requested by Console
+[2022-03-27 03:09:02] restart: Resource restarting...
+[2022-03-27 03:09:02] Stopping admin-system
+[2022-03-27 03:09:02] Resource 'admin-system' changed, reloading and starting
+[2022-03-27 03:09:02] Starting admin-system
+[2022-03-27 03:09:02] admin-system restarted successfully
+[2022-03-27 03:09:04] restart: Requested by Console
+[2022-03-27 03:09:04] restart: Resource restarting...
+[2022-03-27 03:09:04] Stopping nametag
+[2022-03-27 03:09:04] Resource 'nametag' changed, reloading and starting
+[2022-03-27 03:09:04] Starting nametag
+[2022-03-27 03:09:04] nametag restarted successfully
+[2022-03-27 03:09:34] restart: Requested by Console
+[2022-03-27 03:09:34] restart: Resource restarting...
+[2022-03-27 03:09:34] Stopping nametag
+[2022-03-27 03:09:34] Starting nametag
+[2022-03-27 03:09:34] nametag restarted successfully
+[2022-03-27 03:09:42] restart: Requested by Console
+[2022-03-27 03:09:42] restart: Resource restarting...
+[2022-03-27 03:09:42] Stopping nametag
+[2022-03-27 03:09:42] Resource 'nametag' changed, reloading and starting
+[2022-03-27 03:09:42] Starting nametag
+[2022-03-27 03:09:42] nametag restarted successfully
+[2022-03-27 03:11:50] restart: Requested by Console
+[2022-03-27 03:11:50] restart: Resource restarting...
+[2022-03-27 03:11:50] Stopping admin-system
+[2022-03-27 03:11:50] Resource 'admin-system' changed, reloading and starting
+[2022-03-27 03:11:50] Starting admin-system
+[2022-03-27 03:11:50] admin-system restarted successfully
+[2022-03-27 03:11:51] restart: Requested by Console
+[2022-03-27 03:11:51] restart: Resource restarting...
+[2022-03-27 03:11:51] Stopping nametag
+[2022-03-27 03:11:51] Starting nametag
+[2022-03-27 03:11:51] nametag restarted successfully
+[2022-03-27 03:13:03] restart: Requested by Console
+[2022-03-27 03:13:03] restart: Resource restarting...
+[2022-03-27 03:13:03] Stopping nametag
+[2022-03-27 03:13:03] Resource 'nametag' changed, reloading and starting
+[2022-03-27 03:13:03] Starting nametag
+[2022-03-27 03:13:03] nametag restarted successfully
+[2022-03-27 03:15:41] New resource 'minimap' loaded
+[2022-03-27 03:15:41] ERROR: Couldn't find file images/radar.png for resource radar
+[2022-03-27 03:15:41] Loading of resource 'radar' failed
+[2022-03-27 03:15:41] ERROR: Problem with resource: radar; Couldn't find file images/radar.png for resource radar
+[2022-03-27 03:15:41] Resources: 11 loaded, 1 failed
+[2022-03-27 03:15:42] start: Requested by Console
+[2022-03-27 03:15:43] Starting minimap
+[2022-03-27 03:15:43] start: Resource 'minimap' started
+[2022-03-27 03:15:45] start: Requested by Console
+[2022-03-27 03:15:45] start: Resource is loaded, but has errors (Couldn't find file images/radar.png for resource radar)
+[2022-03-27 03:16:10] start: Requested by Console
+[2022-03-27 03:16:10] start: Resource is loaded, but has errors (Couldn't find file images/radar.png for resource radar)
+[2022-03-27 03:16:13] Resource 'radar' changed, reloading
+[2022-03-27 03:16:13] New resource 'radar' loaded
+[2022-03-27 03:16:13] Resources: 12 loaded, 0 failed
+[2022-03-27 03:16:15] start: Requested by Console
+[2022-03-27 03:16:15] Starting radar
+[2022-03-27 03:16:15] start: Resource 'radar' started
+[2022-03-27 03:16:55] restart: Requested by Console
+[2022-03-27 03:16:55] restart: Resource restarting...
+[2022-03-27 03:16:55] Stopping minimap
+[2022-03-27 03:16:55] Starting minimap
+[2022-03-27 03:16:55] minimap restarted successfully
+[2022-03-27 03:17:34] ERROR: Resource 'minimap' has been removed while running! Stopping resource.
+[2022-03-27 03:17:34] Stopping minimap
+[2022-03-27 03:17:34] Resources: 11 loaded, 0 failed
+[2022-03-27 03:17:35] start: Requested by Console
+[2022-03-27 03:17:35] start: Resource is already running
+[2022-03-27 03:17:37] restart: Requested by Console
+[2022-03-27 03:17:37] restart: Resource restarting...
+[2022-03-27 03:17:37] Stopping radar
+[2022-03-27 03:17:37] Resource 'radar' changed, reloading and starting
+[2022-03-27 03:17:37] Starting radar
+[2022-03-27 03:17:37] radar restarted successfully
+[2022-03-27 03:20:27] restart: Requested by Console
+[2022-03-27 03:20:27] restart: Resource restarting...
+[2022-03-27 03:20:27] Stopping radar
+[2022-03-27 03:20:27] Resource 'radar' changed, reloading and starting
+[2022-03-27 03:20:28] Starting radar
+[2022-03-27 03:20:28] radar restarted successfully
+[2022-03-27 03:21:40] ERROR: guieditor\server.lua:431: bad argument #1 to 'lower' (string expected, got nil)
+[2022-03-27 03:23:23] restart: Requested by Console
+[2022-03-27 03:23:23] restart: Resource restarting...
+[2022-03-27 03:23:23] Stopping nametag
+[2022-03-27 03:23:23] Resource 'nametag' changed, reloading and starting
+[2022-03-27 03:23:23] Starting nametag
+[2022-03-27 03:23:23] nametag restarted successfully
+[2022-03-27 03:37:50] restart: Requested by Console
+[2022-03-27 03:37:50] restart: Resource restarting...
+[2022-03-27 03:37:50] Stopping admin-system
+[2022-03-27 03:37:50] Resource 'admin-system' changed, reloading and starting
+[2022-03-27 03:37:50] Starting admin-system
+[2022-03-27 03:37:50] admin-system restarted successfully
+[2022-03-27 03:39:00] restart: Requested by Console
+[2022-03-27 03:39:00] restart: Resource restarting...
+[2022-03-27 03:39:00] Stopping admin-system
+[2022-03-27 03:39:00] Resource 'admin-system' changed, reloading and starting
+[2022-03-27 03:39:00] Starting admin-system
+[2022-03-27 03:39:00] admin-system restarted successfully
+[2022-03-27 03:39:19] restart: Requested by Console
+[2022-03-27 03:39:19] restart: Resource restarting...
+[2022-03-27 03:39:19] Stopping admin-system
+[2022-03-27 03:39:19] Resource 'admin-system' changed, reloading and starting
+[2022-03-27 03:39:19] Starting admin-system
+[2022-03-27 03:39:19] admin-system restarted successfully
+[2022-03-27 03:39:44] QUIT: nox left the game [Quit]
+[2022-03-27 03:39:44] ERROR: auth\event.lua:33: attempt to index global 'value' (a nil value)
+[2022-03-27 03:39:44] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 03:39:44] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 03:40:25] restart: Requested by Console
+[2022-03-27 03:40:25] restart: Resource restarting...
+[2022-03-27 03:40:25] Stopping admin-system
+[2022-03-27 03:40:25] Starting admin-system
+[2022-03-27 03:40:25] admin-system restarted successfully
+[2022-03-27 03:40:27] QUIT: nox left the game [Quit]
+[2022-03-27 03:40:27] ERROR: auth\event.lua:33: attempt to index global 'value' (a nil value)
+[2022-03-27 03:40:28] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 03:40:28] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 03:40:46] restart: Requested by Console
+[2022-03-27 03:40:46] restart: Resource restarting...
+[2022-03-27 03:40:46] Stopping auth
+[2022-03-27 03:40:46] Resource 'auth' changed, reloading and starting
+[2022-03-27 03:40:46] Starting auth
+[2022-03-27 03:40:47] auth restarted successfully
+[2022-03-27 03:40:51] QUIT: nox left the game [Quit]
+[2022-03-27 03:40:51] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 03:40:51] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 03:41:17] QUIT: nox left the game [Quit]
+[2022-03-27 03:41:17] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 03:41:17] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 03:42:06] restart: Requested by Console
+[2022-03-27 03:42:06] restart: Resource restarting...
+[2022-03-27 03:42:06] Stopping auth
+[2022-03-27 03:42:06] Resource 'auth' changed, reloading and starting
+[2022-03-27 03:42:06] Starting auth
+[2022-03-27 03:42:06] auth restarted successfully
+[2022-03-27 03:42:07] QUIT: nox left the game [Quit]
+[2022-03-27 03:42:07] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 03:42:08] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 03:42:38] QUIT: nox left the game [Quit]
+[2022-03-27 03:42:38] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 03:42:38] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 03:46:59] restart: Requested by Console
+[2022-03-27 03:46:59] restart: Resource restarting...
+[2022-03-27 03:46:59] Stopping auth
+[2022-03-27 03:46:59] Resource 'auth' changed, reloading and starting
+[2022-03-27 03:46:59] Starting auth
+[2022-03-27 03:46:59] auth restarted successfully
+[2022-03-27 03:47:02] QUIT: nox left the game [Quit]
+[2022-03-27 03:47:03] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 03:47:03] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 03:48:44] restart: Requested by Console
+[2022-03-27 03:48:44] restart: Resource restarting...
+[2022-03-27 03:48:44] Stopping main
+[2022-03-27 03:48:44] Resource 'main' changed, reloading and starting
+[2022-03-27 03:48:44] Starting main
+[2022-03-27 03:48:44] SCRIPT ERROR: main\players.lua:11: 'then' expected near 'return'
+[2022-03-27 03:48:44] ERROR: Loading script failed: main\players.lua:11: 'then' expected near 'return'
+[2022-03-27 03:48:44] main restarted successfully
+[2022-03-27 03:48:55] restart: Requested by Console
+[2022-03-27 03:48:55] restart: Resource restarting...
+[2022-03-27 03:48:55] Stopping main
+[2022-03-27 03:48:55] Resource 'main' changed, reloading and starting
+[2022-03-27 03:48:55] Starting main
+[2022-03-27 03:48:55] main restarted successfully
+[2022-03-27 03:49:45] restart: Requested by Console
+[2022-03-27 03:49:45] restart: Resource restarting...
+[2022-03-27 03:49:45] Stopping admin-system
+[2022-03-27 03:49:45] Resource 'admin-system' changed, reloading and starting
+[2022-03-27 03:49:45] Starting admin-system
+[2022-03-27 03:49:45] admin-system restarted successfully
+[2022-03-27 03:57:10] restart: Requested by Console
+[2022-03-27 03:57:10] restart: Resource restarting...
+[2022-03-27 03:57:10] Stopping admin-system
+[2022-03-27 03:57:10] Resource 'admin-system' changed, reloading and starting
+[2022-03-27 03:57:10] Starting admin-system
+[2022-03-27 03:57:10] admin-system restarted successfully
+[2022-03-27 03:57:48] restart: Requested by Console
+[2022-03-27 03:57:48] restart: Resource restarting...
+[2022-03-27 03:57:48] Stopping admin-system
+[2022-03-27 03:57:48] Resource 'admin-system' changed, reloading and starting
+[2022-03-27 03:57:48] Starting admin-system
+[2022-03-27 03:57:48] admin-system restarted successfully
+[2022-03-27 03:57:55] restart: Requested by Console
+[2022-03-27 03:57:55] restart: Resource restarting...
+[2022-03-27 03:57:55] Stopping admin-system
+[2022-03-27 03:57:55] Resource 'admin-system' changed, reloading and starting
+[2022-03-27 03:57:55] Starting admin-system
+[2022-03-27 03:57:55] admin-system restarted successfully
+[2022-03-27 03:58:10] restart: Requested by Console
+[2022-03-27 03:58:10] restart: Resource restarting...
+[2022-03-27 03:58:10] Stopping admin-system
+[2022-03-27 03:58:10] Starting admin-system
+[2022-03-27 03:58:10] admin-system restarted successfully
+[2022-03-27 03:58:47] restart: Requested by Console
+[2022-03-27 03:58:47] restart: Resource restarting...
+[2022-03-27 03:58:47] Stopping admin-system
+[2022-03-27 03:58:47] Resource 'admin-system' changed, reloading and starting
+[2022-03-27 03:58:47] Starting admin-system
+[2022-03-27 03:58:47] admin-system restarted successfully
+[2022-03-27 04:04:40] QUIT: nox left the game [Quit]
+[2022-03-27 04:04:41] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 04:04:41] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 04:04:59] QUIT: nox left the game [Quit]
+[2022-03-27 04:04:59] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 04:05:00] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 04:05:12] QUIT: nox left the game [Quit]
+[2022-03-27 04:05:13] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 04:05:13] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 04:06:23] restart: Requested by Console
+[2022-03-27 04:06:23] restart: Resource restarting...
+[2022-03-27 04:06:23] Stopping auth
+[2022-03-27 04:06:23] Resource 'auth' changed, reloading and starting
+[2022-03-27 04:06:23] Starting auth
+[2022-03-27 04:06:23] auth restarted successfully
+[2022-03-27 04:06:34] restart: Requested by Console
+[2022-03-27 04:06:34] restart: Resource restarting...
+[2022-03-27 04:06:34] Stopping auth
+[2022-03-27 04:06:34] Starting auth
+[2022-03-27 04:06:34] auth restarted successfully
+[2022-03-27 04:06:36] QUIT: nox left the game [Quit]
+[2022-03-27 04:06:37] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 04:06:37] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 04:06:48] QUIT: nox left the game [Quit]
+[2022-03-27 04:06:49] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 04:06:49] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 04:08:08] restart: Requested by Console
+[2022-03-27 04:08:08] restart: Resource restarting...
+[2022-03-27 04:08:08] Stopping auth
+[2022-03-27 04:08:08] Resource 'auth' changed, reloading and starting
+[2022-03-27 04:08:08] Starting auth
+[2022-03-27 04:08:08] auth restarted successfully
+[2022-03-27 04:08:12] QUIT: nox left the game [Quit]
+[2022-03-27 04:08:13] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 04:08:13] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 04:09:30] restart: Requested by Console
+[2022-03-27 04:09:30] restart: Resource restarting...
+[2022-03-27 04:09:30] Stopping auth
+[2022-03-27 04:09:30] Resource 'auth' changed, reloading and starting
+[2022-03-27 04:09:30] Starting auth
+[2022-03-27 04:09:30] auth restarted successfully
+[2022-03-27 04:09:32] QUIT: nox left the game [Quit]
+[2022-03-27 04:09:32] INFO: 1475.15234375    -1737.419921875    13.546875
+[2022-03-27 04:09:32] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 04:09:32] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 04:09:43] INFO: 1552.560546875    -1742.041015625    13.546875
+[2022-03-27 04:10:06] QUIT: nox left the game [Quit]
+[2022-03-27 04:10:06] INFO: 1525.541015625    -1734.681640625    13.3828125
+[2022-03-27 04:10:07] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 04:10:07] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 04:10:18] INFO: 1552.560546875    -1742.041015625    13.546875
+[2022-03-27 04:10:28] ACL: Denied 'nox' access to command 'debugscript'
+[2022-03-27 04:10:29] ACL: Denied 'nox' access to command 'debugscript'
+[2022-03-27 04:12:22] restart: Requested by Console
+[2022-03-27 04:12:22] restart: Resource restarting...
+[2022-03-27 04:12:22] Stopping auth
+[2022-03-27 04:12:22] Resource 'auth' changed, reloading and starting
+[2022-03-27 04:12:22] Starting auth
+[2022-03-27 04:12:22] auth restarted successfully
+[2022-03-27 04:12:26] QUIT: nox left the game [Quit]
+[2022-03-27 04:12:26] INFO: 1502.58984375    -1717.7255859375    14.046875
+[2022-03-27 04:12:27] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 04:12:27] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 04:12:39] INFO: 1525.541015625    -1734.681640625    13.382811546326
+[2022-03-27 04:16:32] restart: Requested by Console
+[2022-03-27 04:16:32] restart: Resource restarting...
+[2022-03-27 04:16:32] Stopping auth
+[2022-03-27 04:16:32] Resource 'auth' changed, reloading and starting
+[2022-03-27 04:16:32] Starting auth
+[2022-03-27 04:16:32] auth restarted successfully
+[2022-03-27 04:16:36] QUIT: nox left the game [Quit]
+[2022-03-27 04:16:36] WARNING: auth\event.lua:33: dbExec failed; (1) SQL logic error
+[2022-03-27 04:16:37] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 04:16:37] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 04:16:44] INFO: 1533.677734375    -1726.1787109375    13.3828125
+[2022-03-27 04:16:51] QUIT: nox left the game [Quit]
+[2022-03-27 04:16:51] WARNING: auth\event.lua:33: dbExec failed; (1) SQL logic error
+[2022-03-27 04:16:51] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 04:16:51] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 04:16:58] INFO: 1502.533203125    -1707.5927734375    14.546875
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9 [64 bit]
+==================================================================
+= Server name      : ww3 altyapi
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ww3-altyapi/mods/deathmatch/logs/server.log
+= Maximum players  : 4000
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2022-03-27 17:47:21] Resources: 11 loaded, 0 failed
+[2022-03-27 17:47:22] Starting resources...
+[2022-03-27 17:47:22] INFO: Database baglantisi basarili. - nox
+[2022-03-27 17:47:22] start: Resource 'sqlite' started
+[2022-03-27 17:47:22] Server minclientversion is now 1.5.9-9.21129.0
+[2022-03-27 17:47:22] start: Resource 'fonts' started
+[2022-03-27 17:47:22] start: Resource 'auth' started
+[2022-03-27 17:47:22] start: Resource 'main' started
+[2022-03-27 17:47:22] start: Resource 'admin-system' started
+[2022-03-27 17:47:22] start: Resource 'cpu' started
+[2022-03-27 17:47:22] start: Resource 'debug' started
+[2022-03-27 17:47:22] WARNING: guieditor <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.6-9.14489 because of 'guiComboBoxGetItemCount')
+[2022-03-27 17:47:22] WARNING: guieditor requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.6-9.14489 because of 'guiComboBoxGetItemCount')
+[2022-03-27 17:47:22] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2022-03-27 17:47:22] start: Resource 'guieditor' started
+[2022-03-27 17:47:22] start: Resource 'nametag' started
+[2022-03-27 17:47:22] start: Resource 'radar' started
+[2022-03-27 17:47:22] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2022-03-27 17:47:22] Server started and is ready to accept connections!
+[2022-03-27 17:47:22] To stop the server, type 'shutdown' or press Ctrl-C
+[2022-03-27 17:47:22] Type 'help' for a list of commands.
+[2022-03-27 17:47:23] Querying MTA master server... success! (Auto detected IP:212.154.66.131)
+[2022-03-27 17:47:57] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 17:47:58] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 17:49:14] New resource 'FPS1' loaded
+[2022-03-27 17:49:14] New resource 'FPS2' loaded
+[2022-03-27 17:49:14] New resource 'FPS3' loaded
+[2022-03-27 17:49:14] Resources: 14 loaded, 0 failed
+[2022-03-27 17:49:17] start: Resource could not be found
+[2022-03-27 17:49:21] start: Requested by Console
+[2022-03-27 17:49:21] Starting FPS1
+[2022-03-27 17:49:21] start: Resource 'FPS1' started
+[2022-03-27 17:49:21] start: Requested by Console
+[2022-03-27 17:49:21] Starting FPS2
+[2022-03-27 17:49:21] start: Resource 'FPS2' started
+[2022-03-27 17:49:22] start: Requested by Console
+[2022-03-27 17:49:22] Starting FPS3
+[2022-03-27 17:49:22] start: Resource 'FPS3' started
+[2022-03-27 17:49:55] CHAT: nox: t
+[2022-03-27 17:50:49] restart: Requested by Console
+[2022-03-27 17:50:49] restart: Resource restarting...
+[2022-03-27 17:50:49] Stopping auth
+[2022-03-27 17:50:49] Resource 'auth' changed, reloading and starting
+[2022-03-27 17:50:49] Starting auth
+[2022-03-27 17:50:49] auth restarted successfully
+[2022-03-27 17:55:12] CHAT: * nox s
+[2022-03-27 17:59:15] restart: Requested by Console
+[2022-03-27 17:59:15] restart: Resource restarting...
+[2022-03-27 17:59:15] Stopping main
+[2022-03-27 17:59:15] Resource 'main' changed, reloading and starting
+[2022-03-27 17:59:15] Starting main
+[2022-03-27 17:59:15] main restarted successfully
+[2022-03-27 17:59:20] CHAT: nox: t
+[2022-03-27 18:01:58] restart: Requested by Console
+[2022-03-27 18:01:58] restart: Resource restarting...
+[2022-03-27 18:01:58] Stopping main
+[2022-03-27 18:01:58] Resource 'main' changed, reloading and starting
+[2022-03-27 18:01:58] Starting main
+[2022-03-27 18:01:58] SCRIPT ERROR: main\chat.lua:9: 'then' expected near 'cancelEvent'
+[2022-03-27 18:01:58] ERROR: Loading script failed: main\chat.lua:9: 'then' expected near 'cancelEvent'
+[2022-03-27 18:01:58] main restarted successfully
+[2022-03-27 18:02:04] restart: Requested by Console
+[2022-03-27 18:02:04] restart: Resource restarting...
+[2022-03-27 18:02:04] Stopping main
+[2022-03-27 18:02:04] Resource 'main' changed, reloading and starting
+[2022-03-27 18:02:04] Starting main
+[2022-03-27 18:02:04] main restarted successfully
+[2022-03-27 18:02:42] restart: Requested by Console
+[2022-03-27 18:02:42] restart: Resource restarting...
+[2022-03-27 18:02:42] Stopping main
+[2022-03-27 18:02:42] Resource 'main' changed, reloading and starting
+[2022-03-27 18:02:42] Starting main
+[2022-03-27 18:02:42] main restarted successfully
+[2022-03-27 18:03:38] restart: Requested by Console
+[2022-03-27 18:03:38] restart: Resource restarting...
+[2022-03-27 18:03:38] Stopping main
+[2022-03-27 18:03:38] Resource 'main' changed, reloading and starting
+[2022-03-27 18:03:38] Starting main
+[2022-03-27 18:03:38] main restarted successfully
+[2022-03-27 18:05:22] restart: Requested by Console
+[2022-03-27 18:05:22] restart: Resource restarting...
+[2022-03-27 18:05:22] Stopping admin-system
+[2022-03-27 18:05:22] Resource 'admin-system' changed, reloading and starting
+[2022-03-27 18:05:22] Starting admin-system
+[2022-03-27 18:05:22] admin-system restarted successfully
+[2022-03-27 18:08:01] restart: Requested by Console
+[2022-03-27 18:08:01] restart: Resource restarting...
+[2022-03-27 18:08:01] Stopping main
+[2022-03-27 18:08:01] Resource 'main' changed, reloading and starting
+[2022-03-27 18:08:01] Starting main
+[2022-03-27 18:08:01] main restarted successfully
+[2022-03-27 18:08:03] ERROR: main\chat.lua:20: call: failed to call 'admin-system:isPlayerManagement' [string "?"]
+[2022-03-27 18:08:09] ERROR: main\chat.lua:20: call: failed to call 'admin-system:isPlayerManagement' [string "?"]  [DUP x2]
+[2022-03-27 18:08:12] ERROR: main\chat.lua:20: call: failed to call 'admin-system:isPlayerManagement' [string "?"]
+[2022-03-27 18:08:18] ERROR: main\chat.lua:20: call: failed to call 'admin-system:isPlayerManagement' [string "?"]  [DUP x2]
+[2022-03-27 18:08:46] restart: Requested by Console
+[2022-03-27 18:08:46] restart: Resource restarting...
+[2022-03-27 18:08:46] Stopping admin-system
+[2022-03-27 18:08:46] Resource 'admin-system' changed, reloading and starting
+[2022-03-27 18:08:46] Starting admin-system
+[2022-03-27 18:08:46] admin-system restarted successfully
+[2022-03-27 18:08:47] restart: Requested by Console
+[2022-03-27 18:08:47] restart: Resource restarting...
+[2022-03-27 18:08:47] Stopping main
+[2022-03-27 18:08:47] Starting main
+[2022-03-27 18:08:47] main restarted successfully
+[2022-03-27 18:09:31] restart: Requested by Console
+[2022-03-27 18:09:31] restart: Resource restarting...
+[2022-03-27 18:09:31] Stopping main
+[2022-03-27 18:09:31] Resource 'main' changed, reloading and starting
+[2022-03-27 18:09:31] Starting main
+[2022-03-27 18:09:31] main restarted successfully
+[2022-03-27 18:09:38] restart: Requested by Console
+[2022-03-27 18:09:38] restart: Resource restarting...
+[2022-03-27 18:09:38] Stopping main
+[2022-03-27 18:09:38] Resource 'main' changed, reloading and starting
+[2022-03-27 18:09:38] Starting main
+[2022-03-27 18:09:38] main restarted successfully
+[2022-03-27 18:09:53] restart: Requested by Console
+[2022-03-27 18:09:53] restart: Resource restarting...
+[2022-03-27 18:09:53] Stopping main
+[2022-03-27 18:09:53] Resource 'main' changed, reloading and starting
+[2022-03-27 18:09:53] Starting main
+[2022-03-27 18:09:53] main restarted successfully
+[2022-03-27 18:10:21] restart: Requested by Console
+[2022-03-27 18:10:21] restart: Resource restarting...
+[2022-03-27 18:10:21] Stopping main
+[2022-03-27 18:10:21] Resource 'main' changed, reloading and starting
+[2022-03-27 18:10:21] Starting main
+[2022-03-27 18:10:21] SCRIPT ERROR: main\chat.lua:31: 'end' expected (to close 'function' at line 19) near '<eof>'
+[2022-03-27 18:10:21] ERROR: Loading script failed: main\chat.lua:31: 'end' expected (to close 'function' at line 19) near '<eof>'
+[2022-03-27 18:10:21] main restarted successfully
+[2022-03-27 18:10:24] restart: Requested by Console
+[2022-03-27 18:10:24] restart: Resource restarting...
+[2022-03-27 18:10:24] Stopping main
+[2022-03-27 18:10:24] Resource 'main' changed, reloading and starting
+[2022-03-27 18:10:24] Starting main
+[2022-03-27 18:10:24] main restarted successfully
+[2022-03-27 18:10:31] restart: Requested by Console
+[2022-03-27 18:10:31] restart: Resource restarting...
+[2022-03-27 18:10:31] Stopping main
+[2022-03-27 18:10:31] Resource 'main' changed, reloading and starting
+[2022-03-27 18:10:31] Starting main
+[2022-03-27 18:10:31] main restarted successfully
+[2022-03-27 18:16:24] restart: Requested by Console
+[2022-03-27 18:16:24] restart: Resource restarting...
+[2022-03-27 18:16:24] Stopping main
+[2022-03-27 18:16:24] Resource 'main' changed, reloading and starting
+[2022-03-27 18:16:24] Starting main
+[2022-03-27 18:16:24] main restarted successfully
+[2022-03-27 18:19:14] restart: Requested by Console
+[2022-03-27 18:19:14] restart: Resource restarting...
+[2022-03-27 18:19:14] Stopping main
+[2022-03-27 18:19:14] Resource 'main' changed, reloading and starting
+[2022-03-27 18:19:14] Starting main
+[2022-03-27 18:19:14] main restarted successfully
+[2022-03-27 18:19:19] ERROR: main\chat.lua:55: call: failed to call 'admin-system:isPlayerAdmin' [string "?"]
+[2022-03-27 18:19:25] ERROR: main\chat.lua:55: call: failed to call 'admin-system:isPlayerAdmin' [string "?"]
+[2022-03-27 18:20:06] restart: Requested by Console
+[2022-03-27 18:20:06] restart: Resource restarting...
+[2022-03-27 18:20:06] Stopping admin-system
+[2022-03-27 18:20:06] Resource 'admin-system' changed, reloading and starting
+[2022-03-27 18:20:06] Starting admin-system
+[2022-03-27 18:20:06] admin-system restarted successfully
+[2022-03-27 18:20:07] restart: Requested by Console
+[2022-03-27 18:20:07] restart: Resource restarting...
+[2022-03-27 18:20:07] Stopping main
+[2022-03-27 18:20:07] Starting main
+[2022-03-27 18:20:07] main restarted successfully
+[2022-03-27 18:21:26] restart: Requested by Console
+[2022-03-27 18:21:26] restart: Resource restarting...
+[2022-03-27 18:21:26] Stopping main
+[2022-03-27 18:21:26] Resource 'main' changed, reloading and starting
+[2022-03-27 18:21:26] Starting main
+[2022-03-27 18:21:26] main restarted successfully
+[2022-03-27 18:25:39] restart: Requested by Console
+[2022-03-27 18:25:39] restart: Resource restarting...
+[2022-03-27 18:25:39] Stopping auth
+[2022-03-27 18:25:39] Resource 'auth' changed, reloading and starting
+[2022-03-27 18:25:39] Starting auth
+[2022-03-27 18:25:39] auth restarted successfully
+[2022-03-27 18:30:42] restart: Requested by Console
+[2022-03-27 18:30:42] restart: Resource restarting...
+[2022-03-27 18:30:42] Stopping admin-system
+[2022-03-27 18:30:42] Resource 'admin-system' changed, reloading and starting
+[2022-03-27 18:30:42] Starting admin-system
+[2022-03-27 18:30:42] admin-system restarted successfully
+[2022-03-27 18:31:15] restart: Requested by Console
+[2022-03-27 18:31:15] restart: Resource restarting...
+[2022-03-27 18:31:15] Stopping admin-system
+[2022-03-27 18:31:15] Resource 'admin-system' changed, reloading and starting
+[2022-03-27 18:31:15] Starting admin-system
+[2022-03-27 18:31:15] admin-system restarted successfully
+[2022-03-27 18:31:23] restart: Requested by Console
+[2022-03-27 18:31:23] restart: Resource restarting...
+[2022-03-27 18:31:23] Stopping admin-system
+[2022-03-27 18:31:23] Resource 'admin-system' changed, reloading and starting
+[2022-03-27 18:31:23] Starting admin-system
+[2022-03-27 18:31:23] admin-system restarted successfully
+[2022-03-27 18:32:37] QUIT: nox left the game [Quit]
+[2022-03-27 18:32:37] WARNING: auth\event.lua:34: dbExec failed; (1) SQL logic error
+[2022-03-27 18:32:37] CONNECT: nox connected (IP: 127.0.0.1  Serial: 34AE611E3D85D6A723124F4C17B41BE4  Version: 1.5.9-9.21135.0)
+[2022-03-27 18:32:37] JOIN: nox joined the game (IP: 127.0.0.1)
+[2022-03-27 18:32:50] NICK: nox is now known as yourpalemir
+[2022-03-27 18:34:39] restart: Requested by Console
+[2022-03-27 18:34:39] restart: Resource restarting...
+[2022-03-27 18:34:39] Stopping admin-system
+[2022-03-27 18:34:39] Resource 'admin-system' changed, reloading and starting
+[2022-03-27 18:34:39] Starting admin-system
+[2022-03-27 18:34:39] admin-system restarted successfully
+[2022-03-27 18:34:52] restart: Requested by Console
+[2022-03-27 18:34:52] restart: Resource restarting...
+[2022-03-27 18:34:52] Stopping admin-system
+[2022-03-27 18:34:52] Resource 'admin-system' changed, reloading and starting
+[2022-03-27 18:34:52] Starting admin-system
+[2022-03-27 18:34:52] admin-system restarted successfully
+[2022-03-27 18:36:00] restart: Requested by Console
+[2022-03-27 18:36:00] restart: Resource restarting...
+[2022-03-27 18:36:00] Stopping auth
+[2022-03-27 18:36:00] Resource 'auth' changed, reloading and starting
+[2022-03-27 18:36:00] Starting auth
+[2022-03-27 18:36:00] auth restarted successfully
+[2022-03-27 18:36:01] Server stopped!
+[2022-03-27 18:36:02] Stopping resources.................
+[2022-03-27 18:36:02] Closing SQLite3 database

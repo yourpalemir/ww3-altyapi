@@ -4,6 +4,8 @@ locations = {
     md = {1178.232421875, -1323.3427734375, 14.109934806824}
 }
 
+db = exports.sqlite:getConnection()
+
 function aduty(player, cmd)
     if not isDutyOn(player) then
         setElementData(player,'duty', 1)
@@ -66,3 +68,22 @@ function setSkin(player,cmd,dbid,id)
     end
 end
 addCommandHandler('setskin',setSkin)
+
+function adminver(player, cmd, dbid, rank)
+    if isPlayerDeveloper(player) then
+        targetP = exports.main:findPlayer(dbid)
+        if tonumber(dbid) and tonumber(rank) then
+            if (targetP) then
+                setElementData(targetP, 'adminlevel', tonumber(rank))
+                dbExec(db, 'UPDATE accounts SET admin=? WHERE id=?', tonumber(rank), tonumber(getElementData(targetP,'dbid')))
+                -- target
+                outputChatBox('[!] '..getPlayerAdminRankByID(player)..' '..getElementData(targetP, 'account:username')..' #FFFFFFadlı yetkili tarafından admin seviyeniz '..getAdminRankByID(tonumber(rank))..' adlı yetkiye yükseltildi.',targetP,255,0,0,true)
+                -- player
+                outputChatBox('[!] #FFFFFF'..getElementData(targetP, 'account:username')..' adlı oyuncunun admin seviyesini '..getAdminRankByID(tonumber(rank))..' seviyesine çevirdiniz.', player, 255,0,0,true)
+            end
+        else
+            outputChatBox('KULLANIM: /'..cmd..' [dbid] [rankid]', player, 255,255,153,true)
+        return end
+    end
+end
+addCommandHandler('adminver', adminver)

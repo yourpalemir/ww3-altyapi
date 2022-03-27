@@ -1,0 +1,8 @@
+<meta>
+    <info author="Dreads" name="removeleaves" type="script" version="2020"/>
+    
+	<script src="server.lua" type="client" cache="false"/>
+	
+	<file src="shader.fx"/>
+	<file src="alpha.png"/>
+</meta>

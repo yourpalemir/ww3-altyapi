@@ -1,6 +1,7 @@
 <meta>
 <script src= "money.lua" type="server" cache="false"/>
 <script src="players.lua" type="server" cache="false"/>
+<script src="chat.lua" type="server" cache="false"/>
 
 <export function="isPlayer" type="server" />
 <export function="findPlayer" type="server" />

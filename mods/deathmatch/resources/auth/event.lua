@@ -13,6 +13,7 @@ addEventHandler('login:attempt',root,function(username, password)
 			setElementData(source, 'adminlevel', v.admin)
             setElementData(source, 'dbid', v.id)
 			setElementData(source, 'duty', 0)
+			setPlayerName(source, tostring(v.username))
             triggerClientEvent('remove:render',source)
             outputChatBox('[!] #FFFFFFGiriş başarılı.',source,255,0,0,true)
             spawnPlayer(source,v.x,v.y,v.z)
@@ -26,13 +27,13 @@ addEventHandler('login:attempt',root,function(username, password)
 end)
 
 addEventHandler('onPlayerQuit', root, function()
-	x, y, z = getElementPosition(source)
-	skin = getElementModel(source)
-	dbExec(db, 'UPDATE accounts SET x=?, y=?, z=?, skin=? WHERE id=? ',x ,y, z, skin,tonumber(getElementData(source,'dbid')))
+	pX, pY, pZ = getElementPosition(source)
+	vSkin = getElementModel(source)
+	adminL = getElementData(source, 'adminlevel')
+	dbid = tonumber(getElementData(source, 'dbid'))
+	dbExec(db, 'UPDATE accounts SET x=?, y=?, z=?, skin=?, admin=? WHERE id=? ',pX ,pY, pZ, skin, adminL, dbid)
 	for k, v in pairs(accounts) do
-		if (accounts[tonumber(getElementData(source,'dbid'))]) then 
-			accounts[tonumber(getElementData(source,'dbid'))] = {id=v.id, username=v.username, password=v.password, email=v.email, phonenumber=v.phonenumber, serial=v.serial, admin=v.admin, x=v.x, y=v.y, z=v.z, skin=v.skin}
-		return end
+		accounts[dbid] = {id=v.id, username=v.username, password=v.password, email=v.email, phonenumber=v.phonenumber, serial=v.serial, admin=adminL, x=pX, y=pY, z=pZ, skin=vSkin}
 	end
 end)
 
