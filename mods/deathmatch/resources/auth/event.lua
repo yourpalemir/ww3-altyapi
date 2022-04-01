@@ -32,9 +32,7 @@ addEventHandler('onPlayerQuit', root, function()
 	adminL = getElementData(source, 'adminlevel')
 	dbid = tonumber(getElementData(source, 'dbid'))
 	dbExec(db, 'UPDATE accounts SET x=?, y=?, z=?, skin=?, admin=? WHERE id=? ',pX ,pY, pZ, skin, adminL, dbid)
-	for k, v in pairs(accounts) do
-		accounts[dbid] = {id=v.id, username=v.username, password=v.password, email=v.email, phonenumber=v.phonenumber, serial=v.serial, admin=adminL, x=pX, y=pY, z=pZ, skin=vSkin}
-	end
+	accounts[dbid] = {id=accounts.id, username=accounts.username, password=accounts.password, email=accounts.email, phonenumber=accounts.phonenumber, serial=accounts.serial, admin=adminL, x=pX, y=pY, z=pZ, skin=vSkin}
 end)
 
 
